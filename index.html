@@ -799,15 +799,12 @@ function renderAll() {
 }
 function buildModalBody(item) {
   const url = item.url && item.url !== "#" ? item.url : "";
-  const isAIGenerated = item.id >= 100;
-  const cleanSummary = (item.summary || "").replace(/<[^>]+>/g, "").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/\s+/g, " ").trim();
-  const fallbackPoints = [
-    "事件来源为真实抓取，摘要和分类由前端结构化呈现，便于快速浏览。",
-    "如需了解完整内容，可点击下方“查看原文”按钮跳转到原始来源。",
-    "建议结合同分类下的其他动态一起阅读，更容易形成完整认知。"
-  ];
-  const pointText = (item.keyPoints && item.keyPoints.length) ? item.keyPoints : fallbackPoints;
-  const sourceDomain = url ? (url.replace(/^https?:\/\//, "").split("/")[0]) : "";
+  const cleanSummary = (item.summary || "").replace(/<[^>]+>/g, "").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&apos;/g, "'").replace(/查看全文.*$/, "").replace(/阅读全文.*$/, "").replace(/[\s…]+$/, "").trim();
+  const sentences = cleanSummary.split(/(?<=[。！？!?\.])\s*/).filter(function(s) { return s.length >= 20 && s.length <= 120; });
+  const tldr = item.tldr || sentences[0] || cleanSummary.slice(0, 90);
+  const points = (item.keyPoints && item.keyPoints.length) ? item.keyPoints : sentences.slice(0, 3);
+  const worthReading = item.worthReading || "本文与 AI 行业动态相关，建议结合标题和摘要快速理解核心内容。";
+  const sourceDomain = url ? url.replace(/^https?:\/\//, "").split("/")[0] : "";
   return `
     <div class="modal-meta">
       <span class="tag">${item.category}</span>
@@ -817,25 +814,28 @@ function buildModalBody(item) {
     <h1 class="modal-title">${item.title}</h1>
     <div class="modal-source">
       <span>来源：${item.source}</span>
-      ${sourceDomain ? `<span>${sourceDomain}</span>` : ""}
-      <span>${isAIGenerated ? "AI 智能体生成" : "实时抓取"}</span>
+      ${sourceDomain ? '<span>' + sourceDomain + '</span>' : ""}
     </div>
     <div class="modal-section">
       <h3>TL;DR 一句话速览</h3>
-      <p>${cleanSummary.slice(0, 80) || "暂无摘要，建议查看原文了解详情。"}</p>
+      <p>${tldr || "暂无摘要，建议查看原文。"}</p>
     </div>
     <div class="modal-section">
-      <h3>详细摘要</h3>
-      <p>${cleanSummary || "本期暂无详细内容摘要。"}</p>
+      <h3>这条新闻讲了什么</h3>
+      <p>${worthReading}</p>
     </div>
     <div class="modal-section">
       <h3>关键看点</h3>
       <ul class="modal-keypoints">
-        ${pointText.map(function(p) { return "<li>" + p + "</li>"; }).join("")}
+        ${points.length ? points.map(function(p) { return "<li>" + p + "</li>"; }).join("") : "<li>暂无更多详情，建议查看原文</li>"}
       </ul>
     </div>
+    <div class="modal-section">
+      <h3>详细摘要</h3>
+      <p>${cleanSummary || "暂无详细内容摘要。"}</p>
+    </div>
     <div class="modal-footer">
-      <a class="modal-cta" href="${url || "#"}" target="_blank" rel="noopener noreferrer" ${url ? "" : "aria-disabled=\"true\""}>
+      <a class="modal-cta" href="${url || "#"}" target="_blank" rel="noopener noreferrer" ${url ? "" : 'aria-disabled="true"'}>
         <span>查看原文</span>
         <span class="modal-cta-arrow">→</span>
       </a>
