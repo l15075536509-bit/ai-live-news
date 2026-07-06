@@ -893,6 +893,32 @@ async function refreshLiveNews() {
     setTimeout(() => { document.getElementById("liveState").textContent = "正在监听"; }, 1800);
   }
 }
+async function loadNewsData() {
+  try {
+    const resp = await fetch("news.json", { cache: "no-store" });
+    if (!resp.ok) throw new Error("fetch failed");
+    const items = await resp.json();
+    if (Array.isArray(items) && items.length > 0 && items[0].title !== "等待真实新闻数据加载中...") {
+      newsData = items.map((item, i) => ({
+        id: item.id || i + 1,
+        category: item.category || "行业资本",
+        title: item.title || "未命名",
+        source: item.source || "AI 聚合",
+        summary: item.summary || "",
+        heat: item.heat || 70,
+        time: item.time || "最近",
+        url: item.url || "#"
+      }));
+      nextId = Math.max(...newsData.map(x => x.id), 0) + 1;
+      setSourceStatus("真实数据源", "online");
+      return;
+    }
+    throw new Error("占位数据");
+  } catch (e) {
+    console.warn("使用演示数据:", e.message);
+    setSourceStatus("演示模式", "offline");
+  }
+}
 function startAutoRefresh() {
   if (refreshTimer) clearInterval(refreshTimer);
   if (countdownTimer) clearInterval(countdownTimer);
