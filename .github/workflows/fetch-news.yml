@@ -1,0 +1,20 @@
+name: 定时抓取 AI 新闻
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: node scripts/fetch-news.js
+      - run: |
+          git config user.name github-actions
+          git diff --quiet HEAD --exit-code news.json || {
+            git add news.json
+            git commit -m "自动更新"
+            git push
+          }
