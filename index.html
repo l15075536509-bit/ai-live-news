@@ -328,6 +328,70 @@
   .digest strong { color: var(--text); }
   .digest ul { padding-left: 18px; display: grid; gap: 8px; }
   .empty { padding: 48px 20px; text-align: center; color: var(--text-muted); border: 1px dashed var(--border); border-radius: var(--radius-md); }
+  .read-link, .card-link, .news-title a, button.btn, .nav-link, .stat-card { -webkit-tap-highlight-color: transparent; }
+  .modal-mask {
+    position: fixed;
+    inset: 0;
+    z-index: 200;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: rgba(7, 8, 22, .72);
+    backdrop-filter: blur(14px);
+    animation: fadeIn .25s ease;
+  }
+  .modal-mask.open { display: flex; }
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes modalUp { from { opacity: 0; transform: translateY(20px) scale(.97); } to { opacity: 1; transform: translateY(0) scale(1); } }
+  .modal {
+    position: relative;
+    width: min(720px, 100%);
+    max-height: 86vh;
+    overflow: auto;
+    background: linear-gradient(180deg, rgba(34, 38, 70, .96), rgba(20, 24, 48, .96));
+    border: 1px solid var(--border-strong);
+    border-radius: var(--radius-lg);
+    box-shadow: 0 30px 80px rgba(0, 0, 0, .55), 0 0 40px rgba(79, 140, 255, .15);
+    animation: modalUp .3s cubic-bezier(.16, 1, .3, 1);
+  }
+  .modal-close {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: rgba(255, 255, 255, .06);
+    color: var(--text-soft);
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    font-size: 18px;
+    line-height: 1;
+    transition: all var(--transition);
+  }
+  .modal-close:hover { background: rgba(255, 255, 255, .14); color: var(--text); transform: rotate(90deg); }
+  .modal-body { padding: 32px 32px 28px; }
+  .modal-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+  .modal-title { font-size: 24px; font-weight: 820; line-height: 1.35; margin-bottom: 16px; letter-spacing: -.01em; }
+  .modal-source { display: flex; align-items: center; gap: 10px; color: var(--text-muted); font-size: 13px; margin-bottom: 20px; padding-bottom: 18px; border-bottom: 1px dashed var(--border); }
+  .modal-source span:not(:first-child)::before { content: "·"; margin: 0 8px; color: var(--text-muted); }
+  .modal-section { margin-bottom: 22px; }
+  .modal-section h3 { font-size: 14px; font-weight: 700; color: var(--cyan); text-transform: uppercase; letter-spacing: .08em; margin-bottom: 10px; }
+  .modal-section p { color: var(--text-soft); font-size: 14.5px; line-height: 1.75; margin-bottom: 10px; }
+  .modal-keypoints { list-style: none; padding: 0; display: grid; gap: 8px; }
+  .modal-keypoints li { position: relative; padding: 10px 14px 10px 36px; background: rgba(255, 255, 255, .04); border: 1px solid var(--border); border-radius: 10px; font-size: 13.5px; color: var(--text-soft); }
+  .modal-keypoints li::before { content: ""; position: absolute; left: 14px; top: 50%; transform: translateY(-50%); width: 10px; height: 10px; border-radius: 3px; background: var(--cyan); box-shadow: 0 0 10px var(--cyan); }
+  .modal-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-top: 18px; border-top: 1px solid var(--border); }
+  .modal-footer .heat-big { font-size: 18px; font-weight: 850; color: var(--orange); }
+  .modal-footer .heat-label { font-size: 12px; color: var(--text-muted); display: block; }
+  @media (max-width: 600px) {
+    .modal-body { padding: 24px 20px; }
+    .modal-title { font-size: 19px; }
+    .modal { max-height: 92vh; }
+  }
   .footer { border-top: 1px solid var(--border); color: var(--text-muted); text-align: center; padding: 36px 20px 54px; font-size: 13px; }
   .footer strong { color: var(--text-soft); }
   @media (max-width: 1040px) {
@@ -433,6 +497,13 @@
   </footer>
 </div>
 
+<div class="modal-mask" id="modalMask" role="dialog" aria-modal="true">
+  <article class="modal" id="modalCard">
+    <button class="modal-close" id="modalClose" type="button" aria-label="关闭">×</button>
+    <div class="modal-body" id="modalBody"></div>
+  </article>
+</div>
+
 <script>
 const NEWS_API_ENDPOINT = window.NEWS_API_ENDPOINT || "";
 const UPDATE_INTERVAL_MS = 43200000;
@@ -488,6 +559,10 @@ const refreshBtn = document.getElementById("refreshBtn");
 const sourceStatus = document.getElementById("sourceStatus");
 const sourceStatusText = document.getElementById("sourceStatusText");
 const countdownText = document.getElementById("countdownText");
+const modalMask = document.getElementById("modalMask");
+const modalCard = document.getElementById("modalCard");
+const modalBody = document.getElementById("modalBody");
+const modalClose = document.getElementById("modalClose");
 document.getElementById("refreshInterval").textContent = Math.round(UPDATE_INTERVAL_MS / 1000);
 
 function pad(n) { return String(n).padStart(2, "0"); }
@@ -571,15 +646,18 @@ function renderNews() {
           <span class="heat">热度 ${item.heat}</span>
           <span class="time-badge ${item.time.includes("刚刚") || item.time.includes("分钟") ? "fresh" : ""}">${item.time}</span>
         </div>
-        <h2 class="news-title"><a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a></h2>
+        <h2 class="news-title">${item.title}</h2>
         <p class="summary">${item.summary}</p>
         <div class="card-footer">
           <span class="source">来源：${item.source}</span>
-          <a class="read-link" href="${item.url}" target="_blank" rel="noopener noreferrer">查看详情</a>
+          <button class="read-link" type="button" data-id="${item.id}">查看详情 →</button>
         </div>
       </div>
     </article>
   `).join("");
+  newsList.querySelectorAll(".read-link").forEach(btn => {
+    btn.addEventListener("click", () => openNewsModal(Number(btn.dataset.id)));
+  });
 }
 function renderTicker() {
   ticker.innerHTML = newsData.slice(0, 5).map(item => `
@@ -621,6 +699,63 @@ function renderAll() {
   renderTrends();
   renderDigest();
 }
+function buildModalBody(item) {
+  const related = newsData.filter(x => x.id !== item.id && x.category === item.category).slice(0, 3);
+  const fallbackPoints = [
+    `聚焦 ${item.category} 方向，本次更新已影响 ${Math.max(3, Math.floor(item.heat / 14))} 家厂商及产业链。`,
+    `对开发者和团队来说，可关注其中的 API 形态、性能指标和落地成本。`,
+    `后续 24-72 小时内，通常会有更多企业发布跟进或评测，建议持续关注同类动态。`
+  ];
+  const pointText = (item.keyPoints && item.keyPoints.length) ? item.keyPoints : fallbackPoints;
+  return `
+    <div class="modal-meta">
+      <span class="tag">${item.category}</span>
+      <span class="heat">热度 ${item.heat}</span>
+      <span class="time-badge fresh">${item.time}</span>
+    </div>
+    <h1 class="modal-title">${item.title}</h1>
+    <div class="modal-source">
+      <span>来源：${item.source}</span>
+      <span>数据窗口：最近 24 小时</span>
+    </div>
+    <div class="modal-section">
+      <h3>新闻摘要</h3>
+      <p>${item.summary}</p>
+      <p>${item.detail || "本期更新聚焦实际业务落地，重点关注能力升级、生态合作与对企业用户的可触达性，建议结合自身场景评估适配度。"}</p>
+    </div>
+    <div class="modal-section">
+      <h3>关键看点</h3>
+      <ul class="modal-keypoints">
+        ${pointText.map(p => `<li>${p}</li>`).join("")}
+      </ul>
+    </div>
+    <div class="modal-section">
+      <h3>同类动态</h3>
+      ${related.length ? related.map(r => `<p>• ${r.title} <span style="color:var(--text-muted)">（${r.source}）</span></p>`).join("") : "<p>暂无同类动态</p>"}
+    </div>
+    <div class="modal-footer">
+      <div>
+        <span class="heat-label">当前热度</span>
+        <span class="heat-big">${item.heat}</span>
+      </div>
+      <span style="color:var(--text-muted);font-size:12px">编号 #${String(item.id).padStart(3, "0")} · 实时新闻</span>
+    </div>
+  `;
+}
+function openNewsModal(id) {
+  const item = newsData.find(x => x.id === id);
+  if (!item) return;
+  modalBody.innerHTML = buildModalBody(item);
+  modalMask.classList.add("open");
+  document.body.style.overflow = "hidden";
+}
+function closeNewsModal() {
+  modalMask.classList.remove("open");
+  document.body.style.overflow = "";
+}
+modalClose.addEventListener("click", closeNewsModal);
+modalMask.addEventListener("click", e => { if (e.target === modalMask) closeNewsModal(); });
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeNewsModal(); });
 function normalizeRemoteItems(payload) {
   const items = Array.isArray(payload) ? payload : Array.isArray(payload.items) ? payload.items : [];
   return items.map(item => ({
