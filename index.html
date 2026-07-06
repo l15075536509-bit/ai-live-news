@@ -918,9 +918,22 @@ async function loadNewsData() {
     throw new Error("empty data");
   } catch (e) {
     console.warn("使用演示数据:", e.message);
+    if (!newsData.length) {
+      newsData = showDemoData();
+    }
     setSourceStatus("演示模式", "offline");
   }
 }
+var showDemoData = function() {
+  return [
+    { id: 1, category: "模型发布", title: "国产多模态模型升级长上下文能力，支持图文混合推理与工具调用", source: "AI 模型观察", time: "2 分钟前", heat: 98, url: "#", summary: "新版本重点提升复杂文档理解、跨页信息检索和代码解释能力，面向企业知识库与智能客服场景开放 API。" },
+    { id: 2, category: "产品动态", title: "主流办公套件上线 AI 工作流助手，支持会议纪要到任务拆解", source: "产品情报站", time: "8 分钟前", heat: 93, url: "#", summary: "用户可在文档、表格和即时通讯之间自动同步任务，AI 会根据上下文生成跟进事项并提醒负责人。" },
+    { id: 3, category: "行业资本", title: "多家云厂商加码推理算力市场，低延迟 API 成为新竞争焦点", source: "产业快讯", time: "15 分钟前", heat: 91, url: "#", summary: "市场关注点从训练参数规模转向推理成本、稳定性、上下文窗口和企业级安全隔离能力。" },
+    { id: 4, category: "开源工具", title: "开源 Agent 框架新增可视化编排器，降低多工具调用调试成本", source: "GitHub 趋势", time: "22 分钟前", heat: 88, url: "#", summary: "新版本提供链路追踪、节点回放、人工确认和失败重试能力，适合客服、数据分析和研发助手场景。" },
+    { id: 5, category: "论文研究", title: "研究团队提出新的长上下文评测方法，强调跨段落证据一致性", source: "Paper Daily", time: "31 分钟前", heat: 86, url: "#", summary: "该方法通过多跳引用、冲突信息识别和时间线重建评估模型是否真正理解长文档。" },
+    { id: 6, category: "观点洞察", title: "从聊天机器人到业务 Agent：企业 AI 落地正在转向工具执行", source: "AI 商业评论", time: "42 分钟前", heat: 85, url: "#", summary: "评论认为，下一阶段 AI 产品价值不在于回答更长，而在于能否安全调用业务系统并完成闭环。" }
+  ];
+};
 function startAutoRefresh() {
   if (refreshTimer) clearInterval(refreshTimer);
   if (countdownTimer) clearInterval(countdownTimer);
