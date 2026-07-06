@@ -536,7 +536,7 @@ function renderStats() {
     card.addEventListener("click", () => {
       activeCategory = card.dataset.cat;
       renderAll();
-      document.getElementById("categoryNav").scrollIntoView({ behavior: "smooth", block: "nearest" });
+      document.getElementById("newsList").scrollIntoView({ behavior: "smooth", block: "start" });
     });
   });
   document.getElementById("totalCount").textContent = newsData.length;
