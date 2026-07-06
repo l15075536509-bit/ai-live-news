@@ -497,8 +497,12 @@ function updateClock() {
   document.getElementById("windowText").textContent = `${pad(d.getMonth()+1)}月${pad(d.getDate())}日 ${pad(d.getHours())}:00 前后`;
 }
 function updateCountdown() {
-  const remain = Math.max(0, Math.ceil((nextRefreshAt - Date.now()) / 1000));
-  countdownText.textContent = `${remain}s`;
+  const remain = Math.max(0, nextRefreshAt - Date.now());
+  const totalSec = Math.floor(remain / 1000);
+  const hours = Math.floor(totalSec / 3600);
+  const minutes = Math.floor((totalSec % 3600) / 60);
+  const seconds = totalSec % 60;
+  countdownText.textContent = `${hours}h ${String(minutes).padStart(2, "0")}m ${String(seconds).padStart(2, "0")}s`;
 }
 function setSourceStatus(text, state = "online") {
   sourceStatusText.textContent = text;
