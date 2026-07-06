@@ -167,7 +167,8 @@
     backdrop-filter: blur(20px);
     transition: transform var(--transition), border-color var(--transition), background var(--transition);
   }
-  .stat-card:hover { transform: translateY(-4px); border-color: var(--border-strong); background: var(--bg-card-hover); }
+  .stat-card:hover { transform: translateY(-4px); border-color: var(--border-strong); background: var(--bg-card-hover); cursor: pointer; }
+  .stat-card.active { background: rgba(0,212,255,.10); border-color: rgba(0,212,255,.45); }
   .stat-card::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: var(--accent); }
   .stat-num { font-size: 30px; font-weight: 850; line-height: 1; margin-bottom: 8px; }
   .stat-label { font-size: 12px; color: var(--text-soft); white-space: nowrap; }
@@ -526,11 +527,18 @@ function filteredData() {
 function renderStats() {
   const colors = ["#4f8cff", "#9b6dff", "#00d4ff", "#00e88f", "#ff9d45", "#ff5c8a"];
   statsGrid.innerHTML = categories.slice(1).map((cat, index) => `
-    <div class="stat-card" style="--accent:${colors[index]}">
+    <div class="stat-card ${activeCategory === cat.key ? "active" : ""}" data-cat="${cat.key}" style="--accent:${colors[index]}">
       <div class="stat-num">${getCount(cat.key)}</div>
       <div class="stat-label">${cat.label}</div>
     </div>
   `).join("");
+  statsGrid.querySelectorAll(".stat-card").forEach(card => {
+    card.addEventListener("click", () => {
+      activeCategory = card.dataset.cat;
+      renderAll();
+      document.getElementById("categoryNav").scrollIntoView({ behavior: "smooth", block: "nearest" });
+    });
+  });
   document.getElementById("totalCount").textContent = newsData.length;
 }
 function renderNav() {
