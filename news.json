@@ -1,12 +1,102 @@
 [
   {
     "id": 1,
-    "title": "等待真实新闻数据加载中...",
-    "url": "#",
-    "source": "AI 新闻聚合",
-    "summary": "新闻数据将在 GitHub Actions 执行后自动更新，预计 12 小时内完成首次抓取。",
+    "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+    "url": "https://sspai.com/post/111113",
+    "source": "少数派",
+    "summary": "但恰恰是这些取舍让我重新开始思考：什么才是真正重要的体验。&lt;a href=&#34;https://sspai.com/post/111113&#34; target=&#34;_blank&#34;&gt;查看全文&lt;/a&gt;",
+    "category": "观点洞察",
+    "heat": 98,
+    "time": "4 小时前"
+  },
+  {
+    "id": 2,
+    "title": "自动给文章术语加百科链接，这个方案一分钟搞定",
+    "url": "https://sspai.com/post/111702",
+    "source": "少数派",
+    "summary": "我给博客做了一个「术语小助手」，让陌生名词不再打断阅读。&lt;a href=&#34;https://sspai.com/post/111702&#34; target=&#34;_blank&#34;&gt;查看全文&lt;/a&gt;",
     "category": "行业资本",
-    "heat": 60,
-    "time": "最近"
+    "heat": 96,
+    "time": "7 小时前"
+  },
+  {
+    "id": 3,
+    "title": "派早报：阿里禁用 Claude 模型",
+    "url": "https://sspai.com/post/111973",
+    "source": "少数派",
+    "summary": "&lt;p&gt;阿里禁用 Claude 模型&lt;/p&gt;&lt;p&gt;索尼调整计划，2028 年前发售游戏可继续生产光盘&lt;/p&gt;&lt;p&gt;千问、豆包将下线智能体功能&lt;/p&gt;&lt;p&gt;Android 反垄断案欧洲终审败诉&lt;/p&gt;&lt;p&gt; 混动车、商用纯电车将不再免征车船税&lt;/p&gt;&lt;p&gt;电商法修正案征求",
+    "category": "模型发布",
+    "heat": 94,
+    "time": "11 小时前"
+  },
+  {
+    "id": 4,
+    "title": "背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」",
+    "url": "https://sspai.com/post/111632",
+    "source": "少数派",
+    "summary": "每个单词都认识，为什么还是读不懂英文？&lt;a href=&#34;https://sspai.com/post/111632&#34; target=&#34;_blank&#34;&gt;查看全文&lt;/a&gt;",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "1 天前"
+  },
+  {
+    "id": 5,
+    "title": "[送码] 聆听用户建议，1Capture 新增多项实用截图功能",
+    "url": "https://sspai.com/post/111645",
+    "source": "少数派",
+    "summary": "各位少数派的朋友好，距离上一次在少数派介绍1Capture已经过去一年。过去这段时间里，我们开发的这款Mac截图与录屏工具继续做了多轮更新，也根据用户反馈补齐了一些更适合团队协作和产品展示的功能。市场 ...&lt;a href=&#34;https://sspai.com/post/111645&#34; target=&#34;_blank&#34;&gt;查看全文&lt;/a&gt;",
+    "category": "产品动态",
+    "heat": 90,
+    "time": "2 天前"
+  },
+  {
+    "id": 6,
+    "title": "住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路",
+    "url": "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
+    "source": "少数派",
+    "summary": "前文回顾：租房常见问题与我的改造原则从有光的地方开始动手打造能好好放松的卧室只要你的房子还有分区可言，那正常情况下就一定有一个可以称之为客厅的区域。在第一篇文章中我已经提到，对我们很多人来说，客厅可能 ...&lt;a href=&#34;https://sspai.com/prime/story/how-to-design-a-rental-living-room&#34; target=&#3",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "3 天前"
+  },
+  {
+    "id": 7,
+    "title": "本周看什么 | 最近值得一看的 11 部作品",
+    "url": "https://sspai.com/post/111917",
+    "source": "少数派",
+    "summary": "📅本周新预告《奥德赛》终极预告7月1日，克里斯托弗·诺兰导演新作《奥德赛》发布了终极预告，北美7月17日、中国内地8月14日上映。马特·达蒙、汤姆·霍兰德、安妮·海瑟薇、赞达亚、露皮塔·尼永奥、罗伯特 ...&lt;a href=&#34;https://sspai.com/post/111917&#34; target=&#34;_blank&#34;&gt;查看全文&lt;/a&gt;",
+    "category": "模型发布",
+    "heat": 86,
+    "time": "3 天前"
+  },
+  {
+    "id": 8,
+    "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+    "url": "https://sspai.com/post/111405",
+    "source": "少数派",
+    "summary": "敬「少许的牺牲是必要的」。&lt;a href=&#34;https://sspai.com/post/111405&#34; target=&#34;_blank&#34;&gt;查看全文&lt;/a&gt;",
+    "category": "行业资本",
+    "heat": 84,
+    "time": "3 天前"
+  },
+  {
+    "id": 9,
+    "title": "这四个工作习惯，或许也能帮你找到掌控感",
+    "url": "https://sspai.com/post/111708",
+    "source": "少数派",
+    "summary": "无论你追求的是更高的职位、更自由的时间、还是某种更纯粹的成就感，有一件事大概是共通的：那就是尽量让自己的人生，少一点完全依赖运气的成分，多一点可被掌控、可被验证的路径。&lt;a href=&#34;https://sspai.com/post/111708&#34; target=&#34;_blank&#34;&gt;查看全文&lt;/a&gt;",
+    "category": "行业资本",
+    "heat": 82,
+    "time": "3 天前"
+  },
+  {
+    "id": 10,
+    "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+    "url": "https://sspai.com/post/110950",
+    "source": "少数派",
+    "summary": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...&lt;a href=&#34;https://sspai.com/post/110950&#34; target=&#34;_blank&#34;&gt;查看全文&lt;/a&gt;",
+    "category": "开源工具",
+    "heat": 80,
+    "time": "4 天前"
   }
 ]
