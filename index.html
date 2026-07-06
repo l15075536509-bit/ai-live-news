@@ -894,26 +894,28 @@ async function refreshLiveNews() {
   }
 }
 async function loadNewsData() {
+  const cacheBuster = "?v=" + Date.now();
   try {
-    const resp = await fetch("news.json", { cache: "no-store" });
-    if (!resp.ok) throw new Error("fetch failed");
+    const resp = await fetch("news.json" + cacheBuster);
+    if (!resp.ok) throw new Error("HTTP " + resp.status);
     const items = await resp.json();
-    if (Array.isArray(items) && items.length > 0 && items[0].title !== "等待真实新闻数据加载中...") {
+    if (Array.isArray(items) && items.length > 0) {
       newsData = items.map((item, i) => ({
         id: item.id || i + 1,
         category: item.category || "行业资本",
         title: item.title || "未命名",
         source: item.source || "AI 聚合",
-        summary: item.summary || "",
+        summary: (item.summary || "").replace(/<[^>]+>/g, "").trim().slice(0, 180),
         heat: item.heat || 70,
         time: item.time || "最近",
         url: item.url || "#"
       }));
-      nextId = Math.max(...newsData.map(x => x.id), 0) + 1;
+      nextId = Math.max(...newsData.map(function(x) { return x.id; }), 0) + 1;
+      console.log("真实新闻加载成功:", newsData.length, "条");
       setSourceStatus("真实数据源", "online");
       return;
     }
-    throw new Error("占位数据");
+    throw new Error("empty data");
   } catch (e) {
     console.warn("使用演示数据:", e.message);
     setSourceStatus("演示模式", "offline");
