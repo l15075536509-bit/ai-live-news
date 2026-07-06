@@ -346,6 +346,14 @@
   .digest ul { padding-left: 18px; display: grid; gap: 8px; }
   .empty { padding: 48px 20px; text-align: center; color: var(--text-muted); border: 1px dashed var(--border); border-radius: var(--radius-md); }
   .read-link, .card-link, .news-title a, button.btn, .nav-link, .stat-card { -webkit-tap-highlight-color: transparent; }
+  .card-actions { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .read-link--ghost {
+    background: transparent;
+    border-color: var(--border);
+    color: var(--text-soft);
+    box-shadow: none;
+  }
+  .read-link--ghost:hover { background: rgba(255, 255, 255, .08); color: var(--text); border-color: var(--border-strong); }
   .modal-mask {
     position: fixed;
     inset: 0;
@@ -404,6 +412,35 @@
   .modal-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-top: 18px; border-top: 1px solid var(--border); }
   .modal-footer .heat-big { font-size: 18px; font-weight: 850; color: var(--orange); }
   .modal-footer .heat-label { font-size: 12px; color: var(--text-muted); display: block; }
+  .modal-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 11px 22px;
+    border-radius: 999px;
+    color: #ffffff;
+    background: linear-gradient(135deg, var(--blue), var(--purple));
+    border: 1px solid rgba(255, 255, 255, .12);
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+    box-shadow: 0 6px 20px rgba(79, 140, 255, .35);
+    transition: transform var(--transition), box-shadow var(--transition), filter var(--transition);
+  }
+  .modal-cta:hover { transform: translateY(-1px); box-shadow: 0 10px 28px rgba(79, 140, 255, .45); filter: brightness(1.1); }
+  .modal-cta[aria-disabled="true"] { opacity: .4; pointer-events: none; }
+  .modal-cta-arrow { font-weight: 600; transition: transform var(--transition); }
+  .modal-cta:hover .modal-cta-arrow { transform: translateX(3px); }
+  .modal-stats { text-align: right; }
+  .news-title-link {
+    color: var(--text);
+    text-decoration: none;
+    background-image: linear-gradient(transparent 95%, rgba(0, 212, 255, .35) 95%);
+    background-size: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size .3s ease, color var(--transition);
+  }
+  .news-title-link:hover { color: var(--cyan); background-size: 100% 100%; }
   @media (max-width: 600px) {
     .modal-body { padding: 24px 20px; }
     .modal-title { font-size: 19px; }
@@ -702,19 +739,22 @@ function renderNews() {
         <div class="card-top">
           <span class="tag">${item.category}</span>
           <span class="heat">热度 ${item.heat}</span>
-          <span class="time-badge ${item.time.includes("刚刚") || item.time.includes("分钟") ? "fresh" : ""}">${item.time}</span>
+          <span class="time-badge ${item.time.includes("刚刚") || item.time.includes("分钟") || item.time.includes("小时") ? "fresh" : ""}">${item.time}</span>
         </div>
-        <h2 class="news-title">${item.title}</h2>
+        <h2 class="news-title"><a class="news-title-link" href="${item.url && item.url !== "#" ? item.url : "#"}" target="_blank" rel="noopener noreferrer">${item.title}</a></h2>
         <p class="summary">${item.summary}</p>
         <div class="card-footer">
           <span class="source">来源：${item.source}</span>
-          <button class="read-link" type="button" data-id="${item.id}">查看详情 →</button>
+          <div class="card-actions">
+            <button class="read-link" type="button" data-id="${item.id}">查看详情</button>
+            ${item.url && item.url !== "#" ? '<a class="read-link read-link--ghost" href="' + item.url + '" target="_blank" rel="noopener noreferrer">查看原文 →</a>' : ""}
+          </div>
         </div>
       </div>
     </article>
   `).join("");
-  newsList.querySelectorAll(".read-link").forEach(btn => {
-    btn.addEventListener("click", () => openNewsModal(Number(btn.dataset.id)));
+  newsList.querySelectorAll(".read-link[data-id]").forEach(function(btn) {
+    btn.addEventListener("click", function() { openNewsModal(Number(btn.dataset.id)); });
   });
 }
 function renderTicker() {
@@ -758,13 +798,16 @@ function renderAll() {
   renderDigest();
 }
 function buildModalBody(item) {
-  const related = newsData.filter(x => x.id !== item.id && x.category === item.category).slice(0, 3);
+  const url = item.url && item.url !== "#" ? item.url : "";
+  const isAIGenerated = item.id >= 100;
+  const cleanSummary = (item.summary || "").replace(/<[^>]+>/g, "").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/\s+/g, " ").trim();
   const fallbackPoints = [
-    `聚焦 ${item.category} 方向，本次更新已影响 ${Math.max(3, Math.floor(item.heat / 14))} 家厂商及产业链。`,
-    `对开发者和团队来说，可关注其中的 API 形态、性能指标和落地成本。`,
-    `后续 24-72 小时内，通常会有更多企业发布跟进或评测，建议持续关注同类动态。`
+    "事件来源为真实抓取，摘要和分类由前端结构化呈现，便于快速浏览。",
+    "如需了解完整内容，可点击下方“查看原文”按钮跳转到原始来源。",
+    "建议结合同分类下的其他动态一起阅读，更容易形成完整认知。"
   ];
   const pointText = (item.keyPoints && item.keyPoints.length) ? item.keyPoints : fallbackPoints;
+  const sourceDomain = url ? (url.replace(/^https?:\/\//, "").split("/")[0]) : "";
   return `
     <div class="modal-meta">
       <span class="tag">${item.category}</span>
@@ -774,29 +817,32 @@ function buildModalBody(item) {
     <h1 class="modal-title">${item.title}</h1>
     <div class="modal-source">
       <span>来源：${item.source}</span>
-      <span>数据窗口：最近 24 小时</span>
+      ${sourceDomain ? `<span>${sourceDomain}</span>` : ""}
+      <span>${isAIGenerated ? "AI 智能体生成" : "实时抓取"}</span>
     </div>
     <div class="modal-section">
-      <h3>新闻摘要</h3>
-      <p>${item.summary}</p>
-      <p>${item.detail || "本期更新聚焦实际业务落地，重点关注能力升级、生态合作与对企业用户的可触达性，建议结合自身场景评估适配度。"}</p>
+      <h3>TL;DR 一句话速览</h3>
+      <p>${cleanSummary.slice(0, 80) || "暂无摘要，建议查看原文了解详情。"}</p>
+    </div>
+    <div class="modal-section">
+      <h3>详细摘要</h3>
+      <p>${cleanSummary || "本期暂无详细内容摘要。"}</p>
     </div>
     <div class="modal-section">
       <h3>关键看点</h3>
       <ul class="modal-keypoints">
-        ${pointText.map(p => `<li>${p}</li>`).join("")}
+        ${pointText.map(function(p) { return "<li>" + p + "</li>"; }).join("")}
       </ul>
     </div>
-    <div class="modal-section">
-      <h3>同类动态</h3>
-      ${related.length ? related.map(r => `<p>• ${r.title} <span style="color:var(--text-muted)">（${r.source}）</span></p>`).join("") : "<p>暂无同类动态</p>"}
-    </div>
     <div class="modal-footer">
-      <div>
-        <span class="heat-label">当前热度</span>
-        <span class="heat-big">${item.heat}</span>
+      <a class="modal-cta" href="${url || "#"}" target="_blank" rel="noopener noreferrer" ${url ? "" : "aria-disabled=\"true\""}>
+        <span>查看原文</span>
+        <span class="modal-cta-arrow">→</span>
+      </a>
+      <div class="modal-stats">
+        <div class="heat-label">热度</div>
+        <div class="heat-big">${item.heat}</div>
       </div>
-      <span style="color:var(--text-muted);font-size:12px">编号 #${String(item.id).padStart(3, "0")} · 实时新闻</span>
     </div>
   `;
 }
