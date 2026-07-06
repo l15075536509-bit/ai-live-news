@@ -855,8 +855,7 @@ document.addEventListener("visibilitychange", () => {
   if (!document.hidden) refreshLiveNews();
 });
 updateClock();
-renderAll();
-startAutoRefresh();
+loadNewsData().then(() => { renderAll(); startAutoRefresh(); });
 setInterval(updateClock, 1000);
 </script>
 </body>
