@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 实时新闻中心</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --bg-primary: #0f1020;
+    --bg-secondary: #17182c;
+    --bg-card: rgba(255, 255, 255, 0.055);
+    --bg-card-hover: rgba(255, 255, 255, 0.09);
+    --border: rgba(255, 255, 255, 0.10);
+    --border-strong: rgba(255, 255, 255, 0.20);
+    --text: #f5f6ff;
+    --text-soft: #b6bad3;
+    --text-muted: #747990;
+    --blue: #4f8cff;
+    --purple: #9b6dff;
+    --cyan: #00d4ff;
+    --green: #00e88f;
+    --orange: #ff9d45;
+    --pink: #ff5c8a;
+    --red: #ff5f68;
+    --radius-sm: 10px;
+    --radius-md: 14px;
+    --radius-lg: 22px;
+    --shadow: 0 18px 60px rgba(0,0,0,.28);
+    --transition: .28s cubic-bezier(.16,1,.3,1);
+  }
+  html { scroll-behavior: smooth; }
+  body {
+    min-height: 100vh;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+    color: var(--text);
+    background: var(--bg-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+  }
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    background:
+      radial-gradient(ellipse 70% 45% at 20% 0%, rgba(79,140,255,.15), transparent 55%),
+      radial-gradient(ellipse 62% 44% at 82% 4%, rgba(155,109,255,.13), transparent 58%),
+      radial-gradient(ellipse 64% 44% at 50% 92%, rgba(0,212,255,.08), transparent 55%);
+  }
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    opacity: .22;
+    background-image:
+      linear-gradient(rgba(255,255,255,.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
+    background-size: 48px 48px;
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,.7), transparent 80%);
+  }
+  .page { position: relative; z-index: 1; }
+  .container { max-width: 1280px; margin: 0 auto; padding: 0 24px; }
+  .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    border-bottom: 1px solid var(--border);
+    background: rgba(15,16,32,.78);
+    backdrop-filter: blur(22px);
+  }
+  .topbar-inner {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 12px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .brand { display: flex; align-items: center; gap: 10px; font-weight: 800; letter-spacing: -.02em; }
+  .brand-mark {
+    width: 30px;
+    height: 30px;
+    border-radius: 9px;
+    background: linear-gradient(135deg, var(--blue), var(--purple));
+    display: grid;
+    place-items: center;
+    box-shadow: 0 0 28px rgba(79,140,255,.3);
+  }
+  .brand-mark::before { content: "AI"; font-size: 11px; font-weight: 900; color: white; }
+  .top-actions { display: flex; align-items: center; gap: 10px; color: var(--text-soft); font-size: 13px; }
+  .refresh-countdown { color: var(--cyan); font-weight: 800; }
+  .status-offline { border-color: rgba(255,95,104,.35) !important; background: rgba(255,95,104,.10) !important; color: #ffd2d5 !important; }
+  .status-syncing { border-color: rgba(255,157,69,.36) !important; background: rgba(255,157,69,.10) !important; color: #ffe0c8 !important; }
+  .live-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    border: 1px solid rgba(0,232,143,.28);
+    background: rgba(0,232,143,.08);
+    color: #c6ffe9;
+  }
+  .live-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--green);
+    box-shadow: 0 0 12px var(--green);
+    animation: pulse 1.8s ease-in-out infinite;
+  }
+  @keyframes pulse { 50% { transform: scale(1.45); opacity: .55; } }
+  .hero { padding: 64px 0 34px; text-align: center; }
+  .eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 20px;
+    padding: 7px 16px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: var(--bg-card);
+    color: var(--text-soft);
+    font-size: 14px;
+    backdrop-filter: blur(18px);
+  }
+  .eyebrow::before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--cyan);
+    box-shadow: 0 0 14px var(--cyan);
+  }
+  h1 {
+    font-size: clamp(38px, 5vw, 62px);
+    line-height: 1.1;
+    letter-spacing: -.045em;
+    margin-bottom: 16px;
+    background: linear-gradient(135deg, #fff 0%, #d9dcff 45%, #8ab7ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .hero-subtitle { color: var(--text-soft); font-size: 18px; max-width: 720px; margin: 0 auto 12px; }
+  .hero-meta { color: var(--text-muted); font-size: 14px; }
+  .hero-meta strong { color: var(--cyan); font-size: 16px; }
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 14px;
+    margin: 36px 0 28px;
+  }
+  .stat-card {
+    position: relative;
+    overflow: hidden;
+    padding: 20px 14px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: var(--bg-card);
+    text-align: center;
+    backdrop-filter: blur(20px);
+    transition: transform var(--transition), border-color var(--transition), background var(--transition);
+  }
+  .stat-card:hover { transform: translateY(-4px); border-color: var(--border-strong); background: var(--bg-card-hover); }
+  .stat-card::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: var(--accent); }
+  .stat-num { font-size: 30px; font-weight: 850; line-height: 1; margin-bottom: 8px; }
+  .stat-label { font-size: 12px; color: var(--text-soft); white-space: nowrap; }
+  .toolbar {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 14px;
+    align-items: center;
+    margin: 12px 0 24px;
+  }
+  .search-wrap { position: relative; }
+  .search-wrap::before { content: ""; position: absolute; left: 17px; top: 50%; width: 8px; height: 8px; border: 2px solid var(--text-muted); border-radius: 50%; transform: translateY(-55%); }
+  .search-wrap::after { content: ""; position: absolute; left: 28px; top: 53%; width: 8px; height: 2px; background: var(--text-muted); transform: rotate(45deg); transform-origin: left center; }
+  .search-input {
+    width: 100%;
+    height: 48px;
+    padding: 0 16px 0 46px;
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    outline: none;
+    background: var(--bg-card);
+    backdrop-filter: blur(18px);
+    transition: border-color var(--transition), background var(--transition);
+  }
+  .search-input:focus { border-color: rgba(0,212,255,.45); background: rgba(255,255,255,.08); }
+  .btn {
+    height: 48px;
+    padding: 0 18px;
+    border: 1px solid rgba(79,140,255,.45);
+    border-radius: 999px;
+    color: white;
+    cursor: pointer;
+    background: linear-gradient(135deg, var(--blue), var(--purple));
+    font-weight: 700;
+    transition: transform var(--transition), filter var(--transition);
+  }
+  .btn:hover { transform: translateY(-2px); filter: brightness(1.08); }
+  .nav-links {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 0 0 16px;
+    scrollbar-width: none;
+  }
+  .nav-links::-webkit-scrollbar { display: none; }
+  .nav-link {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 14px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    color: var(--text-soft);
+    text-decoration: none;
+    background: var(--bg-card);
+    font-size: 13px;
+    cursor: pointer;
+    transition: all var(--transition);
+  }
+  .nav-link.active, .nav-link:hover { color: var(--text); border-color: rgba(0,212,255,.36); background: rgba(0,212,255,.09); }
+  .nav-count { min-width: 20px; padding: 1px 6px; border-radius: 999px; background: rgba(255,255,255,.11); text-align: center; font-size: 11px; font-weight: 800; }
+  .layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 340px;
+    gap: 22px;
+    align-items: start;
+    padding-bottom: 72px;
+  }
+  .panel {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    background: rgba(255,255,255,.045);
+    backdrop-filter: blur(20px);
+    box-shadow: var(--shadow);
+  }
+  .panel-head {
+    padding: 20px 22px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  .panel-title { font-size: 18px; font-weight: 820; letter-spacing: -.02em; }
+  .panel-note { font-size: 12px; color: var(--text-muted); }
+  .news-list { padding: 18px; display: grid; gap: 14px; }
+  .news-card {
+    display: grid;
+    grid-template-columns: 48px minmax(0, 1fr);
+    gap: 15px;
+    padding: 18px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: rgba(255,255,255,.038);
+    transition: transform var(--transition), border-color var(--transition), background var(--transition), box-shadow var(--transition);
+    animation: cardIn .4s ease both;
+  }
+  @keyframes cardIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+  .news-card:hover { transform: translateY(-3px); border-color: var(--border-strong); background: var(--bg-card-hover); box-shadow: 0 12px 42px rgba(0,0,0,.22); }
+  .rank {
+    width: 42px;
+    height: 42px;
+    border-radius: 13px;
+    display: grid;
+    place-items: center;
+    color: white;
+    font-weight: 850;
+    background: linear-gradient(135deg, var(--blue), var(--purple));
+  }
+  .card-top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+  .tag, .heat, .time-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    height: 23px;
+    padding: 0 9px;
+    border-radius: 999px;
+    font-size: 11px;
+    color: var(--text-soft);
+    border: 1px solid var(--border);
+    background: rgba(255,255,255,.05);
+  }
+  .tag { color: #c7f4ff; border-color: rgba(0,212,255,.18); background: rgba(0,212,255,.08); }
+  .heat { color: #ffd6c0; border-color: rgba(255,157,69,.22); background: rgba(255,157,69,.08); }
+  .time-badge.fresh { color: #bcffe4; border-color: rgba(0,232,143,.25); background: rgba(0,232,143,.08); }
+  .news-title { font-size: 16px; line-height: 1.45; margin-bottom: 8px; font-weight: 780; }
+  .news-title a { color: var(--text); text-decoration: none; }
+  .news-title a:hover { color: var(--cyan); }
+  .summary { color: var(--text-soft); font-size: 13px; margin-bottom: 12px; }
+  .card-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; color: var(--text-muted); font-size: 12px; }
+  .source { max-width: 62%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .read-link { color: var(--cyan); text-decoration: none; font-weight: 700; white-space: nowrap; }
+  .side { position: sticky; top: 82px; display: grid; gap: 16px; }
+  .side-card { padding: 18px; }
+  .side-title { font-size: 15px; font-weight: 820; margin-bottom: 14px; }
+  .ticker { display: grid; gap: 10px; }
+  .ticker-item {
+    padding: 12px;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    background: rgba(255,255,255,.04);
+  }
+  .ticker-time { font-size: 11px; color: var(--green); margin-bottom: 4px; }
+  .ticker-text { font-size: 12px; color: var(--text-soft); }
+  .trend-list { display: grid; gap: 12px; }
+  .trend-item { display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: center; font-size: 13px; color: var(--text-soft); }
+  .trend-no { color: var(--text-muted); font-weight: 850; }
+  .bar { height: 6px; border-radius: 999px; background: rgba(255,255,255,.08); overflow: hidden; margin-top: 5px; }
+  .bar span { display: block; height: 100%; border-radius: 999px; background: linear-gradient(90deg, var(--cyan), var(--blue)); }
+  .trend-score { font-size: 12px; color: var(--orange); font-weight: 850; }
+  .digest {
+    color: var(--text-soft);
+    font-size: 13px;
+  }
+  .digest strong { color: var(--text); }
+  .digest ul { padding-left: 18px; display: grid; gap: 8px; }
+  .empty { padding: 48px 20px; text-align: center; color: var(--text-muted); border: 1px dashed var(--border); border-radius: var(--radius-md); }
+  .footer { border-top: 1px solid var(--border); color: var(--text-muted); text-align: center; padding: 36px 20px 54px; font-size: 13px; }
+  .footer strong { color: var(--text-soft); }
+  @media (max-width: 1040px) {
+    .stats-grid { grid-template-columns: repeat(3, 1fr); }
+    .layout { grid-template-columns: 1fr; }
+    .side { position: static; grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (max-width: 760px) {
+    .container, .topbar-inner { padding-left: 16px; padding-right: 16px; }
+    .topbar-inner { align-items: flex-start; flex-direction: column; }
+    .top-actions { width: 100%; justify-content: space-between; flex-wrap: wrap; }
+    .hero { padding-top: 34px; text-align: left; }
+    .eyebrow { font-size: 12px; }
+    h1 { font-size: clamp(34px, 12vw, 46px); }
+    .hero-subtitle { font-size: 15px; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    .stat-card { padding: 16px 10px; }
+    .toolbar { grid-template-columns: 1fr; }
+    .btn { width: 100%; }
+    .panel-head { align-items: flex-start; flex-direction: column; }
+    .news-list { padding: 12px; gap: 12px; }
+    .news-card { grid-template-columns: 1fr; padding: 15px; }
+    .rank { width: 36px; height: 36px; border-radius: 11px; }
+    .card-footer { align-items: flex-start; flex-direction: column; }
+    .source { max-width: 100%; }
+    .side { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 420px) {
+    .container, .topbar-inner { padding-left: 12px; padding-right: 12px; }
+    .stats-grid { grid-template-columns: 1fr; }
+    .nav-link { padding: 7px 11px; font-size: 12px; }
+    .hero { padding-bottom: 22px; }
+    .news-title { font-size: 15px; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand"><span class="brand-mark"></span><span>AI 实时新闻中心</span></div>
+      <div class="top-actions">
+        <span class="live-pill" id="sourceStatus"><span class="live-dot"></span><span id="sourceStatusText">实时监控中</span></span>
+        <span class="last-update">最后更新：<span id="lastUpdate">--:--:--</span></span>
+        <span class="last-update">下次刷新：<span class="refresh-countdown" id="countdownText">30s</span></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div class="eyebrow" id="todayText">AI News · Today</div>
+      <h1>AI 实时新闻仪表盘</h1>
+      <p class="hero-subtitle">聚合模型发布、产品动态、行业资本、开源工具、论文研究与观点洞察，自动生成摘要与热度排序。</p>
+      <p class="hero-meta">当前收录 <strong id="totalCount">0</strong> 条 · 数据窗口 <span id="windowText">最近 24 小时</span> · 每 <strong id="refreshInterval">12</strong> 小时自动刷新 · 支持电脑/手机自适应</p>
+
+      <div class="stats-grid" id="statsGrid"></div>
+    </section>
+
+    <section class="toolbar">
+      <div class="search-wrap">
+        <input class="search-input" id="searchInput" placeholder="搜索模型、公司、产品、论文、来源..." autocomplete="off">
+      </div>
+      <button class="btn" id="refreshBtn">立即刷新</button>
+    </section>
+
+    <nav class="nav-links" id="categoryNav"></nav>
+
+    <section class="layout">
+      <div class="panel">
+        <div class="panel-head">
+          <div>
+            <div class="panel-title" id="feedTitle">全部动态</div>
+            <div class="panel-note" id="feedNote">按热度与时间综合排序</div>
+          </div>
+          <div class="live-pill"><span class="live-dot"></span><span id="liveState">正在监听</span></div>
+        </div>
+        <div class="news-list" id="newsList"></div>
+      </div>
+
+      <aside class="side">
+        <section class="panel side-card">
+          <div class="side-title">实时更新流</div>
+          <div class="ticker" id="ticker"></div>
+        </section>
+        <section class="panel side-card">
+          <div class="side-title">热度雷达</div>
+          <div class="trend-list" id="trendList"></div>
+        </section>
+        <section class="panel side-card">
+          <div class="side-title">AI 摘要</div>
+          <div class="digest">
+            <ul id="digestList"></ul>
+          </div>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>实时新闻网站 · 支持配置真实接口轮询；没有接口时自动使用本地模拟数据兜底。</p>
+    <p>页面结构复刻 AI 日报仪表盘风格，并增强搜索、分类、热度榜、实时刷新、移动端适配与摘要模块。</p>
+  </footer>
+</div>
+
+<script>
+const NEWS_API_ENDPOINT = window.NEWS_API_ENDPOINT || "";
+const UPDATE_INTERVAL_MS = 43200000;
+const categories = [
+  { key: "全部", label: "全部", color: "#4f8cff" },
+  { key: "模型发布", label: "模型发布", color: "#9b6dff" },
+  { key: "产品动态", label: "产品动态", color: "#00d4ff" },
+  { key: "行业资本", label: "行业资本", color: "#00e88f" },
+  { key: "开源工具", label: "开源工具", color: "#ff9d45" },
+  { key: "论文研究", label: "论文研究", color: "#ff5c8a" },
+  { key: "观点洞察", label: "观点洞察", color: "#ff5f68" }
+];
+
+let newsData = [
+  { id: 1, category: "模型发布", title: "国产多模态模型升级长上下文能力，支持图文混合推理与工具调用", source: "AI 模型观察", time: "2 分钟前", heat: 98, url: "#", summary: "新版本重点提升复杂文档理解、跨页信息检索和代码解释能力，面向企业知识库与智能客服场景开放 API。" },
+  { id: 2, category: "产品动态", title: "主流办公套件上线 AI 工作流助手，支持会议纪要到任务拆解", source: "产品情报站", time: "8 分钟前", heat: 93, url: "#", summary: "用户可在文档、表格和即时通讯之间自动同步任务，AI 会根据上下文生成跟进事项并提醒负责人。" },
+  { id: 3, category: "行业资本", title: "多家云厂商加码推理算力市场，低延迟 API 成为新竞争焦点", source: "产业快讯", time: "15 分钟前", heat: 91, url: "#", summary: "市场关注点从训练参数规模转向推理成本、稳定性、上下文窗口和企业级安全隔离能力。" },
+  { id: 4, category: "开源工具", title: "开源 Agent 框架新增可视化编排器，降低多工具调用调试成本", source: "GitHub 趋势", time: "22 分钟前", heat: 88, url: "#", summary: "新版本提供链路追踪、节点回放、人工确认和失败重试能力，适合客服、数据分析和研发助手场景。" },
+  { id: 5, category: "论文研究", title: "研究团队提出新的长上下文评测方法，强调跨段落证据一致性", source: "Paper Daily", time: "31 分钟前", heat: 86, url: "#", summary: "该方法通过多跳引用、冲突信息识别和时间线重建评估模型是否真正理解长文档。" },
+  { id: 6, category: "观点洞察", title: "从聊天机器人到业务 Agent：企业 AI 落地正在转向工具执行", source: "AI 商业评论", time: "42 分钟前", heat: 85, url: "#", summary: "评论认为，下一阶段 AI 产品价值不在于回答更长，而在于能否安全调用业务系统并完成闭环。" },
+  { id: 7, category: "模型发布", title: "轻量级代码模型更新，强化本地 IDE 补全与仓库级检索", source: "开发者周报", time: "55 分钟前", heat: 82, url: "#", summary: "模型面向中小团队本地部署，主打低显存、低延迟和对私有代码仓库的安全适配。" },
+  { id: 8, category: "产品动态", title: "浏览器厂商测试 AI 标签页总结，可自动提取网页中的关键决策点", source: "前沿产品", time: "1 小时前", heat: 80, url: "#", summary: "功能支持把多个网页内容合并为一份结构化摘要，并生成待办、风险点和引用来源。" },
+  { id: 9, category: "行业资本", title: "AI 客服供应商完成新一轮融资，重点投入电商售后自动化", source: "投融资雷达", time: "1 小时前", heat: 79, url: "#", summary: "公司表示将加强订单查询、物流追踪、退换货处理和人工客服协同，提升复杂售后问题解决率。" },
+  { id: 10, category: "开源工具", title: "向量数据库工具链加入混合检索模板，支持 BM25 与语义检索融合", source: "开源情报", time: "2 小时前", heat: 76, url: "#", summary: "模板提供重排序、召回评估和分块策略对比，适合搭建 RAG 知识库和企业搜索。" },
+  { id: 11, category: "论文研究", title: "新论文分析 RAG 幻觉来源：检索缺失与生成过度自信是主要原因", source: "研究前线", time: "2 小时前", heat: 74, url: "#", summary: "研究建议在回答中加入引用证据、置信度与失败兜底策略，避免模型在资料不足时强行生成。" },
+  { id: 12, category: "观点洞察", title: "AI 产品经理开始重视评测闭环：上线前必须定义可量化成功标准", source: "产品方法论", time: "3 小时前", heat: 71, url: "#", summary: "观点指出，提示词优化只是局部工作，真正稳定的 AI 产品需要数据集、评测、灰度和用户反馈闭环。" },
+  { id: 13, category: "产品动态", title: "设计工具推出 AI 原型生成，可从需求文档直接生成交互页面", source: "设计工具观察", time: "3 小时前", heat: 69, url: "#", summary: "系统能够识别业务流程、页面角色和组件层级，自动生成可编辑的高保真交互稿。" },
+  { id: 14, category: "开源工具", title: "本地知识库项目新增离线嵌入模型，降低私有部署门槛", source: "自托管精选", time: "4 小时前", heat: 66, url: "#", summary: "用户可在无外网环境下完成文档切分、向量化和检索，对隐私敏感行业更友好。" },
+  { id: 15, category: "行业资本", title: "企业采购 AI 工具更关注可控性，权限、审计和数据隔离成为必选项", source: "企业 AI 观察", time: "5 小时前", heat: 64, url: "#", summary: "调研显示，越来越多企业要求供应商提供模型调用日志、数据保留策略和权限分层能力。" }
+];
+
+const liveTemplates = [
+  { category: "产品动态", title: "新的 AI 搜索产品开放企业版，支持知识库权限继承", source: "实时产品线", summary: "企业用户可把文档权限同步到搜索结果，避免跨部门信息泄露。" },
+  { category: "模型发布", title: "开源小模型提升数学推理能力，适合边缘设备部署", source: "模型速递", summary: "新模型在轻量参数规模下优化推理链路，重点服务教育和移动端场景。" },
+  { category: "开源工具", title: "Agent 调试面板新增失败路径回放，方便定位工具调用问题", source: "开源更新", summary: "开发者可查看每一步输入输出、耗时、错误和重试记录。" },
+  { category: "观点洞察", title: "行业观点：实时数据接入将决定 AI 新闻产品体验上限", source: "AI 观察室", summary: "高质量数据源、去重聚类和自动摘要是新闻类 AI 产品的核心能力。" }
+];
+
+let activeCategory = "全部";
+let keyword = "";
+let nextId = newsData.length + 1;
+let refreshTimer = null;
+let countdownTimer = null;
+let nextRefreshAt = Date.now() + UPDATE_INTERVAL_MS;
+const statsGrid = document.getElementById("statsGrid");
+const categoryNav = document.getElementById("categoryNav");
+const newsList = document.getElementById("newsList");
+const ticker = document.getElementById("ticker");
+const trendList = document.getElementById("trendList");
+const digestList = document.getElementById("digestList");
+const searchInput = document.getElementById("searchInput");
+const refreshBtn = document.getElementById("refreshBtn");
+const sourceStatus = document.getElementById("sourceStatus");
+const sourceStatusText = document.getElementById("sourceStatusText");
+const countdownText = document.getElementById("countdownText");
+document.getElementById("refreshInterval").textContent = Math.round(UPDATE_INTERVAL_MS / 1000);
+
+function pad(n) { return String(n).padStart(2, "0"); }
+function updateClock() {
+  const d = new Date();
+  document.getElementById("lastUpdate").textContent = `${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`;
+  document.getElementById("todayText").textContent = `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日 · AI 实时新闻`;
+  document.getElementById("windowText").textContent = `${pad(d.getMonth()+1)}月${pad(d.getDate())}日 ${pad(d.getHours())}:00 前后`;
+}
+function updateCountdown() {
+  const remain = Math.max(0, Math.ceil((nextRefreshAt - Date.now()) / 1000));
+  countdownText.textContent = `${remain}s`;
+}
+function setSourceStatus(text, state = "online") {
+  sourceStatusText.textContent = text;
+  sourceStatus.classList.toggle("status-syncing", state === "syncing");
+  sourceStatus.classList.toggle("status-offline", state === "offline");
+}
+function getCount(cat) {
+  if (cat === "全部") return newsData.length;
+  return newsData.filter(item => item.category === cat).length;
+}
+function filteredData() {
+  return newsData
+    .filter(item => activeCategory === "全部" || item.category === activeCategory)
+    .filter(item => {
+      if (!keyword) return true;
+      const text = `${item.title} ${item.source} ${item.summary} ${item.category}`.toLowerCase();
+      return text.includes(keyword.toLowerCase());
+    })
+    .sort((a, b) => b.heat - a.heat || b.id - a.id);
+}
+function renderStats() {
+  const colors = ["#4f8cff", "#9b6dff", "#00d4ff", "#00e88f", "#ff9d45", "#ff5c8a"];
+  statsGrid.innerHTML = categories.slice(1).map((cat, index) => `
+    <div class="stat-card" style="--accent:${colors[index]}">
+      <div class="stat-num">${getCount(cat.key)}</div>
+      <div class="stat-label">${cat.label}</div>
+    </div>
+  `).join("");
+  document.getElementById("totalCount").textContent = newsData.length;
+}
+function renderNav() {
+  categoryNav.innerHTML = categories.map(cat => `
+    <button class="nav-link ${activeCategory === cat.key ? "active" : ""}" data-cat="${cat.key}">
+      <span>${cat.label}</span><span class="nav-count">${getCount(cat.key)}</span>
+    </button>
+  `).join("");
+  categoryNav.querySelectorAll(".nav-link").forEach(btn => {
+    btn.addEventListener("click", () => {
+      activeCategory = btn.dataset.cat;
+      renderAll();
+    });
+  });
+}
+function renderNews() {
+  const list = filteredData();
+  document.getElementById("feedTitle").textContent = activeCategory === "全部" ? "全部动态" : activeCategory;
+  document.getElementById("feedNote").textContent = keyword ? `搜索：${keyword} · 命中 ${list.length} 条` : `按热度与时间综合排序 · ${list.length} 条`;
+  if (!list.length) {
+    newsList.innerHTML = `<div class="empty">没有找到匹配的 AI 新闻</div>`;
+    return;
+  }
+  newsList.innerHTML = list.map((item, index) => `
+    <article class="news-card" style="animation-delay:${Math.min(index * 0.03, 0.4)}s">
+      <div class="rank">${index + 1}</div>
+      <div>
+        <div class="card-top">
+          <span class="tag">${item.category}</span>
+          <span class="heat">热度 ${item.heat}</span>
+          <span class="time-badge ${item.time.includes("刚刚") || item.time.includes("分钟") ? "fresh" : ""}">${item.time}</span>
+        </div>
+        <h2 class="news-title"><a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a></h2>
+        <p class="summary">${item.summary}</p>
+        <div class="card-footer">
+          <span class="source">来源：${item.source}</span>
+          <a class="read-link" href="${item.url}" target="_blank" rel="noopener noreferrer">查看详情</a>
+        </div>
+      </div>
+    </article>
+  `).join("");
+}
+function renderTicker() {
+  ticker.innerHTML = newsData.slice(0, 5).map(item => `
+    <div class="ticker-item">
+      <div class="ticker-time">${item.time} · ${item.category}</div>
+      <div class="ticker-text">${item.title}</div>
+    </div>
+  `).join("");
+}
+function renderTrends() {
+  const trends = [...newsData].sort((a, b) => b.heat - a.heat).slice(0, 6);
+  trendList.innerHTML = trends.map((item, index) => `
+    <div class="trend-item">
+      <div class="trend-no">${index + 1}</div>
+      <div>
+        <div>${item.title.slice(0, 18)}${item.title.length > 18 ? "..." : ""}</div>
+        <div class="bar"><span style="width:${item.heat}%"></span></div>
+      </div>
+      <div class="trend-score">${item.heat}</div>
+    </div>
+  `).join("");
+}
+function renderDigest() {
+  const modelCount = getCount("模型发布");
+  const productCount = getCount("产品动态");
+  const top = [...newsData].sort((a, b) => b.heat - a.heat)[0];
+  digestList.innerHTML = `
+    <li><strong>模型与产品</strong>仍是今日核心，共 ${modelCount + productCount} 条动态。</li>
+    <li><strong>${top.category}</strong>热度最高：${top.title.slice(0, 28)}...</li>
+    <li><strong>开源工具</strong>集中在 Agent 调试、RAG 检索和私有部署方向。</li>
+    <li><strong>企业落地</strong>关注权限、审计、成本和实时数据接入。</li>
+  `;
+}
+function renderAll() {
+  renderStats();
+  renderNav();
+  renderNews();
+  renderTicker();
+  renderTrends();
+  renderDigest();
+}
+function normalizeRemoteItems(payload) {
+  const items = Array.isArray(payload) ? payload : Array.isArray(payload.items) ? payload.items : [];
+  return items.map(item => ({
+    id: item.id || nextId++,
+    category: item.category || "行业资本",
+    title: item.title || "未命名 AI 新闻",
+    source: item.source || "实时接口",
+    time: item.time || "刚刚",
+    heat: Number(item.heat || item.score || Math.floor(70 + Math.random() * 25)),
+    url: item.url || "#",
+    summary: item.summary || item.description || "该条新闻来自实时接口，暂无更多摘要。"
+  }));
+}
+function mergeNews(items) {
+  const existKeys = new Set(newsData.map(item => `${item.title}-${item.source}`));
+  const fresh = items.filter(item => !existKeys.has(`${item.title}-${item.source}`));
+  if (fresh.length) newsData = [...fresh, ...newsData].slice(0, 80);
+  return fresh.length;
+}
+function addLiveNews() {
+  const base = liveTemplates[Math.floor(Math.random() * liveTemplates.length)];
+  const item = {
+    id: nextId++,
+    category: base.category,
+    title: base.title,
+    source: base.source,
+    time: "刚刚",
+    heat: Math.floor(82 + Math.random() * 16),
+    url: "#",
+    summary: base.summary
+  };
+  newsData.unshift(item);
+  newsData = newsData.slice(0, 80);
+  document.getElementById("liveState").textContent = "刚刚更新";
+  setSourceStatus("模拟实时更新", "online");
+  updateClock();
+  renderAll();
+  setTimeout(() => { document.getElementById("liveState").textContent = "正在监听"; }, 1800);
+}
+async function refreshLiveNews() {
+  nextRefreshAt = Date.now() + UPDATE_INTERVAL_MS;
+  setSourceStatus("同步中", "syncing");
+  document.getElementById("liveState").textContent = "同步中";
+  if (!NEWS_API_ENDPOINT) {
+    addLiveNews();
+    return;
+  }
+  try {
+    const response = await fetch(`${NEWS_API_ENDPOINT}${NEWS_API_ENDPOINT.includes("?") ? "&" : "?"}_=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const payload = await response.json();
+    const added = mergeNews(normalizeRemoteItems(payload));
+    setSourceStatus(added ? `接口更新 ${added} 条` : "接口已同步", "online");
+    document.getElementById("liveState").textContent = added ? `新增 ${added} 条` : "暂无新增";
+    updateClock();
+    renderAll();
+  } catch (error) {
+    setSourceStatus("接口失败，已兜底", "offline");
+    addLiveNews();
+  } finally {
+    setTimeout(() => { document.getElementById("liveState").textContent = "正在监听"; }, 1800);
+  }
+}
+function startAutoRefresh() {
+  if (refreshTimer) clearInterval(refreshTimer);
+  if (countdownTimer) clearInterval(countdownTimer);
+  nextRefreshAt = Date.now() + UPDATE_INTERVAL_MS;
+  refreshTimer = setInterval(refreshLiveNews, UPDATE_INTERVAL_MS);
+  countdownTimer = setInterval(updateCountdown, 1000);
+  updateCountdown();
+}
+searchInput.addEventListener("input", e => {
+  keyword = e.target.value.trim();
+  renderNews();
+});
+refreshBtn.addEventListener("click", refreshLiveNews);
+window.addEventListener("online", () => setSourceStatus("网络已恢复", "online"));
+window.addEventListener("offline", () => setSourceStatus("网络离线", "offline"));
+document.addEventListener("visibilitychange", () => {
+  if (!document.hidden) refreshLiveNews();
+});
+updateClock();
+renderAll();
+startAutoRefresh();
+setInterval(updateClock, 1000);
+</script>
+</body>
+</html>
