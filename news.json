@@ -1,6 +1,47 @@
 [
   {
     "id": 1,
+    "title": "高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座",
+    "url": "https://www.qbitai.com/2026/07/445946.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 98,
+    "time": "1 小时前"
+  },
+  {
+    "id": 2,
+    "title": "智能伙伴 共创未来！WAIC 2026即将举行并首发主题片",
+    "url": "https://www.qbitai.com/2026/07/445904.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "1 小时前"
+  },
+  {
+    "id": 3,
+    "title": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开",
+    "url": "https://www.qbitai.com/2026/07/445883.html",
+    "source": "量子位",
+    "summary": "已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽",
+    "tldr": "已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽",
+    "keyPoints": [
+      "已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "4 小时前"
+  },
+  {
+    "id": 4,
     "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
     "url": "https://www.qbitai.com/2026/07/445608.html",
     "source": "量子位",
@@ -11,11 +52,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "7 小时前"
+    "heat": 92,
+    "time": "21 小时前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
     "url": "https://www.qbitai.com/2026/07/445443.html",
     "source": "量子位",
@@ -24,11 +65,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "10 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
     "url": "https://www.qbitai.com/2026/07/445229.html",
     "source": "量子位",
@@ -37,59 +78,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 94,
-    "time": "14 小时前"
-  },
-  {
-    "id": 4,
-    "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
-    "url": "https://www.qbitai.com/2026/07/445067.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "15 小时前"
-  },
-  {
-    "id": 5,
-    "title": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
-    "url": "https://www.qbitai.com/2026/07/444859.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "16 小时前"
-  },
-  {
-    "id": 6,
-    "title": "Claude的脑子里，也长出了一块「意识」",
-    "url": "https://www.qbitai.com/2026/07/444741.html",
-    "source": "量子位",
-    "summary": "内部发现「类脑空间」，删掉就变傻",
-    "tldr": "内部发现「类脑空间」，删掉就变傻",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 88,
-    "time": "17 小时前"
-  },
-  {
-    "id": 7,
-    "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
-    "url": "https://www.qbitai.com/2026/07/444733.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
     "time": "1 天前"
   }
 ]
