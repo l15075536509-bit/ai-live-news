@@ -1,67 +1,54 @@
 [
   {
     "id": 1,
-    "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
-    "url": "https://www.qbitai.com/2026/07/446658.html",
+    "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
+    "url": "https://www.qbitai.com/2026/07/447691.html",
     "source": "量子位",
-    "summary": "To safe AGI.",
-    "tldr": "To safe AGI.",
+    "summary": "",
+    "tldr": "",
     "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
     "heat": 98,
-    "time": "11 小时前"
+    "time": "1 小时前"
   },
   {
     "id": 2,
-    "title": "2026年世界人工智能大会，7月17-7月20上海举办",
-    "url": "https://www.qbitai.com/2026/07/436498.html",
+    "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
+    "url": "https://www.qbitai.com/2026/07/447682.html",
     "source": "量子位",
-    "summary": "180家企业携成果入驻",
-    "tldr": "180家企业携成果入驻",
+    "summary": "",
+    "tldr": "",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 96,
-    "time": "12 小时前"
+    "time": "1 小时前"
   },
   {
     "id": 3,
-    "title": "获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good",
-    "url": "https://www.qbitai.com/2026/07/446562.html",
+    "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
+    "url": "https://www.qbitai.com/2026/07/447627.html",
     "source": "量子位",
-    "summary": "“一生一案”书写优质教育",
-    "tldr": "“一生一案”书写优质教育",
+    "summary": "开源第四弹：LingBot-VA 2.0",
+    "tldr": "开源第四弹：LingBot-VA 2.0",
     "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
     "heat": 94,
-    "time": "14 小时前"
+    "time": "3 小时前"
   },
   {
     "id": 4,
-    "title": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
-    "url": "https://www.qbitai.com/2026/07/446548.html",
+    "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
+    "url": "https://www.qbitai.com/2026/07/447602.html",
     "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 92,
-    "time": "14 小时前"
-  },
-  {
-    "id": 5,
-    "title": "从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路",
-    "url": "https://www.qbitai.com/2026/07/446435.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
+    "summary": "字节也入局了",
+    "tldr": "字节也入局了",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
-    "time": "15 小时前"
+    "heat": 92,
+    "time": "6 小时前"
   }
 ]
