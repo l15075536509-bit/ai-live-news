@@ -10,7 +10,7 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 98,
-    "time": "1 小时前"
+    "time": "10 小时前"
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 96,
-    "time": "17 小时前"
+    "time": "1 天前"
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
     "heat": 94,
-    "time": "21 小时前"
+    "time": "1 天前"
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 92,
-    "time": "21 小时前"
+    "time": "1 天前"
   },
   {
     "id": 5,
@@ -62,19 +62,6 @@
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
     "heat": 90,
-    "time": "23 小时前"
-  },
-  {
-    "id": 6,
-    "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
-    "url": "https://www.qbitai.com/2026/07/447602.html",
-    "source": "量子位",
-    "summary": "字节也入局了",
-    "tldr": "字节也入局了",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
     "time": "1 天前"
   }
 ]
