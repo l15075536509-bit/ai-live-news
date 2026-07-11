@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+    "url": "https://www.qbitai.com/2026/07/447873.html",
+    "source": "量子位",
+    "summary": "神话级大模型驾驭宝典",
+    "tldr": "神话级大模型驾驭宝典",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "1 小时前"
+  },
+  {
+    "id": 2,
     "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
     "url": "https://www.qbitai.com/2026/07/447832.html",
     "source": "量子位",
@@ -9,11 +22,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "3 小时前"
+    "heat": 96,
+    "time": "17 小时前"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
     "url": "https://www.qbitai.com/2026/07/447691.html",
     "source": "量子位",
@@ -22,11 +35,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 96,
-    "time": "8 小时前"
+    "heat": 94,
+    "time": "21 小时前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
     "url": "https://www.qbitai.com/2026/07/447682.html",
     "source": "量子位",
@@ -35,11 +48,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "8 小时前"
+    "heat": 92,
+    "time": "21 小时前"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
     "url": "https://www.qbitai.com/2026/07/447627.html",
     "source": "量子位",
@@ -48,11 +61,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 92,
-    "time": "10 小时前"
+    "heat": 90,
+    "time": "23 小时前"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
     "url": "https://www.qbitai.com/2026/07/447602.html",
     "source": "量子位",
@@ -61,7 +74,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
-    "time": "13 小时前"
+    "heat": 88,
+    "time": "1 天前"
   }
 ]
