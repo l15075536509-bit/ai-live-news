@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
+    "url": "https://www.qbitai.com/2026/07/447981.html",
+    "source": "量子位",
+    "summary": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了",
+    "tldr": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了",
+    "keyPoints": [
+      "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "6 小时前"
+  },
+  {
+    "id": 2,
     "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
     "url": "https://www.qbitai.com/2026/07/447873.html",
     "source": "量子位",
@@ -9,11 +24,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "10 小时前"
+    "heat": 96,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
     "url": "https://www.qbitai.com/2026/07/447832.html",
     "source": "量子位",
@@ -22,11 +37,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
+    "heat": 94,
     "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
     "url": "https://www.qbitai.com/2026/07/447691.html",
     "source": "量子位",
@@ -35,11 +50,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
+    "heat": 92,
     "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
     "url": "https://www.qbitai.com/2026/07/447682.html",
     "source": "量子位",
@@ -48,19 +63,6 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
-    "url": "https://www.qbitai.com/2026/07/447627.html",
-    "source": "量子位",
-    "summary": "开源第四弹：LingBot-VA 2.0",
-    "tldr": "开源第四弹：LingBot-VA 2.0",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
     "heat": 90,
     "time": "1 天前"
   }
