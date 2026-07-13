@@ -1,56 +1,123 @@
 [
   {
     "id": 1,
-    "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
-    "url": "https://www.qbitai.com/2026/07/447981.html",
+    "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+    "url": "https://www.qbitai.com/2026/07/449311.html",
     "source": "量子位",
-    "summary": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了",
-    "tldr": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了",
+    "summary": "同时发布CPU原生液冷整机柜、多模融合超节点",
+    "tldr": "同时发布CPU原生液冷整机柜、多模融合超节点",
     "keyPoints": [
-      "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了"
+      "同时发布CPU原生液冷整机柜、多模融合超节点"
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
     "heat": 98,
-    "time": "1 天前"
+    "time": "2 小时前"
   },
   {
     "id": 2,
-    "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
-    "url": "https://www.qbitai.com/2026/07/447873.html",
+    "title": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？",
+    "url": "https://www.qbitai.com/2026/07/449156.html",
     "source": "量子位",
-    "summary": "神话级大模型驾驭宝典",
-    "tldr": "神话级大模型驾驭宝典",
+    "summary": "",
+    "tldr": "",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 96,
-    "time": "1 天前"
+    "time": "5 小时前"
   },
   {
     "id": 3,
-    "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
-    "url": "https://www.qbitai.com/2026/07/447832.html",
+    "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
+    "url": "https://www.qbitai.com/2026/07/449150.html",
     "source": "量子位",
-    "summary": "AI变为研发流程的“组织者”",
-    "tldr": "AI变为研发流程的“组织者”",
+    "summary": "",
+    "tldr": "",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 94,
-    "time": "2 天前"
+    "time": "6 小时前"
   },
   {
     "id": 4,
-    "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
-    "url": "https://www.qbitai.com/2026/07/447691.html",
+    "title": "WAIC&#8217;26探展召集令！和量子位一起逛展、直播、聊AI",
+    "url": "https://www.qbitai.com/2026/07/448923.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "7 小时前"
+  },
+  {
+    "id": 5,
+    "title": "Claude Code砸的坑，蚂蚁安全在尝试填上",
+    "url": "https://www.qbitai.com/2026/07/448925.html",
+    "source": "量子位",
+    "summary": "最新开源两大安全框架",
+    "tldr": "最新开源两大安全框架",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 90,
+    "time": "7 小时前"
+  },
+  {
+    "id": 6,
+    "title": "GPT-5.6刚发布，OpenAI安全主管就跑路了？？",
+    "url": "https://www.qbitai.com/2026/07/448825.html",
+    "source": "量子位",
+    "summary": "两年内走的第六个",
+    "tldr": "两年内走的第六个",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 88,
+    "time": "8 小时前"
+  },
+  {
+    "id": 7,
+    "title": "CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证",
+    "url": "https://www.qbitai.com/2026/07/448824.html",
     "source": "量子位",
     "summary": "",
     "tldr": "",
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 92,
-    "time": "2 天前"
+    "heat": 86,
+    "time": "8 小时前"
+  },
+  {
+    "id": 8,
+    "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+    "url": "https://www.qbitai.com/2026/07/436498.html",
+    "source": "量子位",
+    "summary": "180家企业携成果入驻",
+    "tldr": "180家企业携成果入驻",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 84,
+    "time": "9 小时前"
+  },
+  {
+    "id": 9,
+    "title": "趋境科技完成A轮融资，半年内募资10亿",
+    "url": "https://www.qbitai.com/2026/07/448820.html",
+    "source": "量子位",
+    "summary": "高品质AI Token生产服务能力获产业和资本的双重认可",
+    "tldr": "高品质AI Token生产服务能力获产业和资本的双重认可",
+    "keyPoints": [
+      "高品质AI Token生产服务能力获产业和资本的双重认可"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 82,
+    "time": "9 小时前"
   }
 ]
