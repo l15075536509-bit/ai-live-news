@@ -1,62 +1,60 @@
 [
   {
     "id": 1,
-    "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
-    "url": "https://www.qbitai.com/2026/07/449327.html",
+    "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+    "url": "https://www.qbitai.com/2026/07/448475.html",
     "source": "量子位",
-    "summary": "出自中国团队",
-    "tldr": "出自中国团队",
+    "summary": "一手实测这就奉上",
+    "tldr": "一手实测这就奉上",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 98,
-    "time": "11 小时前"
+    "time": "1 小时前"
   },
   {
     "id": 2,
-    "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
-    "url": "https://www.qbitai.com/2026/07/449311.html",
-    "source": "量子位",
-    "summary": "同时发布CPU原生液冷整机柜、多模融合超节点",
-    "tldr": "同时发布CPU原生液冷整机柜、多模融合超节点",
-    "keyPoints": [
-      "同时发布CPU原生液冷整机柜、多模融合超节点"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 96,
-    "time": "14 小时前"
-  },
-  {
-    "id": 3,
-    "title": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？",
-    "url": "https://www.qbitai.com/2026/07/449156.html",
+    "title": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
+    "url": "https://www.qbitai.com/2026/07/449863.html",
     "source": "量子位",
     "summary": "",
     "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 96,
+    "time": "2 小时前"
+  },
+  {
+    "id": 3,
+    "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
+    "url": "https://www.qbitai.com/2026/07/449850.html",
+    "source": "量子位",
+    "summary": "一套模型，三个世界",
+    "tldr": "一套模型，三个世界",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 94,
-    "time": "17 小时前"
+    "time": "2 小时前"
   },
   {
     "id": 4,
-    "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
-    "url": "https://www.qbitai.com/2026/07/449150.html",
+    "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+    "url": "https://www.qbitai.com/2026/07/436498.html",
     "source": "量子位",
-    "summary": "",
-    "tldr": "",
+    "summary": "180家企业携成果入驻",
+    "tldr": "180家企业携成果入驻",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 92,
-    "time": "18 小时前"
+    "time": "8 小时前"
   },
   {
     "id": 5,
-    "title": "WAIC&#8217;26探展召集令！和量子位一起逛展、直播、聊AI",
-    "url": "https://www.qbitai.com/2026/07/448923.html",
+    "title": "GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先",
+    "url": "https://www.qbitai.com/2026/07/449842.html",
     "source": "量子位",
     "summary": "",
     "tldr": "",
@@ -64,45 +62,21 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
-    "time": "19 小时前"
+    "time": "8 小时前"
   },
   {
     "id": 6,
-    "title": "Claude Code砸的坑，蚂蚁安全在尝试填上",
-    "url": "https://www.qbitai.com/2026/07/448925.html",
+    "title": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品",
+    "url": "https://www.qbitai.com/2026/07/449566.html",
     "source": "量子位",
-    "summary": "最新开源两大安全框架",
-    "tldr": "最新开源两大安全框架",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "summary": "Agent携上百个Skills助我当大导演",
+    "tldr": "Agent携上百个Skills助我当大导演",
+    "keyPoints": [
+      "Agent携上百个Skills助我当大导演"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 88,
-    "time": "19 小时前"
-  },
-  {
-    "id": 7,
-    "title": "GPT-5.6刚发布，OpenAI安全主管就跑路了？？",
-    "url": "https://www.qbitai.com/2026/07/448825.html",
-    "source": "量子位",
-    "summary": "两年内走的第六个",
-    "tldr": "两年内走的第六个",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 86,
-    "time": "20 小时前"
-  },
-  {
-    "id": 8,
-    "title": "CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证",
-    "url": "https://www.qbitai.com/2026/07/448824.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 84,
-    "time": "20 小时前"
+    "time": "10 小时前"
   }
 ]
