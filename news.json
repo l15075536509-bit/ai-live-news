@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式",
-    "url": "https://www.qbitai.com/2026/07/453237.html",
+    "title": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
+    "url": "https://www.qbitai.com/2026/07/453506.html",
     "source": "量子位",
-    "summary": "打造AIDC绿电直连能源运营操作系统",
-    "tldr": "打造AIDC绿电直连能源运营操作系统",
+    "summary": "",
+    "tldr": "",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
@@ -14,6 +14,71 @@
   },
   {
     "id": 2,
+    "title": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
+    "url": "https://www.qbitai.com/2026/07/453467.html",
+    "source": "量子位",
+    "summary": "万亿Token调用量验证",
+    "tldr": "万亿Token调用量验证",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 96,
+    "time": "4 小时前"
+  },
+  {
+    "id": 3,
+    "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
+    "url": "https://www.qbitai.com/2026/07/453352.html",
+    "source": "量子位",
+    "summary": "发布芯片只是拿到了入场券",
+    "tldr": "发布芯片只是拿到了入场券",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 94,
+    "time": "9 小时前"
+  },
+  {
+    "id": 4,
+    "title": "给AI发工号、定岗位、做绩效，数字员工终于能落地了",
+    "url": "https://www.qbitai.com/2026/07/453245.html",
+    "source": "量子位",
+    "summary": "面壁智能开源StaffDeck",
+    "tldr": "面壁智能开源StaffDeck",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 92,
+    "time": "9 小时前"
+  },
+  {
+    "id": 5,
+    "title": "WAIC直击 &#124; 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？",
+    "url": "https://www.qbitai.com/2026/07/453246.html",
+    "source": "量子位",
+    "summary": "每个Token背后，都是一次开源协作",
+    "tldr": "每个Token背后，都是一次开源协作",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 90,
+    "time": "10 小时前"
+  },
+  {
+    "id": 6,
+    "title": "达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式",
+    "url": "https://www.qbitai.com/2026/07/453237.html",
+    "source": "量子位",
+    "summary": "打造AIDC绿电直连能源运营操作系统",
+    "tldr": "打造AIDC绿电直连能源运营操作系统",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "14 小时前"
+  },
+  {
+    "id": 7,
     "title": "WAIC 2026 &#124; 如果Agent有性格，你的智能伙伴会是什么样的？",
     "url": "https://www.qbitai.com/2026/07/453217.html",
     "source": "量子位",
@@ -22,11 +87,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "2 小时前"
+    "heat": 86,
+    "time": "15 小时前"
   },
   {
-    "id": 3,
+    "id": 8,
     "title": "WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%",
     "url": "https://www.qbitai.com/2026/07/453211.html",
     "source": "量子位",
@@ -35,11 +100,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "2 小时前"
+    "heat": 84,
+    "time": "15 小时前"
   },
   {
-    "id": 4,
+    "id": 9,
     "title": "算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”",
     "url": "https://www.qbitai.com/2026/07/453208.html",
     "source": "量子位",
@@ -48,11 +113,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "2 小时前"
+    "heat": 82,
+    "time": "15 小时前"
   },
   {
-    "id": 5,
+    "id": 10,
     "title": "从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即",
     "url": "https://www.qbitai.com/2026/07/453203.html",
     "source": "量子位",
@@ -61,76 +126,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
-    "time": "2 小时前"
-  },
-  {
-    "id": 6,
-    "title": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
-    "url": "https://www.qbitai.com/2026/07/453084.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "3 小时前"
-  },
-  {
-    "id": 7,
-    "title": "文远发布物理AI大模型WITT：让每一公里都变成模型能力",
-    "url": "https://www.qbitai.com/2026/07/452961.html",
-    "source": "量子位",
-    "summary": "单卡日处理1万分钟视频",
-    "tldr": "单卡日处理1万分钟视频",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 86,
-    "time": "3 小时前"
-  },
-  {
-    "id": 8,
-    "title": "WAIC 2026：全球DAA将达7940万个百度AI重磅升级发布",
-    "url": "https://www.qbitai.com/2026/07/452956.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 84,
-    "time": "4 小时前"
-  },
-  {
-    "id": 9,
-    "title": "397B参数追平万亿模型，上海AI Lab发布科学智能体新基座 &#124; WAIC 2026",
-    "url": "https://www.qbitai.com/2026/07/452942.html",
-    "source": "量子位",
-    "summary": "采用非Transformer架构“Mobius”，不做泛化通用问答",
-    "tldr": "采用非Transformer架构“Mobius”，不做泛化通用问答",
-    "keyPoints": [
-      "采用非Transformer架构“Mobius”，不做泛化通用问答"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 82,
-    "time": "4 小时前"
-  },
-  {
-    "id": 10,
-    "title": "IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和",
-    "url": "https://www.qbitai.com/2026/07/452914.html",
-    "source": "量子位",
-    "summary": "模型、Harness Engineering与产品的持续进化",
-    "tldr": "模型、Harness Engineering与产品的持续进化",
-    "keyPoints": [
-      "模型、Harness Engineering与产品的持续进化"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 80,
-    "time": "5 小时前"
+    "time": "15 小时前"
   }
 ]
