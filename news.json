@@ -1,6 +1,47 @@
 [
   {
     "id": 1,
+    "title": "这，可能是今年WAIC最惊艳的图片！",
+    "url": "https://www.qbitai.com/2026/07/454049.html",
+    "source": "量子位",
+    "summary": "理解、生成、行动的原生统一",
+    "tldr": "理解、生成、行动的原生统一",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "40 分钟前"
+  },
+  {
+    "id": 2,
+    "title": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
+    "url": "https://www.qbitai.com/2026/07/453802.html",
+    "source": "量子位",
+    "summary": "PuduFM+PuduAgent，一并在不同本体上持续落地，共同构成了普渡机器人的顶层战略「一脑多形」。",
+    "tldr": "PuduFM+PuduAgent，一并在不同本体上持续落地，共同构成了普渡机器人的顶层战略「一脑多形」。",
+    "keyPoints": [
+      "PuduFM+PuduAgent，一并在不同本体上持续落地，共同构成了普渡机器人的顶层战略「一脑多形」。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "1 小时前"
+  },
+  {
+    "id": 3,
+    "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+    "url": "https://www.qbitai.com/2026/07/454040.html",
+    "source": "量子位",
+    "summary": "机器人真正具备了干活的完整能力",
+    "tldr": "机器人真正具备了干活的完整能力",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "13 小时前"
+  },
+  {
+    "id": 4,
     "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
     "url": "https://www.qbitai.com/2026/07/454015.html",
     "source": "量子位",
@@ -9,11 +50,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "1 小时前"
+    "heat": 92,
+    "time": "15 小时前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气",
     "url": "https://www.qbitai.com/2026/07/454003.html",
     "source": "量子位",
@@ -22,11 +63,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 96,
-    "time": "2 小时前"
+    "heat": 90,
+    "time": "15 小时前"
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
     "url": "https://www.qbitai.com/2026/07/453889.html",
     "source": "量子位",
@@ -37,11 +78,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "3 小时前"
+    "heat": 88,
+    "time": "16 小时前"
   },
   {
-    "id": 4,
+    "id": 7,
     "title": "妙啊！无人机直连卫星传Token",
     "url": "https://www.qbitai.com/2026/07/453789.html",
     "source": "量子位",
@@ -50,11 +91,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "4 小时前"
+    "heat": 86,
+    "time": "18 小时前"
   },
   {
-    "id": 5,
+    "id": 8,
     "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
     "url": "https://www.qbitai.com/2026/07/453705.html",
     "source": "量子位",
@@ -63,46 +104,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
-    "time": "5 小时前"
-  },
-  {
-    "id": 6,
-    "title": "2026年世界人工智能大会，7月17-7月20上海举办",
-    "url": "https://www.qbitai.com/2026/07/436498.html",
-    "source": "量子位",
-    "summary": "180家企业携成果入驻",
-    "tldr": "180家企业携成果入驻",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "7 小时前"
-  },
-  {
-    "id": 7,
-    "title": "DeepSeek估值，被一家安徽箱包公司给全部暴露了",
-    "url": "https://www.qbitai.com/2026/07/453641.html",
-    "source": "量子位",
-    "summary": "3500亿估值曝光",
-    "tldr": "3500亿估值曝光",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "9 小时前"
-  },
-  {
-    "id": 8,
-    "title": "WAIC信息爆炸！大佬们都在说什么，笔记看这里",
-    "url": "https://www.qbitai.com/2026/07/453631.html",
-    "source": "量子位",
-    "summary": "图灵奖得主、两院院士……精彩、太精彩",
-    "tldr": "图灵奖得主、两院院士……精彩、太精彩",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 84,
-    "time": "9 小时前"
+    "time": "19 小时前"
   }
 ]
