@@ -1,108 +1,134 @@
 [
   {
     "id": 1,
-    "title": "冷门的哲学，成了“治”AI的热门",
-    "url": "https://www.qbitai.com/2026/07/455041.html",
+    "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
+    "url": "https://www.qbitai.com/2026/07/455963.html",
     "source": "量子位",
-    "summary": "智能进了社会，治理不能慢半拍",
-    "tldr": "智能进了社会，治理不能慢半拍",
+    "summary": "",
+    "tldr": "",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 98,
-    "time": "14 小时前"
+    "time": "3 小时前"
   },
   {
     "id": 2,
-    "title": "围观WAIC模型「读心术」！现场火火火火火",
-    "url": "https://www.qbitai.com/2026/07/455031.html",
+    "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+    "url": "https://www.qbitai.com/2026/07/455805.html",
     "source": "量子位",
-    "summary": "主观世界模型",
-    "tldr": "主观世界模型",
+    "summary": "大模型时代的共同选择",
+    "tldr": "大模型时代的共同选择",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 96,
-    "time": "15 小时前"
+    "time": "3 小时前"
   },
   {
     "id": 3,
-    "title": "不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半",
-    "url": "https://www.qbitai.com/2026/07/454932.html",
+    "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
+    "url": "https://www.qbitai.com/2026/07/455791.html",
     "source": "量子位",
-    "summary": "奇异摩尔首次亮相WAIC 2026",
-    "tldr": "奇异摩尔首次亮相WAIC 2026",
+    "summary": "",
+    "tldr": "",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 94,
-    "time": "15 小时前"
+    "time": "4 小时前"
   },
   {
     "id": 4,
-    "title": "逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……",
-    "url": "https://www.qbitai.com/2026/07/454802.html",
+    "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
+    "url": "https://www.qbitai.com/2026/07/455729.html",
     "source": "量子位",
-    "summary": "还得是AI圈春晚",
-    "tldr": "还得是AI圈春晚",
+    "summary": "",
+    "tldr": "",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 92,
-    "time": "15 小时前"
+    "time": "4 小时前"
   },
   {
     "id": 5,
-    "title": "聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议",
-    "url": "https://www.qbitai.com/2026/07/454791.html",
+    "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》&#124; WAIC 2026",
+    "url": "https://www.qbitai.com/2026/07/455730.html",
     "source": "量子位",
-    "summary": "",
-    "tldr": "",
+    "summary": "从理论探索到体系构建",
+    "tldr": "从理论探索到体系构建",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
-    "time": "16 小时前"
+    "time": "4 小时前"
   },
   {
     "id": 6,
-    "title": "2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问",
-    "url": "https://www.qbitai.com/2026/07/454774.html",
+    "title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
+    "url": "https://www.qbitai.com/2026/07/455658.html",
+    "source": "量子位",
+    "summary": "细粒度标签+ 20 种方言",
+    "tldr": "细粒度标签+ 20 种方言",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "5 小时前"
+  },
+  {
+    "id": 7,
+    "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
+    "url": "https://www.qbitai.com/2026/07/455596.html",
     "source": "量子位",
     "summary": "",
     "tldr": "",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 88,
-    "time": "16 小时前"
-  },
-  {
-    "id": 7,
-    "title": "危！GPT-5.6会自动删文件，AI初创老板痛失整台Mac",
-    "url": "https://www.qbitai.com/2026/07/454689.html",
-    "source": "量子位",
-    "summary": "黎曼动力正式发布Rienmann-1.0",
-    "tldr": "黎曼动力正式发布Rienmann-1.0",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
     "heat": 86,
-    "time": "17 小时前"
+    "time": "5 小时前"
   },
   {
     "id": 8,
-    "title": "不换模型，效果提升104%！上海AI Lab让Harness也能自进化了",
-    "url": "https://www.qbitai.com/2026/07/454441.html",
+    "title": "GMI Cloud  “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！",
+    "url": "https://www.qbitai.com/2026/07/455593.html",
     "source": "量子位",
-    "summary": "Harness本身也可以被搜索、验证和迭代",
-    "tldr": "Harness本身也可以被搜索、验证和迭代",
+    "summary": "GMI Cloud × HappyHorse 共建 AI 创作生态",
+    "tldr": "GMI Cloud × HappyHorse 共建 AI 创作生态",
     "keyPoints": [
-      "Harness本身也可以被搜索、验证和迭代"
+      "GMI Cloud × HappyHorse 共建 AI 创作生态"
     ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 84,
+    "time": "5 小时前"
+  },
+  {
+    "id": 9,
+    "title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
+    "url": "https://www.qbitai.com/2026/07/455517.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 82,
+    "time": "5 小时前"
+  },
+  {
+    "id": 10,
+    "title": "WAIC之外，一张AI人才图谱正在知乎形成",
+    "url": "https://www.qbitai.com/2026/07/455496.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 84,
-    "time": "20 小时前"
+    "heat": 80,
+    "time": "6 小时前"
   }
 ]
