@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "title": "冷门的哲学，成了“治”AI的热门",
+    "url": "https://www.qbitai.com/2026/07/455041.html",
+    "source": "量子位",
+    "summary": "智能进了社会，治理不能慢半拍",
+    "tldr": "智能进了社会，治理不能慢半拍",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "14 小时前"
+  },
+  {
+    "id": 2,
     "title": "围观WAIC模型「读心术」！现场火火火火火",
     "url": "https://www.qbitai.com/2026/07/455031.html",
     "source": "量子位",
@@ -9,21 +22,8 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "1 小时前"
-  },
-  {
-    "id": 2,
-    "title": "西部数据WAIC 2026媒体资料包",
-    "url": "https://www.qbitai.com/2026/07/454824.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 96,
-    "time": "1 小时前"
+    "time": "15 小时前"
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 94,
-    "time": "1 小时前"
+    "time": "15 小时前"
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 92,
-    "time": "1 小时前"
+    "time": "15 小时前"
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
-    "time": "1 小时前"
+    "time": "16 小时前"
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 88,
-    "time": "2 小时前"
+    "time": "16 小时前"
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
     "heat": 86,
-    "time": "3 小时前"
+    "time": "17 小时前"
   },
   {
     "id": 8,
@@ -103,6 +103,6 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 84,
-    "time": "6 小时前"
+    "time": "20 小时前"
   }
 ]
