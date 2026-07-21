@@ -1,6 +1,58 @@
 [
   {
     "id": 1,
+    "title": "WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》",
+    "url": "https://www.qbitai.com/2026/07/456052.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "4 小时前"
+  },
+  {
+    "id": 2,
+    "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+    "url": "https://www.qbitai.com/2026/07/456026.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "4 小时前"
+  },
+  {
+    "id": 3,
+    "title": "WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan",
+    "url": "https://www.qbitai.com/2026/07/456021.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 94,
+    "time": "4 小时前"
+  },
+  {
+    "id": 4,
+    "title": "WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力",
+    "url": "https://www.qbitai.com/2026/07/455998.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "4 小时前"
+  },
+  {
+    "id": 5,
     "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
     "url": "https://www.qbitai.com/2026/07/455963.html",
     "source": "量子位",
@@ -9,11 +61,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "16 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
     "url": "https://www.qbitai.com/2026/07/455805.html",
     "source": "量子位",
@@ -22,11 +74,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "16 小时前"
+    "heat": 88,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
     "url": "https://www.qbitai.com/2026/07/455791.html",
     "source": "量子位",
@@ -35,11 +87,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "16 小时前"
+    "heat": 86,
+    "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 8,
     "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
     "url": "https://www.qbitai.com/2026/07/455729.html",
     "source": "量子位",
@@ -48,87 +100,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "17 小时前"
-  },
-  {
-    "id": 5,
-    "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》&#124; WAIC 2026",
-    "url": "https://www.qbitai.com/2026/07/455730.html",
-    "source": "量子位",
-    "summary": "从理论探索到体系构建",
-    "tldr": "从理论探索到体系构建",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "17 小时前"
-  },
-  {
-    "id": 6,
-    "title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
-    "url": "https://www.qbitai.com/2026/07/455658.html",
-    "source": "量子位",
-    "summary": "细粒度标签+ 20 种方言",
-    "tldr": "细粒度标签+ 20 种方言",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "17 小时前"
-  },
-  {
-    "id": 7,
-    "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
-    "url": "https://www.qbitai.com/2026/07/455596.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "17 小时前"
-  },
-  {
-    "id": 8,
-    "title": "GMI Cloud  “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！",
-    "url": "https://www.qbitai.com/2026/07/455593.html",
-    "source": "量子位",
-    "summary": "GMI Cloud × HappyHorse 共建 AI 创作生态",
-    "tldr": "GMI Cloud × HappyHorse 共建 AI 创作生态",
-    "keyPoints": [
-      "GMI Cloud × HappyHorse 共建 AI 创作生态"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
     "heat": 84,
-    "time": "17 小时前"
-  },
-  {
-    "id": 9,
-    "title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
-    "url": "https://www.qbitai.com/2026/07/455517.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 82,
-    "time": "18 小时前"
-  },
-  {
-    "id": 10,
-    "title": "WAIC之外，一张AI人才图谱正在知乎形成",
-    "url": "https://www.qbitai.com/2026/07/455496.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 80,
-    "time": "18 小时前"
+    "time": "1 天前"
   }
 ]
