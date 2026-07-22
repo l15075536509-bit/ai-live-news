@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
+    "url": "https://www.qbitai.com/2026/07/456061.html",
+    "source": "量子位",
+    "summary": "中国大模型首次获得IMO官方金牌水平认证",
+    "tldr": "中国大模型首次获得IMO官方金牌水平认证",
+    "keyPoints": [
+      "中国大模型首次获得IMO官方金牌水平认证"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "2 小时前"
+  },
+  {
+    "id": 2,
     "title": "WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》",
     "url": "https://www.qbitai.com/2026/07/456052.html",
     "source": "量子位",
@@ -9,11 +24,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "4 小时前"
+    "heat": 96,
+    "time": "17 小时前"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
     "url": "https://www.qbitai.com/2026/07/456026.html",
     "source": "量子位",
@@ -22,11 +37,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "4 小时前"
+    "heat": 94,
+    "time": "17 小时前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan",
     "url": "https://www.qbitai.com/2026/07/456021.html",
     "source": "量子位",
@@ -35,11 +50,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "4 小时前"
+    "heat": 92,
+    "time": "17 小时前"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力",
     "url": "https://www.qbitai.com/2026/07/455998.html",
     "source": "量子位",
@@ -48,11 +63,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "4 小时前"
+    "heat": 90,
+    "time": "17 小时前"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
     "url": "https://www.qbitai.com/2026/07/455963.html",
     "source": "量子位",
@@ -61,11 +76,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
+    "heat": 88,
     "time": "1 天前"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
     "url": "https://www.qbitai.com/2026/07/455805.html",
     "source": "量子位",
@@ -74,26 +89,13 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
-    "url": "https://www.qbitai.com/2026/07/455791.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 86,
     "time": "1 天前"
   },
   {
     "id": 8,
-    "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
-    "url": "https://www.qbitai.com/2026/07/455729.html",
+    "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
+    "url": "https://www.qbitai.com/2026/07/455791.html",
     "source": "量子位",
     "summary": "",
     "tldr": "",
