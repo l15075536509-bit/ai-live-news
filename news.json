@@ -1,6 +1,88 @@
 [
   {
     "id": 1,
+    "title": "智能体政策新闻相关背景和简要解读",
+    "url": "https://www.qbitai.com/2026/07/457787.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "2 小时前"
+  },
+  {
+    "id": 2,
+    "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+    "url": "https://www.qbitai.com/2026/07/457694.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 96,
+    "time": "7 小时前"
+  },
+  {
+    "id": 3,
+    "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
+    "url": "https://www.qbitai.com/2026/07/457537.html",
+    "source": "量子位",
+    "summary": "具身智能正在从「参数竞赛」进入「架构竞赛」。",
+    "tldr": "具身智能正在从「参数竞赛」进入「架构竞赛」。",
+    "keyPoints": [
+      "具身智能正在从「参数竞赛」进入「架构竞赛」。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "7 小时前"
+  },
+  {
+    "id": 4,
+    "title": "趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂",
+    "url": "https://www.qbitai.com/2026/07/457534.html",
+    "source": "量子位",
+    "summary": "推进华东区域业务布局的重要一步",
+    "tldr": "推进华东区域业务布局的重要一步",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "9 小时前"
+  },
+  {
+    "id": 5,
+    "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
+    "url": "https://www.qbitai.com/2026/07/457469.html",
+    "source": "量子位",
+    "summary": "一台机器人的「多任务实战」",
+    "tldr": "一台机器人的「多任务实战」",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "10 小时前"
+  },
+  {
+    "id": 6,
+    "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
+    "url": "https://www.qbitai.com/2026/07/457405.html",
+    "source": "量子位",
+    "summary": "开源AI软件栈SAIL，260+框架即开即用",
+    "tldr": "开源AI软件栈SAIL，260+框架即开即用",
+    "keyPoints": [
+      "开源AI软件栈SAIL，260+框架即开即用"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 88,
+    "time": "11 小时前"
+  },
+  {
+    "id": 7,
     "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
     "url": "https://www.qbitai.com/2026/07/457359.html",
     "source": "量子位",
@@ -9,11 +91,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "54 分钟前"
+    "heat": 86,
+    "time": "12 小时前"
   },
   {
-    "id": 2,
+    "id": 8,
     "title": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛",
     "url": "https://www.qbitai.com/2026/07/457356.html",
     "source": "量子位",
@@ -22,115 +104,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "1 小时前"
-  },
-  {
-    "id": 3,
-    "title": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
-    "url": "https://www.qbitai.com/2026/07/457249.html",
-    "source": "量子位",
-    "summary": "为科研OPC创业者铺就“最后一公里”",
-    "tldr": "为科研OPC创业者铺就“最后一公里”",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "2 小时前"
-  },
-  {
-    "id": 4,
-    "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
-    "url": "https://www.qbitai.com/2026/07/457223.html",
-    "source": "量子位",
-    "summary": "美图产品挑战赛（Meitu Hatch Catch）火热报名中",
-    "tldr": "美图产品挑战赛（Meitu Hatch Catch）火热报名中",
-    "keyPoints": [
-      "美图产品挑战赛（Meitu Hatch Catch）火热报名中"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "9 小时前"
-  },
-  {
-    "id": 5,
-    "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
-    "url": "https://www.qbitai.com/2026/07/457117.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 90,
-    "time": "19 小时前"
-  },
-  {
-    "id": 6,
-    "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
-    "url": "https://www.qbitai.com/2026/07/457054.html",
-    "source": "量子位",
-    "summary": "一颗“不走寻常路”的芯",
-    "tldr": "一颗“不走寻常路”的芯",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "21 小时前"
-  },
-  {
-    "id": 7,
-    "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
-    "url": "https://www.qbitai.com/2026/07/457049.html",
-    "source": "量子位",
-    "summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景",
-    "tldr": "通过Meeting Flow让实时智能融入会议与商务沟通场景",
-    "keyPoints": [
-      "通过Meeting Flow让实时智能融入会议与商务沟通场景"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 86,
-    "time": "22 小时前"
-  },
-  {
-    "id": 8,
-    "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
-    "url": "https://www.qbitai.com/2026/07/457040.html",
-    "source": "量子位",
-    "summary": "从答题响应到心智仿真",
-    "tldr": "从答题响应到心智仿真",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
     "heat": 84,
-    "time": "22 小时前"
-  },
-  {
-    "id": 9,
-    "title": "我在WAIC 2026看见的十大趋势",
-    "url": "https://www.qbitai.com/2026/07/456974.html",
-    "source": "量子位",
-    "summary": "没有人因此热情减退",
-    "tldr": "没有人因此热情减退",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 82,
-    "time": "23 小时前"
-  },
-  {
-    "id": 10,
-    "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
-    "url": "https://www.qbitai.com/2026/07/456910.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 80,
-    "time": "23 小时前"
+    "time": "12 小时前"
   }
 ]
