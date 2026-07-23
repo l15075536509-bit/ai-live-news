@@ -1,6 +1,60 @@
 [
   {
     "id": 1,
+    "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
+    "url": "https://www.qbitai.com/2026/07/457359.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "54 分钟前"
+  },
+  {
+    "id": 2,
+    "title": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛",
+    "url": "https://www.qbitai.com/2026/07/457356.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "1 小时前"
+  },
+  {
+    "id": 3,
+    "title": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
+    "url": "https://www.qbitai.com/2026/07/457249.html",
+    "source": "量子位",
+    "summary": "为科研OPC创业者铺就“最后一公里”",
+    "tldr": "为科研OPC创业者铺就“最后一公里”",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "2 小时前"
+  },
+  {
+    "id": 4,
+    "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
+    "url": "https://www.qbitai.com/2026/07/457223.html",
+    "source": "量子位",
+    "summary": "美图产品挑战赛（Meitu Hatch Catch）火热报名中",
+    "tldr": "美图产品挑战赛（Meitu Hatch Catch）火热报名中",
+    "keyPoints": [
+      "美图产品挑战赛（Meitu Hatch Catch）火热报名中"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "9 小时前"
+  },
+  {
+    "id": 5,
     "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
     "url": "https://www.qbitai.com/2026/07/457117.html",
     "source": "量子位",
@@ -9,11 +63,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 98,
-    "time": "6 小时前"
+    "heat": 90,
+    "time": "19 小时前"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
     "url": "https://www.qbitai.com/2026/07/457054.html",
     "source": "量子位",
@@ -22,11 +76,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "8 小时前"
+    "heat": 88,
+    "time": "21 小时前"
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
     "url": "https://www.qbitai.com/2026/07/457049.html",
     "source": "量子位",
@@ -37,11 +91,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "9 小时前"
+    "heat": 86,
+    "time": "22 小时前"
   },
   {
-    "id": 4,
+    "id": 8,
     "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
     "url": "https://www.qbitai.com/2026/07/457040.html",
     "source": "量子位",
@@ -50,11 +104,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 92,
-    "time": "10 小时前"
+    "heat": 84,
+    "time": "22 小时前"
   },
   {
-    "id": 5,
+    "id": 9,
     "title": "我在WAIC 2026看见的十大趋势",
     "url": "https://www.qbitai.com/2026/07/456974.html",
     "source": "量子位",
@@ -63,11 +117,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
-    "time": "10 小时前"
+    "heat": 82,
+    "time": "23 小时前"
   },
   {
-    "id": 6,
+    "id": 10,
     "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
     "url": "https://www.qbitai.com/2026/07/456910.html",
     "source": "量子位",
@@ -76,66 +130,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 88,
-    "time": "10 小时前"
-  },
-  {
-    "id": 7,
-    "title": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣",
-    "url": "https://www.qbitai.com/2026/07/456728.html",
-    "source": "量子位",
-    "summary": "按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。",
-    "tldr": "按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。",
-    "keyPoints": [
-      "按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。",
-      "2027年完成百台级部署，未来实现万台级具身智能产品部署。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "10 小时前"
-  },
-  {
-    "id": 8,
-    "title": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff",
-    "url": "https://www.qbitai.com/2026/07/456555.html",
-    "source": "量子位",
-    "summary": "建一座「元医院」比造AI工具难多了。",
-    "tldr": "建一座「元医院」比造AI工具难多了。",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 84,
-    "time": "10 小时前"
-  },
-  {
-    "id": 9,
-    "title": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型",
-    "url": "https://www.qbitai.com/2026/07/456178.html",
-    "source": "量子位",
-    "summary": "机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一",
-    "tldr": "机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一",
-    "keyPoints": [
-      "机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 82,
-    "time": "12 小时前"
-  },
-  {
-    "id": 10,
-    "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
-    "url": "https://www.qbitai.com/2026/07/456061.html",
-    "source": "量子位",
-    "summary": "中国大模型首次获得IMO官方金牌水平认证",
-    "tldr": "中国大模型首次获得IMO官方金牌水平认证",
-    "keyPoints": [
-      "中国大模型首次获得IMO官方金牌水平认证"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 80,
-    "time": "13 小时前"
+    "time": "23 小时前"
   }
 ]
