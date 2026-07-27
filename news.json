@@ -1,6 +1,86 @@
 [
   {
     "id": 1,
+    "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+    "url": "https://www.qbitai.com/2026/07/461444.html",
+    "source": "量子位",
+    "summary": "一次技术与场景的深度耦合",
+    "tldr": "一次技术与场景的深度耦合",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "4 小时前"
+  },
+  {
+    "id": 2,
+    "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+    "url": "https://www.qbitai.com/2026/07/461392.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "5 小时前"
+  },
+  {
+    "id": 3,
+    "title": "AI最尴尬的短板，中国科学院出手了",
+    "url": "https://www.qbitai.com/2026/07/461160.html",
+    "source": "量子位",
+    "summary": "把“情商”做成了一套可测可训的工程",
+    "tldr": "把“情商”做成了一套可测可训的工程",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "9 小时前"
+  },
+  {
+    "id": 4,
+    "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
+    "url": "https://www.qbitai.com/2026/07/461226.html",
+    "source": "量子位",
+    "summary": "让中国品牌赢在全球",
+    "tldr": "让中国品牌赢在全球",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "10 小时前"
+  },
+  {
+    "id": 5,
+    "title": "DeepSeek被曝主动叫停了第二轮融资签约",
+    "url": "https://www.qbitai.com/2026/07/461220.html",
+    "source": "量子位",
+    "summary": "这轮融资计划至少募资100亿元",
+    "tldr": "这轮融资计划至少募资100亿元",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "10 小时前"
+  },
+  {
+    "id": 6,
+    "title": "企业出海，被中国信通院和腾讯重新定义了一次",
+    "url": "https://www.qbitai.com/2026/07/461153.html",
+    "source": "量子位",
+    "summary": "22位AI专家率先上岗WorkBuddy",
+    "tldr": "22位AI专家率先上岗WorkBuddy",
+    "keyPoints": [
+      "22位AI专家率先上岗WorkBuddy"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "10 小时前"
+  },
+  {
+    "id": 7,
     "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
     "url": "https://www.qbitai.com/2026/07/461149.html",
     "source": "量子位",
@@ -9,11 +89,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "1 小时前"
+    "heat": 86,
+    "time": "12 小时前"
   },
   {
-    "id": 2,
+    "id": 8,
     "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&#038;复旦报告三连发",
     "url": "https://www.qbitai.com/2026/07/460962.html",
     "source": "量子位",
@@ -22,89 +102,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 96,
-    "time": "21 小时前"
-  },
-  {
-    "id": 3,
-    "title": "100%开源！吴恩达做了个个人桌面Agent",
-    "url": "https://www.qbitai.com/2026/07/460892.html",
-    "source": "量子位",
-    "summary": "开源、隐私、本地优先、模型无关",
-    "tldr": "开源、隐私、本地优先、模型无关",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 94,
-    "time": "1 天前"
-  },
-  {
-    "id": 4,
-    "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
-    "url": "https://www.qbitai.com/2026/07/460253.html",
-    "source": "量子位",
-    "summary": "模型变强，Claude Code系统提示词都精简了",
-    "tldr": "模型变强，Claude Code系统提示词都精简了",
-    "keyPoints": [
-      "模型变强，Claude Code系统提示词都精简了"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
-    "url": "https://www.qbitai.com/2026/07/460234.html",
-    "source": "量子位",
-    "summary": "不做人形，抓住真实用户需求",
-    "tldr": "不做人形，抓住真实用户需求",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
-    "url": "https://www.qbitai.com/2026/07/460186.html",
-    "source": "量子位",
-    "summary": "工业圈和学术圈“唱反调”",
-    "tldr": "工业圈和学术圈“唱反调”",
-    "keyPoints": [],
-    "worthReading": "本文聚焦论文研究方向，与 AI 行业趋势相关。",
-    "category": "论文研究",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
-    "url": "https://www.qbitai.com/2026/07/460174.html",
-    "source": "量子位",
-    "summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路",
-    "tldr": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路",
-    "keyPoints": [
-      "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 86,
-    "time": "1 天前"
-  },
-  {
-    "id": 8,
-    "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-    "url": "https://www.qbitai.com/2026/07/460154.html",
-    "source": "量子位",
-    "summary": "跑出原生全模态新路径",
-    "tldr": "跑出原生全模态新路径",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 84,
-    "time": "2 天前"
+    "time": "1 天前"
   }
 ]
