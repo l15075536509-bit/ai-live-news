@@ -1,6 +1,60 @@
 [
   {
     "id": 1,
+    "title": "豆包搜索，走出了豆包",
+    "url": "https://www.qbitai.com/2026/07/461961.html",
+    "source": "量子位",
+    "summary": "把搜索能力开放给Agent了",
+    "tldr": "把搜索能力开放给Agent了",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "3 小时前"
+  },
+  {
+    "id": 2,
+    "title": "当AI学会“仿真思维”，教师才能回归育人本质",
+    "url": "https://www.qbitai.com/2026/07/461939.html",
+    "source": "量子位",
+    "summary": "从“工具效率”到“认知理解”，教育AI进入深水区",
+    "tldr": "从“工具效率”到“认知理解”，教育AI进入深水区",
+    "keyPoints": [
+      "从“工具效率”到“认知理解”，教育AI进入深水区"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "6 小时前"
+  },
+  {
+    "id": 3,
+    "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
+    "url": "https://www.qbitai.com/2026/07/461650.html",
+    "source": "量子位",
+    "summary": "扩散模型首次打通长程Agent任务",
+    "tldr": "扩散模型首次打通长程Agent任务",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "9 小时前"
+  },
+  {
+    "id": 4,
+    "title": "智能体走向终端，个人AI时代正在到来",
+    "url": "https://www.qbitai.com/2026/07/461565.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "12 小时前"
+  },
+  {
+    "id": 5,
     "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
     "url": "https://www.qbitai.com/2026/07/461444.html",
     "source": "量子位",
@@ -9,87 +63,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "16 小时前"
-  },
-  {
-    "id": 2,
-    "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
-    "url": "https://www.qbitai.com/2026/07/461392.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 96,
-    "time": "17 小时前"
-  },
-  {
-    "id": 3,
-    "title": "AI最尴尬的短板，中国科学院出手了",
-    "url": "https://www.qbitai.com/2026/07/461160.html",
-    "source": "量子位",
-    "summary": "把“情商”做成了一套可测可训的工程",
-    "tldr": "把“情商”做成了一套可测可训的工程",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "21 小时前"
-  },
-  {
-    "id": 4,
-    "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
-    "url": "https://www.qbitai.com/2026/07/461226.html",
-    "source": "量子位",
-    "summary": "让中国品牌赢在全球",
-    "tldr": "让中国品牌赢在全球",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "22 小时前"
-  },
-  {
-    "id": 5,
-    "title": "DeepSeek被曝主动叫停了第二轮融资签约",
-    "url": "https://www.qbitai.com/2026/07/461220.html",
-    "source": "量子位",
-    "summary": "这轮融资计划至少募资100亿元",
-    "tldr": "这轮融资计划至少募资100亿元",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 90,
-    "time": "22 小时前"
-  },
-  {
-    "id": 6,
-    "title": "企业出海，被中国信通院和腾讯重新定义了一次",
-    "url": "https://www.qbitai.com/2026/07/461153.html",
-    "source": "量子位",
-    "summary": "22位AI专家率先上岗WorkBuddy",
-    "tldr": "22位AI专家率先上岗WorkBuddy",
-    "keyPoints": [
-      "22位AI专家率先上岗WorkBuddy"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "22 小时前"
-  },
-  {
-    "id": 7,
-    "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-    "url": "https://www.qbitai.com/2026/07/461149.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 86,
     "time": "1 天前"
   }
 ]
