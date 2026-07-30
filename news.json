@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "title": "这这这…翁荔光速回OpenAI上班了",
+    "url": "https://www.qbitai.com/2026/07/462947.html",
+    "source": "量子位",
+    "summary": "6位联合创始人——只剩2名。",
+    "tldr": "6位联合创始人——只剩2名。",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "1 小时前"
+  },
+  {
+    "id": 2,
     "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
     "url": "https://www.qbitai.com/2026/07/462943.html",
     "source": "量子位",
@@ -11,11 +24,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "2 小时前"
+    "heat": 96,
+    "time": "15 小时前"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
     "url": "https://www.qbitai.com/2026/07/462447.html",
     "source": "量子位",
@@ -24,11 +37,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "5 小时前"
+    "heat": 94,
+    "time": "18 小时前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
     "url": "https://www.qbitai.com/2026/07/462384.html",
     "source": "量子位",
@@ -37,11 +50,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "6 小时前"
+    "heat": 92,
+    "time": "18 小时前"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
     "url": "https://www.qbitai.com/2026/07/462380.html",
     "source": "量子位",
@@ -50,11 +63,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "7 小时前"
+    "heat": 90,
+    "time": "19 小时前"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
     "url": "https://www.qbitai.com/2026/07/462065.html",
     "source": "量子位",
@@ -63,11 +76,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 90,
-    "time": "10 小时前"
+    "heat": 88,
+    "time": "22 小时前"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生",
     "url": "https://www.qbitai.com/2026/07/462062.html",
     "source": "量子位",
@@ -76,19 +89,6 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 88,
-    "time": "12 小时前"
-  },
-  {
-    "id": 7,
-    "title": "豆包搜索，走出了豆包",
-    "url": "https://www.qbitai.com/2026/07/461961.html",
-    "source": "量子位",
-    "summary": "把搜索能力开放给Agent了",
-    "tldr": "把搜索能力开放给Agent了",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 86,
     "time": "1 天前"
   }
