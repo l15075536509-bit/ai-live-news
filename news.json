@@ -1,6 +1,90 @@
 [
   {
     "id": 1,
+    "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
+    "url": "https://www.qbitai.com/2026/07/463433.html",
+    "source": "量子位",
+    "summary": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵",
+    "tldr": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵",
+    "keyPoints": [
+      "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "5 小时前"
+  },
+  {
+    "id": 2,
+    "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
+    "url": "https://www.qbitai.com/2026/07/463204.html",
+    "source": "量子位",
+    "summary": "靠“堆参数换销量\"的逻辑，不再管用了",
+    "tldr": "靠“堆参数换销量\"的逻辑，不再管用了",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "5 小时前"
+  },
+  {
+    "id": 3,
+    "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
+    "url": "https://www.qbitai.com/2026/07/463297.html",
+    "source": "量子位",
+    "summary": "OpenAI的RSI焚诀，它来了！",
+    "tldr": "OpenAI的RSI焚诀，它来了！",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "6 小时前"
+  },
+  {
+    "id": 4,
+    "title": "李飞飞的世界模型，终于开始训练机器人了",
+    "url": "https://www.qbitai.com/2026/07/463217.html",
+    "source": "量子位",
+    "summary": "李飞飞老师的World Labs，补了块关键拼图",
+    "tldr": "李飞飞老师的World Labs，补了块关键拼图",
+    "keyPoints": [
+      "李飞飞老师的World Labs，补了块关键拼图"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "6 小时前"
+  },
+  {
+    "id": 5,
+    "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
+    "url": "https://www.qbitai.com/2026/07/463123.html",
+    "source": "量子位",
+    "summary": "嚯，诺奖团队也被砍了",
+    "tldr": "嚯，诺奖团队也被砍了",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "7 小时前"
+  },
+  {
+    "id": 6,
+    "title": "WorkBuddy重大升级，AI时代的Office来了",
+    "url": "https://www.qbitai.com/2026/07/462979.html",
+    "source": "量子位",
+    "summary": "WorkBuddy已成为国内最受欢迎的效率智能体工具之一",
+    "tldr": "WorkBuddy已成为国内最受欢迎的效率智能体工具之一",
+    "keyPoints": [
+      "WorkBuddy已成为国内最受欢迎的效率智能体工具之一"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "8 小时前"
+  },
+  {
+    "id": 7,
     "title": "这这这…翁荔光速回OpenAI上班了",
     "url": "https://www.qbitai.com/2026/07/462947.html",
     "source": "量子位",
@@ -9,11 +93,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "1 小时前"
+    "heat": 86,
+    "time": "13 小时前"
   },
   {
-    "id": 2,
+    "id": 8,
     "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
     "url": "https://www.qbitai.com/2026/07/462943.html",
     "source": "量子位",
@@ -24,72 +108,7 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "15 小时前"
-  },
-  {
-    "id": 3,
-    "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
-    "url": "https://www.qbitai.com/2026/07/462447.html",
-    "source": "量子位",
-    "summary": "AI开始组团“挖漏洞”",
-    "tldr": "AI开始组团“挖漏洞”",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "18 小时前"
-  },
-  {
-    "id": 4,
-    "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
-    "url": "https://www.qbitai.com/2026/07/462384.html",
-    "source": "量子位",
-    "summary": "百万网友已玩疯",
-    "tldr": "百万网友已玩疯",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "18 小时前"
-  },
-  {
-    "id": 5,
-    "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
-    "url": "https://www.qbitai.com/2026/07/462380.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "19 小时前"
-  },
-  {
-    "id": 6,
-    "title": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
-    "url": "https://www.qbitai.com/2026/07/462065.html",
-    "source": "量子位",
-    "summary": "让多智能体团队随时随地为你干活",
-    "tldr": "让多智能体团队随时随地为你干活",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 88,
-    "time": "22 小时前"
-  },
-  {
-    "id": 7,
-    "title": "周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生",
-    "url": "https://www.qbitai.com/2026/07/462062.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 86,
+    "heat": 84,
     "time": "1 天前"
   }
 ]
