@@ -1,6 +1,86 @@
 [
   {
     "id": 1,
+    "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+    "url": "https://www.qbitai.com/2026/07/464328.html",
+    "source": "量子位",
+    "summary": "开源项目GitHub狂揽8000+Star",
+    "tldr": "开源项目GitHub狂揽8000+Star",
+    "keyPoints": [
+      "开源项目GitHub狂揽8000+Star"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "4 小时前"
+  },
+  {
+    "id": 2,
+    "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
+    "url": "https://www.qbitai.com/2026/07/464277.html",
+    "source": "量子位",
+    "summary": "尽显AGI黄金时代的奢华",
+    "tldr": "尽显AGI黄金时代的奢华",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "5 小时前"
+  },
+  {
+    "id": 3,
+    "title": "米哈游蔡浩宇AI创业生变",
+    "url": "https://www.qbitai.com/2026/07/464169.html",
+    "source": "量子位",
+    "summary": "多个项目暂停，九成资源押向Agent",
+    "tldr": "多个项目暂停，九成资源押向Agent",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "6 小时前"
+  },
+  {
+    "id": 4,
+    "title": "姚顺雨拿50年数学难题成绩单，招人了",
+    "url": "https://www.qbitai.com/2026/07/464100.html",
+    "source": "量子位",
+    "summary": "AI for Science方向",
+    "tldr": "AI for Science方向",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "7 小时前"
+  },
+  {
+    "id": 5,
+    "title": "学习强国做了个AI社区，两周铺进68座城市",
+    "url": "https://www.qbitai.com/2026/07/463727.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "7 小时前"
+  },
+  {
+    "id": 6,
+    "title": "GPT-5.6今起大降价，最大幅度80%！",
+    "url": "https://www.qbitai.com/2026/07/463640.html",
+    "source": "量子位",
+    "summary": "Luna打骨折",
+    "tldr": "Luna打骨折",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "11 小时前"
+  },
+  {
+    "id": 7,
     "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
     "url": "https://www.qbitai.com/2026/07/463433.html",
     "source": "量子位",
@@ -11,11 +91,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "17 小时前"
+    "heat": 86,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 8,
     "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
     "url": "https://www.qbitai.com/2026/07/463204.html",
     "source": "量子位",
@@ -24,11 +104,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "18 小时前"
+    "heat": 84,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 9,
     "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
     "url": "https://www.qbitai.com/2026/07/463297.html",
     "source": "量子位",
@@ -37,78 +117,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "19 小时前"
-  },
-  {
-    "id": 4,
-    "title": "李飞飞的世界模型，终于开始训练机器人了",
-    "url": "https://www.qbitai.com/2026/07/463217.html",
-    "source": "量子位",
-    "summary": "李飞飞老师的World Labs，补了块关键拼图",
-    "tldr": "李飞飞老师的World Labs，补了块关键拼图",
-    "keyPoints": [
-      "李飞飞老师的World Labs，补了块关键拼图"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "19 小时前"
-  },
-  {
-    "id": 5,
-    "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
-    "url": "https://www.qbitai.com/2026/07/463123.html",
-    "source": "量子位",
-    "summary": "嚯，诺奖团队也被砍了",
-    "tldr": "嚯，诺奖团队也被砍了",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "20 小时前"
-  },
-  {
-    "id": 6,
-    "title": "WorkBuddy重大升级，AI时代的Office来了",
-    "url": "https://www.qbitai.com/2026/07/462979.html",
-    "source": "量子位",
-    "summary": "WorkBuddy已成为国内最受欢迎的效率智能体工具之一",
-    "tldr": "WorkBuddy已成为国内最受欢迎的效率智能体工具之一",
-    "keyPoints": [
-      "WorkBuddy已成为国内最受欢迎的效率智能体工具之一"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "21 小时前"
-  },
-  {
-    "id": 7,
-    "title": "这这这…翁荔光速回OpenAI上班了",
-    "url": "https://www.qbitai.com/2026/07/462947.html",
-    "source": "量子位",
-    "summary": "6位联合创始人——只剩2名。",
-    "tldr": "6位联合创始人——只剩2名。",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "1 天前"
-  },
-  {
-    "id": 8,
-    "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
-    "url": "https://www.qbitai.com/2026/07/462943.html",
-    "source": "量子位",
-    "summary": "中科院、北电数智等专家共探数学与AI边界",
-    "tldr": "中科院、北电数智等专家共探数学与AI边界",
-    "keyPoints": [
-      "中科院、北电数智等专家共探数学与AI边界"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 84,
+    "heat": 82,
     "time": "1 天前"
   }
 ]
