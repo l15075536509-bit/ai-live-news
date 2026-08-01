@@ -1,6 +1,101 @@
 [
   {
     "id": 1,
+    "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+    "url": "https://www.qbitai.com/2026/08/464781.html",
+    "source": "量子位",
+    "summary": "具身智能的τ（bushi）",
+    "tldr": "具身智能的τ（bushi）",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "2 小时前"
+  },
+  {
+    "id": 2,
+    "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+    "url": "https://www.qbitai.com/2026/08/464713.html",
+    "source": "量子位",
+    "summary": "狂刷3小时！",
+    "tldr": "狂刷3小时！",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "2 小时前"
+  },
+  {
+    "id": 3,
+    "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+    "url": "https://www.qbitai.com/2026/08/464693.html",
+    "source": "量子位",
+    "summary": "对前沿实验室估值悲观",
+    "tldr": "对前沿实验室估值悲观",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "8 小时前"
+  },
+  {
+    "id": 4,
+    "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+    "url": "https://www.qbitai.com/2026/08/464532.html",
+    "source": "量子位",
+    "summary": "下一场竞争，是谁能造出更多“有用的世界”",
+    "tldr": "下一场竞争，是谁能造出更多“有用的世界”",
+    "keyPoints": [
+      "下一场竞争，是谁能造出更多“有用的世界”"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "8 小时前"
+  },
+  {
+    "id": 5,
+    "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+    "url": "https://www.qbitai.com/2026/08/464452.html",
+    "source": "量子位",
+    "summary": "三本教科书，救活英伟达",
+    "tldr": "三本教科书，救活英伟达",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "9 小时前"
+  },
+  {
+    "id": 6,
+    "title": "Anthropic模型，也失控了。。。",
+    "url": "https://www.qbitai.com/2026/08/464412.html",
+    "source": "量子位",
+    "summary": "14万次测试翻旧账",
+    "tldr": "14万次测试翻旧账",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "10 小时前"
+  },
+  {
+    "id": 7,
+    "title": "AI顶会现场，见到了一家美妆巨头",
+    "url": "https://www.qbitai.com/2026/08/464364.html",
+    "source": "量子位",
+    "summary": "欧莱雅把AI装进mei'zhuang'quan'lian'lu",
+    "tldr": "欧莱雅把AI装进mei'zhuang'quan'lian'lu",
+    "keyPoints": [
+      "欧莱雅把AI装进mei'zhuang'quan'lian'lu"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 86,
+    "time": "10 小时前"
+  },
+  {
+    "id": 8,
     "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
     "url": "https://www.qbitai.com/2026/07/464328.html",
     "source": "量子位",
@@ -11,113 +106,7 @@
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "17 小时前"
-  },
-  {
-    "id": 2,
-    "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
-    "url": "https://www.qbitai.com/2026/07/464277.html",
-    "source": "量子位",
-    "summary": "尽显AGI黄金时代的奢华",
-    "tldr": "尽显AGI黄金时代的奢华",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 96,
-    "time": "18 小时前"
-  },
-  {
-    "id": 3,
-    "title": "米哈游蔡浩宇AI创业生变",
-    "url": "https://www.qbitai.com/2026/07/464169.html",
-    "source": "量子位",
-    "summary": "多个项目暂停，九成资源押向Agent",
-    "tldr": "多个项目暂停，九成资源押向Agent",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "19 小时前"
-  },
-  {
-    "id": 4,
-    "title": "姚顺雨拿50年数学难题成绩单，招人了",
-    "url": "https://www.qbitai.com/2026/07/464100.html",
-    "source": "量子位",
-    "summary": "AI for Science方向",
-    "tldr": "AI for Science方向",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "19 小时前"
-  },
-  {
-    "id": 5,
-    "title": "学习强国做了个AI社区，两周铺进68座城市",
-    "url": "https://www.qbitai.com/2026/07/463727.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "20 小时前"
-  },
-  {
-    "id": 6,
-    "title": "GPT-5.6今起大降价，最大幅度80%！",
-    "url": "https://www.qbitai.com/2026/07/463640.html",
-    "source": "量子位",
-    "summary": "Luna打骨折",
-    "tldr": "Luna打骨折",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "23 小时前"
-  },
-  {
-    "id": 7,
-    "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
-    "url": "https://www.qbitai.com/2026/07/463433.html",
-    "source": "量子位",
-    "summary": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵",
-    "tldr": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵",
-    "keyPoints": [
-      "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "1 天前"
-  },
-  {
-    "id": 8,
-    "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
-    "url": "https://www.qbitai.com/2026/07/463204.html",
-    "source": "量子位",
-    "summary": "靠“堆参数换销量\"的逻辑，不再管用了",
-    "tldr": "靠“堆参数换销量\"的逻辑，不再管用了",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 84,
-    "time": "1 天前"
-  },
-  {
-    "id": 9,
-    "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
-    "url": "https://www.qbitai.com/2026/07/463297.html",
-    "source": "量子位",
-    "summary": "OpenAI的RSI焚诀，它来了！",
-    "tldr": "OpenAI的RSI焚诀，它来了！",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 82,
     "time": "1 天前"
   }
 ]
