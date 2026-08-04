@@ -1,6 +1,88 @@
 [
   {
     "id": 1,
+    "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
+    "url": "https://www.qbitai.com/2026/08/466386.html",
+    "source": "量子位",
+    "summary": "北京大学&#038;元空AI Agent联合实验室",
+    "tldr": "北京大学&#038;元空AI Agent联合实验室",
+    "keyPoints": [
+      "北京大学&#038;元空AI Agent联合实验室"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 98,
+    "time": "59 分钟前"
+  },
+  {
+    "id": 2,
+    "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+    "url": "https://www.qbitai.com/2026/08/465792.html",
+    "source": "量子位",
+    "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
+    "tldr": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
+    "keyPoints": [
+      "第二天，就有一篇人类论文回应：AI提出的反例不成立"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 96,
+    "time": "4 小时前"
+  },
+  {
+    "id": 3,
+    "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
+    "url": "https://www.qbitai.com/2026/08/466262.html",
+    "source": "量子位",
+    "summary": "Skill和Agent也能被封装调用",
+    "tldr": "Skill和Agent也能被封装调用",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "4 小时前"
+  },
+  {
+    "id": 4,
+    "title": "OpenAI天价网红公关活动，捅马蜂窝了",
+    "url": "https://www.qbitai.com/2026/08/466032.html",
+    "source": "量子位",
+    "summary": "OpenAI+田园牧歌，画风属实太违和",
+    "tldr": "OpenAI+田园牧歌，画风属实太违和",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "4 小时前"
+  },
+  {
+    "id": 5,
+    "title": "DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash",
+    "url": "https://www.qbitai.com/2026/08/465814.html",
+    "source": "量子位",
+    "summary": "那还说啥了梁圣，我订阅费全给你就是了呗",
+    "tldr": "那还说啥了梁圣，我订阅费全给你就是了呗",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "5 小时前"
+  },
+  {
+    "id": 6,
+    "title": "资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地",
+    "url": "https://www.qbitai.com/2026/08/465785.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "7 小时前"
+  },
+  {
+    "id": 7,
     "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
     "url": "https://www.qbitai.com/2026/08/465732.html",
     "source": "量子位",
@@ -9,93 +91,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 98,
-    "time": "1 小时前"
-  },
-  {
-    "id": 2,
-    "title": "当品牌开始争夺AI的答案：翰智GEO入场",
-    "url": "https://www.qbitai.com/2026/08/465662.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 96,
-    "time": "19 小时前"
-  },
-  {
-    "id": 3,
-    "title": "Demo的高估值时代结束了，具身智能开始按生产力重新算账",
-    "url": "https://www.qbitai.com/2026/08/465225.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "20 小时前"
-  },
-  {
-    "id": 4,
-    "title": "刚刚，阿里Qwen3.8-Max来了！冲进全球第一梯队，模型表现直逼Claude",
-    "url": "https://www.qbitai.com/2026/08/465226.html",
-    "source": "量子位",
-    "summary": "编程、专业工作、长程任务、多模态分析统统梭哈",
-    "tldr": "编程、专业工作、长程任务、多模态分析统统梭哈",
-    "keyPoints": [
-      "编程、专业工作、长程任务、多模态分析统统梭哈"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "20 小时前"
-  },
-  {
-    "id": 5,
-    "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
-    "url": "https://www.qbitai.com/2026/08/465215.html",
-    "source": "量子位",
-    "summary": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。Qwen3.8-Max预计下周开源，同时还将开源 Qwen3.8-27B。",
-    "tldr": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。",
-    "keyPoints": [
-      "阿里巴巴正式发布新一代基座大模型Qwen3.",
-      "8-Max预计下周开源，同时还将开源 Qwen3."
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 90,
-    "time": "21 小时前"
-  },
-  {
-    "id": 6,
-    "title": "阿里“千问办公”开启公测",
-    "url": "https://www.qbitai.com/2026/08/465211.html",
-    "source": "量子位",
-    "summary": "阿里巴巴旗下“千问办公”（QwenWork）开启公测，个人和企业用户均可体验。用户可在“千问办公”体验阿里最新旗舰模型Qwen3.8。",
-    "tldr": "阿里巴巴旗下“千问办公”（QwenWork）开启公测，个人和企业用户均可体验。",
-    "keyPoints": [
-      "阿里巴巴旗下“千问办公”（QwenWork）开启公测，个人和企业用户均可体验。",
-      "用户可在“千问办公”体验阿里最新旗舰模型Qwen3."
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 88,
-    "time": "21 小时前"
-  },
-  {
-    "id": 7,
-    "title": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！",
-    "url": "https://www.qbitai.com/2026/08/465176.html",
-    "source": "量子位",
-    "summary": "终究还是喜提了「美国豆包」",
-    "tldr": "终究还是喜提了「美国豆包」",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 86,
-    "time": "22 小时前"
+    "time": "12 小时前"
   }
 ]
