@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+    "url": "https://www.qbitai.com/2026/08/467196.html",
+    "source": "量子位",
+    "summary": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
+    "tldr": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
+    "keyPoints": [
+      "与此同时，哈萨比斯卸任谷歌DeepMind CEO"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "2 小时前"
+  },
+  {
+    "id": 2,
+    "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
+    "url": "https://www.qbitai.com/2026/08/467034.html",
+    "source": "量子位",
+    "summary": "兔展智能发布RabbitVis，让AI真正走完设计全流程",
+    "tldr": "兔展智能发布RabbitVis，让AI真正走完设计全流程",
+    "keyPoints": [
+      "兔展智能发布RabbitVis，让AI真正走完设计全流程"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 96,
+    "time": "12 小时前"
+  },
+  {
+    "id": 3,
     "title": "又一家AI基金暴雷了",
     "url": "https://www.qbitai.com/2026/08/467001.html",
     "source": "量子位",
@@ -9,11 +39,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 98,
-    "time": "1 小时前"
+    "heat": 94,
+    "time": "13 小时前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
     "url": "https://www.qbitai.com/2026/08/466998.html",
     "source": "量子位",
@@ -24,11 +54,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "4 小时前"
+    "heat": 92,
+    "time": "16 小时前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
     "url": "https://www.qbitai.com/2026/08/466739.html",
     "source": "量子位",
@@ -37,11 +67,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "7 小时前"
+    "heat": 90,
+    "time": "20 小时前"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
     "url": "https://www.qbitai.com/2026/08/466553.html",
     "source": "量子位",
@@ -50,11 +80,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "8 小时前"
+    "heat": 88,
+    "time": "20 小时前"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
     "url": "https://www.qbitai.com/2026/08/466454.html",
     "source": "量子位",
@@ -63,11 +93,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
-    "time": "9 小时前"
+    "heat": 86,
+    "time": "22 小时前"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
     "url": "https://www.qbitai.com/2026/08/466386.html",
     "source": "量子位",
@@ -78,48 +108,7 @@
     ],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
-    "url": "https://www.qbitai.com/2026/08/465792.html",
-    "source": "量子位",
-    "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
-    "tldr": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
-    "keyPoints": [
-      "第二天，就有一篇人类论文回应：AI提出的反例不成立"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 86,
-    "time": "1 天前"
-  },
-  {
-    "id": 8,
-    "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
-    "url": "https://www.qbitai.com/2026/08/466262.html",
-    "source": "量子位",
-    "summary": "Skill和Agent也能被封装调用",
-    "tldr": "Skill和Agent也能被封装调用",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 84,
-    "time": "1 天前"
-  },
-  {
-    "id": 9,
-    "title": "OpenAI天价网红公关活动，捅马蜂窝了",
-    "url": "https://www.qbitai.com/2026/08/466032.html",
-    "source": "量子位",
-    "summary": "OpenAI+田园牧歌，画风属实太违和",
-    "tldr": "OpenAI+田园牧歌，画风属实太违和",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 82,
     "time": "1 天前"
   }
 ]
