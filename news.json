@@ -1,6 +1,45 @@
 [
   {
     "id": 1,
+    "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+    "url": "https://www.qbitai.com/2026/08/468631.html",
+    "source": "量子位",
+    "summary": "这就有些尴尬了。",
+    "tldr": "这就有些尴尬了。",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "4 小时前"
+  },
+  {
+    "id": 2,
+    "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+    "url": "https://www.qbitai.com/2026/08/468398.html",
+    "source": "量子位",
+    "summary": "再花15亿美元买现成AI编程团队",
+    "tldr": "再花15亿美元买现成AI编程团队",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "10 小时前"
+  },
+  {
+    "id": 3,
+    "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+    "url": "https://www.qbitai.com/2026/08/468338.html",
+    "source": "量子位",
+    "summary": "啊，这真是个AI“失控”的夏天",
+    "tldr": "啊，这真是个AI“失控”的夏天",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "10 小时前"
+  },
+  {
+    "id": 4,
     "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
     "url": "https://www.qbitai.com/2026/08/468324.html",
     "source": "量子位",
@@ -9,11 +48,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 98,
-    "time": "17 小时前"
+    "heat": 92,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
     "url": "https://www.qbitai.com/2026/08/466738.html",
     "source": "量子位",
@@ -22,11 +61,24 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "19 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 6,
+    "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+    "url": "https://www.qbitai.com/2026/08/468305.html",
+    "source": "量子位",
+    "summary": "从「能用」走向「规模化落地」",
+    "tldr": "从「能用」走向「规模化落地」",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 88,
+    "time": "1 天前"
+  },
+  {
+    "id": 7,
     "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
     "url": "https://www.qbitai.com/2026/08/467878.html",
     "source": "量子位",
@@ -37,65 +89,7 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "20 小时前"
-  },
-  {
-    "id": 4,
-    "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-    "url": "https://www.qbitai.com/2026/08/467877.html",
-    "source": "量子位",
-    "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
-    "tldr": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
-    "keyPoints": [
-      "8月6日，阿里巴巴视频生成大模型Wan 3."
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "22 小时前"
-  },
-  {
-    "id": 5,
-    "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
-    "url": "https://www.qbitai.com/2026/08/467879.html",
-    "source": "量子位",
-    "summary": "Chat优化版",
-    "tldr": "Chat优化版",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "22 小时前"
-  },
-  {
-    "id": 6,
-    "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
-    "url": "https://www.qbitai.com/2026/08/467871.html",
-    "source": "量子位",
-    "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
-    "tldr": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
-    "keyPoints": [
-      "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线"
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 88,
-    "time": "22 小时前"
-  },
-  {
-    "id": 7,
-    "title": "AI SSD：大模型推理的存储范式转移",
-    "url": "https://www.qbitai.com/2026/08/467840.html",
-    "source": "量子位",
-    "summary": "算力、网络、内存与存储开始围绕每个Token协同",
-    "tldr": "算力、网络、内存与存储开始围绕每个Token协同",
-    "keyPoints": [
-      "算力、网络、内存与存储开始围绕每个Token协同"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 86,
-    "time": "22 小时前"
+    "time": "1 天前"
   }
 ]
