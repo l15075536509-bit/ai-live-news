@@ -1,6 +1,60 @@
 [
   {
     "id": 1,
+    "title": "模型路线趋同之后，Physical AI的胜负手变了",
+    "url": "https://www.qbitai.com/2026/08/469544.html",
+    "source": "量子位",
+    "summary": "物理AI新瓶颈已出现",
+    "tldr": "物理AI新瓶颈已出现",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "3 小时前"
+  },
+  {
+    "id": 2,
+    "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+    "url": "https://www.qbitai.com/2026/08/469520.html",
+    "source": "量子位",
+    "summary": "“我们90天就成了独角兽”",
+    "tldr": "“我们90天就成了独角兽”",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "6 小时前"
+  },
+  {
+    "id": 3,
+    "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+    "url": "https://www.qbitai.com/2026/08/469500.html",
+    "source": "量子位",
+    "summary": "会话越长，人的表现越差",
+    "tldr": "会话越长，人的表现越差",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "7 小时前"
+  },
+  {
+    "id": 4,
+    "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+    "url": "https://www.qbitai.com/2026/08/469493.html",
+    "source": "量子位",
+    "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
+    "tldr": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
+    "keyPoints": [
+      "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 92,
+    "time": "9 小时前"
+  },
+  {
+    "id": 5,
     "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
     "url": "https://www.qbitai.com/2026/08/469076.html",
     "source": "量子位",
@@ -11,70 +65,16 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "39 分钟前"
+    "heat": 90,
+    "time": "11 小时前"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "180万刀，连亚马逊都烧不起Claude了",
     "url": "https://www.qbitai.com/2026/08/469010.html",
     "source": "量子位",
     "summary": "Claude不是我说你，钱真不能这么花",
     "tldr": "Claude不是我说你，钱真不能这么花",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 96,
-    "time": "16 小时前"
-  },
-  {
-    "id": 3,
-    "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
-    "url": "https://www.qbitai.com/2026/08/468913.html",
-    "source": "量子位",
-    "summary": "作者读博时就在研究，17年后被AI解开了",
-    "tldr": "作者读博时就在研究，17年后被AI解开了",
-    "keyPoints": [
-      "作者读博时就在研究，17年后被AI解开了"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 94,
-    "time": "16 小时前"
-  },
-  {
-    "id": 4,
-    "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-    "url": "https://www.qbitai.com/2026/08/468782.html",
-    "source": "量子位",
-    "summary": "AI参与创造下一代AI",
-    "tldr": "AI参与创造下一代AI",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 92,
-    "time": "22 小时前"
-  },
-  {
-    "id": 5,
-    "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-    "url": "https://www.qbitai.com/2026/08/468766.html",
-    "source": "量子位",
-    "summary": "据说GPT-5.6很适合拿来做游戏",
-    "tldr": "据说GPT-5.6很适合拿来做游戏",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "22 小时前"
-  },
-  {
-    "id": 6,
-    "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
-    "url": "https://www.qbitai.com/2026/08/468631.html",
-    "source": "量子位",
-    "summary": "这就有些尴尬了。",
-    "tldr": "这就有些尴尬了。",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
