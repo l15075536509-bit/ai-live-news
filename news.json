@@ -1,6 +1,32 @@
 [
   {
     "id": 1,
+    "title": "AI倒查论文100年！99.2%的顶刊都有问题&#8230;",
+    "url": "https://www.qbitai.com/2026/08/469795.html",
+    "source": "量子位",
+    "summary": "科研人快来啊，天上掉选题了",
+    "tldr": "科研人快来啊，天上掉选题了",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "11 小时前"
+  },
+  {
+    "id": 2,
+    "title": "PDF当死，ARA该立！论文是时候Agent原生了",
+    "url": "https://www.qbitai.com/2026/08/469721.html",
+    "source": "量子位",
+    "summary": "以后论文的第一读者不是人，而是AI？",
+    "tldr": "以后论文的第一读者不是人，而是AI？",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 96,
+    "time": "11 小时前"
+  },
+  {
+    "id": 3,
     "title": "模型路线趋同之后，Physical AI的胜负手变了",
     "url": "https://www.qbitai.com/2026/08/469544.html",
     "source": "量子位",
@@ -9,11 +35,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "3 小时前"
+    "heat": 94,
+    "time": "16 小时前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
     "url": "https://www.qbitai.com/2026/08/469520.html",
     "source": "量子位",
@@ -22,11 +48,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "6 小时前"
+    "heat": 92,
+    "time": "18 小时前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
     "url": "https://www.qbitai.com/2026/08/469500.html",
     "source": "量子位",
@@ -35,11 +61,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "7 小时前"
+    "heat": 90,
+    "time": "20 小时前"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
     "url": "https://www.qbitai.com/2026/08/469493.html",
     "source": "量子位",
@@ -50,35 +76,7 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 92,
-    "time": "9 小时前"
-  },
-  {
-    "id": 5,
-    "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
-    "url": "https://www.qbitai.com/2026/08/469076.html",
-    "source": "量子位",
-    "summary": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。",
-    "tldr": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。",
-    "keyPoints": [
-      "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "11 小时前"
-  },
-  {
-    "id": 6,
-    "title": "180万刀，连亚马逊都烧不起Claude了",
-    "url": "https://www.qbitai.com/2026/08/469010.html",
-    "source": "量子位",
-    "summary": "Claude不是我说你，钱真不能这么花",
-    "tldr": "Claude不是我说你，钱真不能这么花",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 88,
-    "time": "1 天前"
+    "time": "22 小时前"
   }
 ]
