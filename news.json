@@ -1,6 +1,73 @@
 [
   {
     "id": 1,
+    "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+    "url": "https://www.qbitai.com/2026/08/470621.html",
+    "source": "量子位",
+    "summary": "算力竞赛的天平，正在向电力倾斜",
+    "tldr": "算力竞赛的天平，正在向电力倾斜",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "1 小时前"
+  },
+  {
+    "id": 2,
+    "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+    "url": "https://www.qbitai.com/2026/08/470576.html",
+    "source": "量子位",
+    "summary": "谷歌算力分配内耗严重",
+    "tldr": "谷歌算力分配内耗严重",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "3 小时前"
+  },
+  {
+    "id": 3,
+    "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+    "url": "https://www.qbitai.com/2026/08/470485.html",
+    "source": "量子位",
+    "summary": "把下界推高了一大截",
+    "tldr": "把下界推高了一大截",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "7 小时前"
+  },
+  {
+    "id": 4,
+    "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+    "url": "https://www.qbitai.com/2026/08/470228.html",
+    "source": "量子位",
+    "summary": "大水印时代来了",
+    "tldr": "大水印时代来了",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "9 小时前"
+  },
+  {
+    "id": 5,
+    "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+    "url": "https://www.qbitai.com/2026/08/469869.html",
+    "source": "量子位",
+    "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
+    "tldr": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
+    "keyPoints": [
+      "全球AI安全实战化测评，中国方案DoGNAVY位列前三"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "9 小时前"
+  },
+  {
+    "id": 6,
     "title": "AI倒查论文100年！99.2%的顶刊都有问题&#8230;",
     "url": "https://www.qbitai.com/2026/08/469795.html",
     "source": "量子位",
@@ -9,74 +76,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "11 小时前"
-  },
-  {
-    "id": 2,
-    "title": "PDF当死，ARA该立！论文是时候Agent原生了",
-    "url": "https://www.qbitai.com/2026/08/469721.html",
-    "source": "量子位",
-    "summary": "以后论文的第一读者不是人，而是AI？",
-    "tldr": "以后论文的第一读者不是人，而是AI？",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 96,
-    "time": "11 小时前"
-  },
-  {
-    "id": 3,
-    "title": "模型路线趋同之后，Physical AI的胜负手变了",
-    "url": "https://www.qbitai.com/2026/08/469544.html",
-    "source": "量子位",
-    "summary": "物理AI新瓶颈已出现",
-    "tldr": "物理AI新瓶颈已出现",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "16 小时前"
-  },
-  {
-    "id": 4,
-    "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
-    "url": "https://www.qbitai.com/2026/08/469520.html",
-    "source": "量子位",
-    "summary": "“我们90天就成了独角兽”",
-    "tldr": "“我们90天就成了独角兽”",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "18 小时前"
-  },
-  {
-    "id": 5,
-    "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-    "url": "https://www.qbitai.com/2026/08/469500.html",
-    "source": "量子位",
-    "summary": "会话越长，人的表现越差",
-    "tldr": "会话越长，人的表现越差",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "20 小时前"
-  },
-  {
-    "id": 6,
-    "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-    "url": "https://www.qbitai.com/2026/08/469493.html",
-    "source": "量子位",
-    "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
-    "tldr": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
-    "keyPoints": [
-      "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
     "heat": 88,
-    "time": "22 小时前"
+    "time": "23 小时前"
   }
 ]
