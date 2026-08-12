@@ -1,6 +1,34 @@
 [
   {
     "id": 1,
+    "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+    "url": "https://www.qbitai.com/2026/08/471030.html",
+    "source": "量子位",
+    "summary": "免训练、开箱即用！",
+    "tldr": "免训练、开箱即用！",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 98,
+    "time": "2 小时前"
+  },
+  {
+    "id": 2,
+    "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+    "url": "https://www.qbitai.com/2026/08/470874.html",
+    "source": "量子位",
+    "summary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
+    "tldr": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
+    "keyPoints": [
+      "从柔性本体走向跨本体基础智能，让任务与世界知识延续"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "8 小时前"
+  },
+  {
+    "id": 3,
     "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
     "url": "https://www.qbitai.com/2026/08/470621.html",
     "source": "量子位",
@@ -9,11 +37,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "14 小时前"
+    "heat": 94,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
     "url": "https://www.qbitai.com/2026/08/470576.html",
     "source": "量子位",
@@ -22,11 +50,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "16 小时前"
+    "heat": 92,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
     "url": "https://www.qbitai.com/2026/08/470485.html",
     "source": "量子位",
@@ -35,35 +63,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "20 小时前"
-  },
-  {
-    "id": 4,
-    "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
-    "url": "https://www.qbitai.com/2026/08/470228.html",
-    "source": "量子位",
-    "summary": "大水印时代来了",
-    "tldr": "大水印时代来了",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "22 小时前"
-  },
-  {
-    "id": 5,
-    "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
-    "url": "https://www.qbitai.com/2026/08/469869.html",
-    "source": "量子位",
-    "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
-    "tldr": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
-    "keyPoints": [
-      "全球AI安全实战化测评，中国方案DoGNAVY位列前三"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 90,
-    "time": "22 小时前"
+    "time": "1 天前"
   }
 ]
