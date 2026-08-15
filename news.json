@@ -1,6 +1,32 @@
 [
   {
     "id": 1,
+    "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+    "url": "https://www.qbitai.com/2026/08/473379.html",
+    "source": "量子位",
+    "summary": "所有人都可免费下载部署及商用。",
+    "tldr": "所有人都可免费下载部署及商用。",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 98,
+    "time": "9 小时前"
+  },
+  {
+    "id": 2,
+    "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
+    "url": "https://www.qbitai.com/2026/08/473153.html",
+    "source": "量子位",
+    "summary": "布林亲自下场督战",
+    "tldr": "布林亲自下场督战",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "10 小时前"
+  },
+  {
+    "id": 3,
     "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
     "url": "https://www.qbitai.com/2026/08/473149.html",
     "source": "量子位",
@@ -9,11 +35,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "2 小时前"
+    "heat": 94,
+    "time": "14 小时前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
     "url": "https://www.qbitai.com/2026/08/473144.html",
     "source": "量子位",
@@ -22,11 +48,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 96,
-    "time": "4 小时前"
+    "heat": 92,
+    "time": "16 小时前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "深度体验DeepSeek Harness，我原谅它涨价了",
     "url": "https://www.qbitai.com/2026/08/472208.html",
     "source": "量子位",
@@ -35,42 +61,16 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "21 小时前"
-  },
-  {
-    "id": 4,
-    "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-    "url": "https://www.qbitai.com/2026/08/472059.html",
-    "source": "量子位",
-    "summary": "首颗AI芯片已进入量产",
-    "tldr": "首颗AI芯片已进入量产",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
-    "url": "https://www.qbitai.com/2026/08/472060.html",
-    "source": "量子位",
-    "summary": "重新定义物理AI数据基础设施",
-    "tldr": "重新定义物理AI数据基础设施",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 90,
     "time": "1 天前"
   },
   {
     "id": 6,
-    "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
-    "url": "https://www.qbitai.com/2026/08/472016.html",
+    "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+    "url": "https://www.qbitai.com/2026/08/472059.html",
     "source": "量子位",
-    "summary": "好数学家不挑AI模型",
-    "tldr": "好数学家不挑AI模型",
+    "summary": "首颗AI芯片已进入量产",
+    "tldr": "首颗AI芯片已进入量产",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
