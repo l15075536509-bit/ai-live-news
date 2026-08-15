@@ -1,6 +1,58 @@
 [
   {
     "id": 1,
+    "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+    "url": "https://www.qbitai.com/2026/08/473876.html",
+    "source": "量子位",
+    "summary": "理解大模型，无需再训练一个替代网络",
+    "tldr": "理解大模型，无需再训练一个替代网络",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "5 小时前"
+  },
+  {
+    "id": 2,
+    "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+    "url": "https://www.qbitai.com/2026/08/473866.html",
+    "source": "量子位",
+    "summary": "音潮API限时免费开放",
+    "tldr": "音潮API限时免费开放",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "6 小时前"
+  },
+  {
+    "id": 3,
+    "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+    "url": "https://www.qbitai.com/2026/08/473669.html",
+    "source": "量子位",
+    "summary": "推理能力还能自定义",
+    "tldr": "推理能力还能自定义",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "6 小时前"
+  },
+  {
+    "id": 4,
+    "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
+    "url": "https://www.qbitai.com/2026/08/473597.html",
+    "source": "量子位",
+    "summary": "大家已经给DeepSeek装上了啥",
+    "tldr": "大家已经给DeepSeek装上了啥",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 92,
+    "time": "6 小时前"
+  },
+  {
+    "id": 5,
     "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
     "url": "https://www.qbitai.com/2026/08/473379.html",
     "source": "量子位",
@@ -9,11 +61,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 98,
-    "time": "9 小时前"
+    "heat": 90,
+    "time": "20 小时前"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
     "url": "https://www.qbitai.com/2026/08/473153.html",
     "source": "量子位",
@@ -22,11 +74,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "10 小时前"
+    "heat": 88,
+    "time": "21 小时前"
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
     "url": "https://www.qbitai.com/2026/08/473149.html",
     "source": "量子位",
@@ -35,46 +87,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "14 小时前"
-  },
-  {
-    "id": 4,
-    "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-    "url": "https://www.qbitai.com/2026/08/473144.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 92,
-    "time": "16 小时前"
-  },
-  {
-    "id": 5,
-    "title": "深度体验DeepSeek Harness，我原谅它涨价了",
-    "url": "https://www.qbitai.com/2026/08/472208.html",
-    "source": "量子位",
-    "summary": "欢迎，为后人种点树",
-    "tldr": "欢迎，为后人种点树",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-    "url": "https://www.qbitai.com/2026/08/472059.html",
-    "source": "量子位",
-    "summary": "首颗AI芯片已进入量产",
-    "tldr": "首颗AI芯片已进入量产",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
+    "heat": 86,
     "time": "1 天前"
   }
 ]
