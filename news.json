@@ -1,6 +1,45 @@
 [
   {
     "id": 1,
+    "title": "李飞飞最新访谈：AI咋能代替人呢？",
+    "url": "https://www.qbitai.com/2026/08/474140.html",
+    "source": "量子位",
+    "summary": "AI不是替代者，而是个人能力的放大镜",
+    "tldr": "AI不是替代者，而是个人能力的放大镜",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "1 小时前"
+  },
+  {
+    "id": 2,
+    "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+    "url": "https://www.qbitai.com/2026/08/474064.html",
+    "source": "量子位",
+    "summary": "“错过种一棵树最好的时间”",
+    "tldr": "“错过种一棵树最好的时间”",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "2 小时前"
+  },
+  {
+    "id": 3,
+    "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+    "url": "https://www.qbitai.com/2026/08/473972.html",
+    "source": "量子位",
+    "summary": "背后是四项关键能力",
+    "tldr": "背后是四项关键能力",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 94,
+    "time": "7 小时前"
+  },
+  {
+    "id": 4,
     "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
     "url": "https://www.qbitai.com/2026/08/473876.html",
     "source": "量子位",
@@ -9,11 +48,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "18 小时前"
+    "heat": 92,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
     "url": "https://www.qbitai.com/2026/08/473866.html",
     "source": "量子位",
@@ -22,11 +61,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "18 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
     "url": "https://www.qbitai.com/2026/08/473669.html",
     "source": "量子位",
@@ -35,11 +74,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "19 小时前"
+    "heat": 88,
+    "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 7,
     "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
     "url": "https://www.qbitai.com/2026/08/473597.html",
     "source": "量子位",
@@ -48,45 +87,6 @@
     "keyPoints": [],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 92,
-    "time": "19 小时前"
-  },
-  {
-    "id": 5,
-    "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-    "url": "https://www.qbitai.com/2026/08/473379.html",
-    "source": "量子位",
-    "summary": "所有人都可免费下载部署及商用。",
-    "tldr": "所有人都可免费下载部署及商用。",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
-    "url": "https://www.qbitai.com/2026/08/473153.html",
-    "source": "量子位",
-    "summary": "布林亲自下场督战",
-    "tldr": "布林亲自下场督战",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
-    "url": "https://www.qbitai.com/2026/08/473149.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 86,
     "time": "1 天前"
   }
