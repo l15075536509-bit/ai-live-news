@@ -1,73 +1,97 @@
 [
   {
     "id": 1,
-    "title": "网易传媒发布&#8221;蜜蜂AI” ：从工具到伙伴，让AI更懂人",
-    "url": "https://www.qbitai.com/2026/08/474857.html",
+    "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+    "url": "https://www.qbitai.com/2026/08/475931.html",
     "source": "量子位",
-    "summary": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
-    "tldr": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
-    "keyPoints": [
-      "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”"
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 98,
-    "time": "15 小时前"
+    "time": "1 小时前"
   },
   {
     "id": 2,
-    "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
-    "url": "https://www.qbitai.com/2026/08/474840.html",
+    "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+    "url": "https://www.qbitai.com/2026/08/475907.html",
     "source": "量子位",
-    "summary": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp",
-    "tldr": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp",
-    "keyPoints": [
-      "8月17日，阿里巴巴发布AI音乐模型HappyShrimp"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
+    "summary": "超维动力KAI全栈具身智能硬核登场",
+    "tldr": "超维动力KAI全栈具身智能硬核登场",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 96,
-    "time": "15 小时前"
+    "time": "2 小时前"
   },
   {
     "id": 3,
-    "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
-    "url": "https://www.qbitai.com/2026/08/474806.html",
+    "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+    "url": "https://www.qbitai.com/2026/08/475901.html",
     "source": "量子位",
-    "summary": "代码能跑≠游戏能玩",
-    "tldr": "代码能跑≠游戏能玩",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+    "tldr": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+    "keyPoints": [
+      "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
     "heat": 94,
-    "time": "17 小时前"
+    "time": "4 小时前"
   },
   {
     "id": 4,
-    "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
-    "url": "https://www.qbitai.com/2026/08/474673.html",
+    "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
+    "url": "https://www.qbitai.com/2026/08/475477.html",
     "source": "量子位",
-    "summary": "回头看，A社就这样完成了反超",
-    "tldr": "回头看，A社就这样完成了反超",
+    "summary": "构建全栈物理AI基础设施",
+    "tldr": "构建全栈物理AI基础设施",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 92,
-    "time": "19 小时前"
+    "time": "5 小时前"
   },
   {
     "id": 5,
-    "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
-    "url": "https://www.qbitai.com/2026/08/474647.html",
+    "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
+    "url": "https://www.qbitai.com/2026/08/475764.html",
     "source": "量子位",
-    "summary": "MyContext补上Agent的数据加工层",
-    "tldr": "MyContext补上Agent的数据加工层",
-    "keyPoints": [
-      "MyContext补上Agent的数据加工层"
-    ],
+    "summary": "冠军姿势长这样",
+    "tldr": "冠军姿势长这样",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
-    "time": "20 小时前"
+    "time": "5 小时前"
+  },
+  {
+    "id": 6,
+    "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
+    "url": "https://www.qbitai.com/2026/08/475476.html",
+    "source": "量子位",
+    "summary": "AI终于能听严格执行运镜需求",
+    "tldr": "AI终于能听严格执行运镜需求",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "5 小时前"
+  },
+  {
+    "id": 7,
+    "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
+    "url": "https://www.qbitai.com/2026/08/475332.html",
+    "source": "量子位",
+    "summary": "源络科技，推动AI for Science走进实验室3.0",
+    "tldr": "源络科技，推动AI for Science走进实验室3.0",
+    "keyPoints": [
+      "源络科技，推动AI for Science走进实验室3."
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 86,
+    "time": "6 小时前"
   }
 ]
