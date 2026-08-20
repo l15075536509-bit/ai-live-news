@@ -1,6 +1,103 @@
 [
   {
     "id": 1,
+    "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
+    "url": "https://www.qbitai.com/2026/08/476280.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "2 小时前"
+  },
+  {
+    "id": 2,
+    "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
+    "url": "https://www.qbitai.com/2026/08/476281.html",
+    "source": "量子位",
+    "summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
+    "tldr": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
+    "keyPoints": [
+      "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\""
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 96,
+    "time": "2 小时前"
+  },
+  {
+    "id": 3,
+    "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
+    "url": "https://www.qbitai.com/2026/08/476199.html",
+    "source": "量子位",
+    "summary": "经典RSI剧本开始动摇",
+    "tldr": "经典RSI剧本开始动摇",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "3 小时前"
+  },
+  {
+    "id": 4,
+    "title": "今年WRC最大展台，预告具身智能未来",
+    "url": "https://www.qbitai.com/2026/08/476141.html",
+    "source": "量子位",
+    "summary": "从自主泛化到真生产力",
+    "tldr": "从自主泛化到真生产力",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "3 小时前"
+  },
+  {
+    "id": 5,
+    "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
+    "url": "https://www.qbitai.com/2026/08/476129.html",
+    "source": "量子位",
+    "summary": "全栈自研，真机叠衣ICRA夺冠",
+    "tldr": "全栈自研，真机叠衣ICRA夺冠",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "3 小时前"
+  },
+  {
+    "id": 6,
+    "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
+    "url": "https://www.qbitai.com/2026/08/476078.html",
+    "source": "量子位",
+    "summary": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
+    "tldr": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
+    "keyPoints": [
+      "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 88,
+    "time": "11 小时前"
+  },
+  {
+    "id": 7,
+    "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
+    "url": "https://www.qbitai.com/2026/08/476070.html",
+    "source": "量子位",
+    "summary": "成本也正成为Agent商业化需要考虑的重要因素",
+    "tldr": "成本也正成为Agent商业化需要考虑的重要因素",
+    "keyPoints": [
+      "成本也正成为Agent商业化需要考虑的重要因素"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 86,
+    "time": "11 小时前"
+  },
+  {
+    "id": 8,
     "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
     "url": "https://www.qbitai.com/2026/08/475931.html",
     "source": "量子位",
@@ -9,89 +106,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "14 小时前"
-  },
-  {
-    "id": 2,
-    "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
-    "url": "https://www.qbitai.com/2026/08/475907.html",
-    "source": "量子位",
-    "summary": "超维动力KAI全栈具身智能硬核登场",
-    "tldr": "超维动力KAI全栈具身智能硬核登场",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 96,
-    "time": "15 小时前"
-  },
-  {
-    "id": 3,
-    "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
-    "url": "https://www.qbitai.com/2026/08/475901.html",
-    "source": "量子位",
-    "summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
-    "tldr": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
-    "keyPoints": [
-      "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 94,
-    "time": "16 小时前"
-  },
-  {
-    "id": 4,
-    "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
-    "url": "https://www.qbitai.com/2026/08/475477.html",
-    "source": "量子位",
-    "summary": "构建全栈物理AI基础设施",
-    "tldr": "构建全栈物理AI基础设施",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "17 小时前"
-  },
-  {
-    "id": 5,
-    "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
-    "url": "https://www.qbitai.com/2026/08/475764.html",
-    "source": "量子位",
-    "summary": "冠军姿势长这样",
-    "tldr": "冠军姿势长这样",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "17 小时前"
-  },
-  {
-    "id": 6,
-    "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
-    "url": "https://www.qbitai.com/2026/08/475476.html",
-    "source": "量子位",
-    "summary": "AI终于能听严格执行运镜需求",
-    "tldr": "AI终于能听严格执行运镜需求",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "17 小时前"
-  },
-  {
-    "id": 7,
-    "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
-    "url": "https://www.qbitai.com/2026/08/475332.html",
-    "source": "量子位",
-    "summary": "源络科技，推动AI for Science走进实验室3.0",
-    "tldr": "源络科技，推动AI for Science走进实验室3.0",
-    "keyPoints": [
-      "源络科技，推动AI for Science走进实验室3."
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "18 小时前"
+    "heat": 84,
+    "time": "1 天前"
   }
 ]
