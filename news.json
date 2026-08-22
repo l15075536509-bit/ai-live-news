@@ -1,6 +1,32 @@
 [
   {
     "id": 1,
+    "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+    "url": "https://www.qbitai.com/2026/08/477016.html",
+    "source": "量子位",
+    "summary": "具身智能赛道壁垒不在出货量",
+    "tldr": "具身智能赛道壁垒不在出货量",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "28 分钟前"
+  },
+  {
+    "id": 2,
+    "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+    "url": "https://www.qbitai.com/2026/08/476930.html",
+    "source": "量子位",
+    "summary": "让具身智能技术真正落地千行万业。",
+    "tldr": "让具身智能技术真正落地千行万业。",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "3 小时前"
+  },
+  {
+    "id": 3,
     "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
     "url": "https://www.qbitai.com/2026/08/476733.html",
     "source": "量子位",
@@ -11,11 +37,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "15 小时前"
+    "heat": 94,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
     "url": "https://www.qbitai.com/2026/08/476628.html",
     "source": "量子位",
@@ -26,11 +52,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 96,
-    "time": "16 小时前"
+    "heat": 92,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
     "url": "https://www.qbitai.com/2026/08/476596.html",
     "source": "量子位",
@@ -39,11 +65,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "17 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
     "url": "https://www.qbitai.com/2026/08/476591.html",
     "source": "量子位",
@@ -52,7 +78,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "18 小时前"
+    "heat": 88,
+    "time": "1 天前"
   }
 ]
