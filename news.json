@@ -2,18 +2,34 @@
   {
     "id": 1,
     "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-    "url": "https://www.qbitai.com/2026/08/477016.html",
+    "url": "https://www.qbitai.com/2026/08/477253.html",
     "source": "量子位",
-    "summary": "具身智能赛道壁垒不在出货量",
-    "tldr": "具身智能赛道壁垒不在出货量",
-    "keyPoints": [],
+    "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+    "tldr": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+    "keyPoints": [
+      "端侧部署解决了具身大脑能否装进身体的问题。",
+      "那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？"
+    ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 98,
-    "time": "28 分钟前"
+    "time": "10 小时前"
   },
   {
     "id": 2,
+    "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+    "url": "https://www.qbitai.com/2026/08/477155.html",
+    "source": "量子位",
+    "summary": "一脑驱动多形落地",
+    "tldr": "一脑驱动多形落地",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "11 小时前"
+  },
+  {
+    "id": 3,
     "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
     "url": "https://www.qbitai.com/2026/08/476930.html",
     "source": "量子位",
@@ -22,11 +38,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "3 小时前"
+    "heat": 94,
+    "time": "16 小时前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
     "url": "https://www.qbitai.com/2026/08/476733.html",
     "source": "量子位",
@@ -37,48 +53,7 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "1 天前"
-  },
-  {
-    "id": 4,
-    "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-    "url": "https://www.qbitai.com/2026/08/476628.html",
-    "source": "量子位",
-    "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
-    "tldr": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
-    "keyPoints": [
-      "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
     "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
-    "url": "https://www.qbitai.com/2026/08/476596.html",
-    "source": "量子位",
-    "summary": "机器人看3秒演示就能学会",
-    "tldr": "机器人看3秒演示就能学会",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
-    "url": "https://www.qbitai.com/2026/08/476591.html",
-    "source": "量子位",
-    "summary": "让科学家的时间回到科学创造",
-    "tldr": "让科学家的时间回到科学创造",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
     "time": "1 天前"
   }
 ]
