@@ -1,6 +1,51 @@
 [
   {
     "id": 1,
+    "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+    "url": "https://www.qbitai.com/2026/08/478473.html",
+    "source": "量子位",
+    "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
+    "tldr": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
+    "keyPoints": [
+      "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "4 小时前"
+  },
+  {
+    "id": 2,
+    "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+    "url": "https://www.qbitai.com/2026/08/478469.html",
+    "source": "量子位",
+    "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
+    "tldr": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
+    "keyPoints": [
+      "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 96,
+    "time": "5 小时前"
+  },
+  {
+    "id": 3,
+    "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+    "url": "https://www.qbitai.com/2026/08/478427.html",
+    "source": "量子位",
+    "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
+    "tldr": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
+    "keyPoints": [
+      "8月24日，阿里巴巴视频生成大模型Wan3."
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 94,
+    "time": "7 小时前"
+  },
+  {
+    "id": 4,
     "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
     "url": "https://www.qbitai.com/2026/08/478358.html",
     "source": "量子位",
@@ -9,11 +54,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "2 小时前"
+    "heat": 92,
+    "time": "13 小时前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
     "url": "https://www.qbitai.com/2026/08/478191.html",
     "source": "量子位",
@@ -24,20 +69,7 @@
     ],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 96,
-    "time": "15 小时前"
-  },
-  {
-    "id": 3,
-    "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-    "url": "https://www.qbitai.com/2026/08/478164.html",
-    "source": "量子位",
-    "summary": "内存成本飙升逼涨硬件",
-    "tldr": "内存成本飙升逼涨硬件",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "15 小时前"
+    "heat": 90,
+    "time": "1 天前"
   }
 ]
