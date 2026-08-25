@@ -1,6 +1,34 @@
 [
   {
     "id": 1,
+    "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+    "url": "https://www.qbitai.com/2026/08/478670.html",
+    "source": "量子位",
+    "summary": "Visa看到的AI未来",
+    "tldr": "Visa看到的AI未来",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "11 小时前"
+  },
+  {
+    "id": 2,
+    "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+    "url": "https://www.qbitai.com/2026/08/478568.html",
+    "source": "量子位",
+    "summary": "全球大厂开始押注的AI科研，终于有了统一标准",
+    "tldr": "全球大厂开始押注的AI科研，终于有了统一标准",
+    "keyPoints": [
+      "全球大厂开始押注的AI科研，终于有了统一标准"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 96,
+    "time": "11 小时前"
+  },
+  {
+    "id": 3,
     "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
     "url": "https://www.qbitai.com/2026/08/478473.html",
     "source": "量子位",
@@ -11,11 +39,11 @@
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "4 小时前"
+    "heat": 94,
+    "time": "17 小时前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
     "url": "https://www.qbitai.com/2026/08/478469.html",
     "source": "量子位",
@@ -26,11 +54,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 96,
-    "time": "5 小时前"
+    "heat": 92,
+    "time": "18 小时前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
     "url": "https://www.qbitai.com/2026/08/478427.html",
     "source": "量子位",
@@ -41,11 +69,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "7 小时前"
+    "heat": 90,
+    "time": "20 小时前"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
     "url": "https://www.qbitai.com/2026/08/478358.html",
     "source": "量子位",
@@ -54,22 +82,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "13 小时前"
-  },
-  {
-    "id": 5,
-    "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-    "url": "https://www.qbitai.com/2026/08/478191.html",
-    "source": "量子位",
-    "summary": "Tokenizer、视频编码、API报错全扒一遍",
-    "tldr": "Tokenizer、视频编码、API报错全扒一遍",
-    "keyPoints": [
-      "Tokenizer、视频编码、API报错全扒一遍"
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 90,
+    "heat": 88,
     "time": "1 天前"
   }
 ]
