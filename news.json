@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
+    "url": "https://www.qbitai.com/2026/08/480092.html",
+    "source": "量子位",
+    "summary": "好能增长，好能商业化啊！",
+    "tldr": "好能增长，好能商业化啊！",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "9 小时前"
+  },
+  {
+    "id": 2,
     "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
     "url": "https://www.qbitai.com/2026/08/480079.html",
     "source": "量子位",
@@ -11,11 +24,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 98,
-    "time": "2 小时前"
+    "heat": 96,
+    "time": "16 小时前"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
     "url": "https://www.qbitai.com/2026/08/480005.html",
     "source": "量子位",
@@ -27,11 +40,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "5 小时前"
+    "heat": 94,
+    "time": "19 小时前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
     "url": "https://www.qbitai.com/2026/08/480001.html",
     "source": "量子位",
@@ -42,11 +55,11 @@
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 94,
-    "time": "6 小时前"
+    "heat": 92,
+    "time": "20 小时前"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
     "url": "https://www.qbitai.com/2026/08/479919.html",
     "source": "量子位",
@@ -55,11 +68,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "15 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "AI视频应用井喷，美图打开新的增长空间",
     "url": "https://www.qbitai.com/2026/08/479895.html",
     "source": "量子位",
@@ -70,11 +83,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
-    "time": "21 小时前"
+    "heat": 88,
+    "time": "1 天前"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
     "url": "https://www.qbitai.com/2026/08/479811.html",
     "source": "量子位",
@@ -85,11 +98,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 88,
-    "time": "21 小时前"
+    "heat": 86,
+    "time": "1 天前"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
     "url": "https://www.qbitai.com/2026/08/479834.html",
     "source": "量子位",
@@ -98,11 +111,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 86,
-    "time": "21 小时前"
+    "heat": 84,
+    "time": "1 天前"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
     "url": "https://www.qbitai.com/2026/08/479670.html",
     "source": "量子位",
@@ -111,7 +124,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 84,
+    "heat": 82,
     "time": "1 天前"
   }
 ]
