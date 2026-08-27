@@ -1,6 +1,65 @@
 [
   {
     "id": 1,
+    "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
+    "url": "https://www.qbitai.com/2026/08/480079.html",
+    "source": "量子位",
+    "summary": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。",
+    "tldr": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。",
+    "keyPoints": [
+      "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 98,
+    "time": "2 小时前"
+  },
+  {
+    "id": 2,
+    "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+    "url": "https://www.qbitai.com/2026/08/480005.html",
+    "source": "量子位",
+    "summary": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
+    "tldr": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
+    "keyPoints": [
+      "西门子Xcelerator与普通软件货架最本质的区别。",
+      "货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "5 小时前"
+  },
+  {
+    "id": 3,
+    "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+    "url": "https://www.qbitai.com/2026/08/480001.html",
+    "source": "量子位",
+    "summary": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。",
+    "tldr": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。",
+    "keyPoints": [
+      "8月26日晚，千问办公首发上线刚刚发布的Qwen3."
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 94,
+    "time": "6 小时前"
+  },
+  {
+    "id": 4,
+    "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+    "url": "https://www.qbitai.com/2026/08/479919.html",
+    "source": "量子位",
+    "summary": "GLM-5.3 Flash",
+    "tldr": "GLM-5.3 Flash",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "15 小时前"
+  },
+  {
+    "id": 5,
     "title": "AI视频应用井喷，美图打开新的增长空间",
     "url": "https://www.qbitai.com/2026/08/479895.html",
     "source": "量子位",
@@ -11,11 +70,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "2 小时前"
+    "heat": 90,
+    "time": "21 小时前"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
     "url": "https://www.qbitai.com/2026/08/479811.html",
     "source": "量子位",
@@ -26,11 +85,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 96,
-    "time": "2 小时前"
+    "heat": 88,
+    "time": "21 小时前"
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
     "url": "https://www.qbitai.com/2026/08/479834.html",
     "source": "量子位",
@@ -39,11 +98,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "2 小时前"
+    "heat": 86,
+    "time": "21 小时前"
   },
   {
-    "id": 4,
+    "id": 8,
     "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
     "url": "https://www.qbitai.com/2026/08/479670.html",
     "source": "量子位",
@@ -52,50 +111,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "6 小时前"
-  },
-  {
-    "id": 5,
-    "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
-    "url": "https://www.qbitai.com/2026/08/479631.html",
-    "source": "量子位",
-    "summary": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。",
-    "tldr": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.",
-    "keyPoints": [
-      "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2."
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 90,
-    "time": "9 小时前"
-  },
-  {
-    "id": 6,
-    "title": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案",
-    "url": "https://www.qbitai.com/2026/08/479348.html",
-    "source": "量子位",
-    "summary": "shui jiang shuai xian sha",
-    "tldr": "shui jiang shuai xian sha",
-    "keyPoints": [
-      "shui jiang shuai xian sha"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "9 小时前"
-  },
-  {
-    "id": 7,
-    "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
-    "url": "https://www.qbitai.com/2026/08/479320.html",
-    "source": "量子位",
-    "summary": "不和老黄商量",
-    "tldr": "不和老黄商量",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "11 小时前"
+    "heat": 84,
+    "time": "1 天前"
   }
 ]
