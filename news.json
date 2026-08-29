@@ -1,6 +1,60 @@
 [
   {
     "id": 1,
+    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+    "url": "https://www.qbitai.com/2026/08/481372.html",
+    "source": "量子位",
+    "summary": "推理软件栈的微小差异，就能改变输出token",
+    "tldr": "推理软件栈的微小差异，就能改变输出token",
+    "keyPoints": [
+      "推理软件栈的微小差异，就能改变输出token"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "3 小时前"
+  },
+  {
+    "id": 2,
+    "title": "去年归国的徐梦迪，成了清华姚班班主任",
+    "url": "https://www.qbitai.com/2026/08/481318.html",
+    "source": "量子位",
+    "summary": "本科读车辆工程，如今教AI第一班",
+    "tldr": "本科读车辆工程，如今教AI第一班",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "3 小时前"
+  },
+  {
+    "id": 3,
+    "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+    "url": "https://www.qbitai.com/2026/08/481223.html",
+    "source": "量子位",
+    "summary": "AI「自进化」，越来越近了",
+    "tldr": "AI「自进化」，越来越近了",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 94,
+    "time": "3 小时前"
+  },
+  {
+    "id": 4,
+    "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+    "url": "https://www.qbitai.com/2026/08/480787.html",
+    "source": "量子位",
+    "summary": "从剧本到成片",
+    "tldr": "从剧本到成片",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "4 小时前"
+  },
+  {
+    "id": 5,
     "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
     "url": "https://www.qbitai.com/2026/08/480666.html",
     "source": "量子位",
@@ -9,11 +63,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "18 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
     "url": "https://www.qbitai.com/2026/08/480600.html",
     "source": "量子位",
@@ -24,20 +78,7 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "20 小时前"
-  },
-  {
-    "id": 3,
-    "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
-    "url": "https://www.qbitai.com/2026/08/480487.html",
-    "source": "量子位",
-    "summary": "Claude觉醒超体",
-    "tldr": "Claude觉醒超体",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "23 小时前"
+    "heat": 88,
+    "time": "1 天前"
   }
 ]
