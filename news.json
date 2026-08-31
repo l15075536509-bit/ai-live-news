@@ -1,6 +1,77 @@
 [
   {
     "id": 1,
+    "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+    "url": "https://www.qbitai.com/2026/08/481928.html",
+    "source": "量子位",
+    "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。",
+    "tldr": "划重点：这次不是你挨家敲门，是VC排队来看你。",
+    "keyPoints": [
+      "划重点：这次不是你挨家敲门，是VC排队来看你。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "5 小时前"
+  },
+  {
+    "id": 2,
+    "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+    "url": "https://www.qbitai.com/2026/08/481919.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "11 小时前"
+  },
+  {
+    "id": 3,
+    "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+    "url": "https://www.qbitai.com/2026/08/481893.html",
+    "source": "量子位",
+    "summary": "核弹爆炸",
+    "tldr": "核弹爆炸",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 94,
+    "time": "14 小时前"
+  },
+  {
+    "id": 4,
+    "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+    "url": "https://www.qbitai.com/2026/08/481759.html",
+    "source": "量子位",
+    "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac",
+    "tldr": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac",
+    "keyPoints": [
+      "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "15 小时前"
+  },
+  {
+    "id": 5,
+    "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+    "url": "https://www.qbitai.com/2026/08/481750.html",
+    "source": "量子位",
+    "summary": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。",
+    "tldr": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。",
+    "keyPoints": [
+      "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "15 小时前"
+  },
+  {
+    "id": 6,
     "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
     "url": "https://www.qbitai.com/2026/08/481475.html",
     "source": "量子位",
@@ -11,11 +82,11 @@
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "1 小时前"
+    "heat": 88,
+    "time": "15 小时前"
   },
   {
-    "id": 2,
+    "id": 7,
     "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
     "url": "https://www.qbitai.com/2026/08/481372.html",
     "source": "量子位",
@@ -26,11 +97,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "1 天前"
+    "heat": 86,
+    "time": "2 天前"
   },
   {
-    "id": 3,
+    "id": 8,
     "title": "去年归国的徐梦迪，成了清华姚班班主任",
     "url": "https://www.qbitai.com/2026/08/481318.html",
     "source": "量子位",
@@ -39,11 +110,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "1 天前"
+    "heat": 84,
+    "time": "2 天前"
   },
   {
-    "id": 4,
+    "id": 9,
     "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
     "url": "https://www.qbitai.com/2026/08/481223.html",
     "source": "量子位",
@@ -52,33 +123,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
-    "url": "https://www.qbitai.com/2026/08/480787.html",
-    "source": "量子位",
-    "summary": "从剧本到成片",
-    "tldr": "从剧本到成片",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
-    "url": "https://www.qbitai.com/2026/08/480666.html",
-    "source": "量子位",
-    "summary": "久久不愿来到台前的智元掌舵人",
-    "tldr": "久久不愿来到台前的智元掌舵人",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
+    "heat": 82,
     "time": "2 天前"
   }
 ]
