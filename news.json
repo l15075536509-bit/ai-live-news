@@ -1,6 +1,65 @@
 [
   {
     "id": 1,
+    "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+    "url": "https://www.qbitai.com/2026/09/482967.html",
+    "source": "量子位",
+    "summary": "AI客服日扛1.5万通电话",
+    "tldr": "AI客服日扛1.5万通电话",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "31 分钟前"
+  },
+  {
+    "id": 2,
+    "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+    "url": "https://www.qbitai.com/2026/09/482652.html",
+    "source": "量子位",
+    "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
+    "tldr": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
+    "keyPoints": [
+      "无论你此前让Claude处理什么任务，Fable 5.",
+      "1都能做更多，并且把最难的部分完成得更出色"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 96,
+    "time": "1 小时前"
+  },
+  {
+    "id": 3,
+    "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+    "url": "https://www.qbitai.com/2026/09/482699.html",
+    "source": "量子位",
+    "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
+    "tldr": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
+    "keyPoints": [
+      "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 94,
+    "time": "1 小时前"
+  },
+  {
+    "id": 4,
+    "title": "李飞飞发布：全球首个多模态世界模型",
+    "url": "https://www.qbitai.com/2026/09/482586.html",
+    "source": "量子位",
+    "summary": "一张图补全3D世界，还能给机器人造训练场",
+    "tldr": "一张图补全3D世界，还能给机器人造训练场",
+    "keyPoints": [
+      "一张图补全3D世界，还能给机器人造训练场"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 92,
+    "time": "2 小时前"
+  },
+  {
+    "id": 5,
     "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
     "url": "https://www.qbitai.com/2026/09/482512.html",
     "source": "量子位",
@@ -9,11 +68,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "4 小时前"
+    "heat": 90,
+    "time": "15 小时前"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "GitHub最热架构图Agent，开发者故事看哭了",
     "url": "https://www.qbitai.com/2026/09/482469.html",
     "source": "量子位",
@@ -24,11 +83,11 @@
     ],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 96,
-    "time": "7 小时前"
+    "heat": 88,
+    "time": "18 小时前"
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
     "url": "https://www.qbitai.com/2026/09/482406.html",
     "source": "量子位",
@@ -37,11 +96,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "7 小时前"
+    "heat": 86,
+    "time": "19 小时前"
   },
   {
-    "id": 4,
+    "id": 8,
     "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
     "url": "https://www.qbitai.com/2026/09/482337.html",
     "source": "量子位",
@@ -50,63 +109,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "10 小时前"
-  },
-  {
-    "id": 5,
-    "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
-    "url": "https://www.qbitai.com/2026/09/482300.html",
-    "source": "量子位",
-    "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
-    "tldr": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
-    "keyPoints": [
-      "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "11 小时前"
-  },
-  {
-    "id": 6,
-    "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-    "url": "https://www.qbitai.com/2026/08/481928.html",
-    "source": "量子位",
-    "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。",
-    "tldr": "划重点：这次不是你挨家敲门，是VC排队来看你。",
-    "keyPoints": [
-      "划重点：这次不是你挨家敲门，是VC排队来看你。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-    "url": "https://www.qbitai.com/2026/08/481919.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "1 天前"
-  },
-  {
-    "id": 8,
-    "title": "「GPT-6」灰测demo刷屏！周四发布在即",
-    "url": "https://www.qbitai.com/2026/08/481893.html",
-    "source": "量子位",
-    "summary": "核弹爆炸",
-    "tldr": "核弹爆炸",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
     "heat": 84,
-    "time": "1 天前"
+    "time": "22 小时前"
   }
 ]
