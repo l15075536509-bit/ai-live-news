@@ -12,7 +12,7 @@
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
     "heat": 98,
-    "time": "9 小时前"
+    "time": "21 小时前"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 96,
-    "time": "9 小时前"
+    "time": "21 小时前"
   },
   {
     "id": 3,
@@ -40,7 +40,7 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 94,
-    "time": "9 小时前"
+    "time": "21 小时前"
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 92,
-    "time": "13 小时前"
+    "time": "1 天前"
   },
   {
     "id": 5,
@@ -69,49 +69,6 @@
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
     "heat": 90,
-    "time": "13 小时前"
-  },
-  {
-    "id": 6,
-    "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-    "url": "https://www.qbitai.com/2026/09/482699.html",
-    "source": "量子位",
-    "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
-    "tldr": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
-    "keyPoints": [
-      "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 88,
-    "time": "14 小时前"
-  },
-  {
-    "id": 7,
-    "title": "李飞飞发布：全球首个多模态世界模型",
-    "url": "https://www.qbitai.com/2026/09/482586.html",
-    "source": "量子位",
-    "summary": "一张图补全3D世界，还能给机器人造训练场",
-    "tldr": "一张图补全3D世界，还能给机器人造训练场",
-    "keyPoints": [
-      "一张图补全3D世界，还能给机器人造训练场"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 86,
-    "time": "14 小时前"
-  },
-  {
-    "id": 8,
-    "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-    "url": "https://www.qbitai.com/2026/09/482512.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 84,
     "time": "1 天前"
   }
 ]
