@@ -1,6 +1,77 @@
 [
   {
     "id": 1,
+    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+    "url": "https://www.qbitai.com/2026/09/484551.html",
+    "source": "量子位",
+    "summary": "最后靠Harness救回来",
+    "tldr": "最后靠Harness救回来",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "2 小时前"
+  },
+  {
+    "id": 2,
+    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+    "url": "https://www.qbitai.com/2026/09/484547.html",
+    "source": "量子位",
+    "summary": "国产卡跑出高品质 AI Token 生产级性能",
+    "tldr": "国产卡跑出高品质 AI Token 生产级性能",
+    "keyPoints": [
+      "国产卡跑出高品质 AI Token 生产级性能"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "17 小时前"
+  },
+  {
+    "id": 3,
+    "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+    "url": "https://www.qbitai.com/2026/09/484437.html",
+    "source": "量子位",
+    "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+    "tldr": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+    "keyPoints": [
+      "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 94,
+    "time": "18 小时前"
+  },
+  {
+    "id": 4,
+    "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+    "url": "https://www.qbitai.com/2026/09/484293.html",
+    "source": "量子位",
+    "summary": "不训练模型、不调参数",
+    "tldr": "不训练模型、不调参数",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "18 小时前"
+  },
+  {
+    "id": 5,
+    "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+    "url": "https://www.qbitai.com/2026/09/484203.html",
+    "source": "量子位",
+    "summary": "5000支队伍同台做题，写尽行业四年变化",
+    "tldr": "5000支队伍同台做题，写尽行业四年变化",
+    "keyPoints": [
+      "5000支队伍同台做题，写尽行业四年变化"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 90,
+    "time": "20 小时前"
+  },
+  {
+    "id": 6,
     "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
     "url": "https://www.qbitai.com/2026/09/483598.html",
     "source": "量子位",
@@ -9,46 +80,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "1 小时前"
-  },
-  {
-    "id": 2,
-    "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
-    "url": "https://www.qbitai.com/2026/09/483948.html",
-    "source": "量子位",
-    "summary": "改进GPT Image 2的噪点问题",
-    "tldr": "改进GPT Image 2的噪点问题",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 96,
-    "time": "5 小时前"
-  },
-  {
-    "id": 3,
-    "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
-    "url": "https://www.qbitai.com/2026/09/483898.html",
-    "source": "量子位",
-    "summary": "全球最强C",
-    "tldr": "全球最强C",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 94,
-    "time": "5 小时前"
-  },
-  {
-    "id": 4,
-    "title": "陈大年复出，入局大模型",
-    "url": "https://www.qbitai.com/2026/09/483600.html",
-    "source": "量子位",
-    "summary": "首秀逼近DeepSeek万亿旗舰",
-    "tldr": "首秀逼近DeepSeek万亿旗舰",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "17 小时前"
+    "heat": 88,
+    "time": "1 天前"
   }
 ]
