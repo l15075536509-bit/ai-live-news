@@ -1,6 +1,34 @@
 [
   {
     "id": 1,
+    "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+    "url": "https://www.qbitai.com/2026/09/485630.html",
+    "source": "量子位",
+    "summary": "从看市场，到见场景；从认识伙伴，到寻找合作。",
+    "tldr": "从看市场，到见场景；从认识伙伴，到寻找合作。",
+    "keyPoints": [
+      "从看市场，到见场景；从认识伙伴，到寻找合作。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "45 分钟前"
+  },
+  {
+    "id": 2,
+    "title": "王云鹤创业后交出首个模型",
+    "url": "https://www.qbitai.com/2026/09/485555.html",
+    "source": "量子位",
+    "summary": "把多模型执行经验用到了模型训练",
+    "tldr": "把多模型执行经验用到了模型训练",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "1 小时前"
+  },
+  {
+    "id": 3,
     "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
     "url": "https://www.qbitai.com/2026/09/485431.html",
     "source": "量子位",
@@ -9,11 +37,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "8 小时前"
+    "heat": 94,
+    "time": "18 小时前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
     "url": "https://www.qbitai.com/2026/09/485108.html",
     "source": "量子位",
@@ -24,11 +52,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "8 小时前"
+    "heat": 92,
+    "time": "18 小时前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
     "url": "https://www.qbitai.com/2026/09/485064.html",
     "source": "量子位",
@@ -39,11 +67,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "10 小时前"
+    "heat": 90,
+    "time": "20 小时前"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "业内首个！“千问办公”推出“多人工作台”",
     "url": "https://www.qbitai.com/2026/09/485046.html",
     "source": "量子位",
@@ -54,35 +82,7 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 92,
-    "time": "12 小时前"
-  },
-  {
-    "id": 5,
-    "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-    "url": "https://www.qbitai.com/2026/09/484897.html",
-    "source": "量子位",
-    "summary": "让机器人学会利用更长的多模态Context",
-    "tldr": "让机器人学会利用更长的多模态Context",
-    "keyPoints": [
-      "让机器人学会利用更长的多模态Context"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-    "url": "https://www.qbitai.com/2026/09/484890.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 88,
-    "time": "1 天前"
+    "time": "22 小时前"
   }
 ]
