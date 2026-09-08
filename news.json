@@ -1,6 +1,47 @@
 [
   {
     "id": 1,
+    "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+    "url": "https://www.qbitai.com/2026/09/485854.html",
+    "source": "量子位",
+    "summary": "Blender也不用学了",
+    "tldr": "Blender也不用学了",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "10 小时前"
+  },
+  {
+    "id": 2,
+    "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+    "url": "https://www.qbitai.com/2026/09/485794.html",
+    "source": "量子位",
+    "summary": "百万奖金、大厂直通、VC跟投",
+    "tldr": "百万奖金、大厂直通、VC跟投",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "11 小时前"
+  },
+  {
+    "id": 3,
+    "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+    "url": "https://www.qbitai.com/2026/09/485784.html",
+    "source": "量子位",
+    "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
+    "tldr": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
+    "keyPoints": [
+      "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "12 小时前"
+  },
+  {
+    "id": 4,
     "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
     "url": "https://www.qbitai.com/2026/09/485630.html",
     "source": "量子位",
@@ -11,11 +52,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "45 分钟前"
+    "heat": 92,
+    "time": "13 小时前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "王云鹤创业后交出首个模型",
     "url": "https://www.qbitai.com/2026/09/485555.html",
     "source": "量子位",
@@ -24,11 +65,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "1 小时前"
+    "heat": 90,
+    "time": "13 小时前"
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
     "url": "https://www.qbitai.com/2026/09/485431.html",
     "source": "量子位",
@@ -37,11 +78,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 94,
-    "time": "18 小时前"
+    "heat": 88,
+    "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 7,
     "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
     "url": "https://www.qbitai.com/2026/09/485108.html",
     "source": "量子位",
@@ -52,11 +93,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "18 小时前"
+    "heat": 86,
+    "time": "1 天前"
   },
   {
-    "id": 5,
+    "id": 8,
     "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
     "url": "https://www.qbitai.com/2026/09/485064.html",
     "source": "量子位",
@@ -67,22 +108,7 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 90,
-    "time": "20 小时前"
-  },
-  {
-    "id": 6,
-    "title": "业内首个！“千问办公”推出“多人工作台”",
-    "url": "https://www.qbitai.com/2026/09/485046.html",
-    "source": "量子位",
-    "summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
-    "tldr": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
-    "keyPoints": [
-      "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 88,
-    "time": "22 小时前"
+    "heat": 84,
+    "time": "1 天前"
   }
 ]
