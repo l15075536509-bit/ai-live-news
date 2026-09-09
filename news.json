@@ -1,6 +1,64 @@
 [
   {
     "id": 1,
+    "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+    "url": "https://www.qbitai.com/2026/09/486370.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "6 小时前"
+  },
+  {
+    "id": 2,
+    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+    "url": "https://www.qbitai.com/2026/09/486288.html",
+    "source": "量子位",
+    "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+    "tldr": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+    "keyPoints": [
+      "蚂蚁集团百灵首个金融增强开放模型 Ling-3."
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 96,
+    "time": "11 小时前"
+  },
+  {
+    "id": 3,
+    "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+    "url": "https://www.qbitai.com/2026/09/486280.html",
+    "source": "量子位",
+    "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+    "tldr": "从Demo到货架，这两家公司要让具身智能算得过账",
+    "keyPoints": [
+      "从Demo到货架，这两家公司要让具身智能算得过账"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "11 小时前"
+  },
+  {
+    "id": 4,
+    "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+    "url": "https://www.qbitai.com/2026/09/486052.html",
+    "source": "量子位",
+    "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+    "tldr": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.",
+    "keyPoints": [
+      "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3."
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 92,
+    "time": "12 小时前"
+  },
+  {
+    "id": 5,
     "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
     "url": "https://www.qbitai.com/2026/09/485854.html",
     "source": "量子位",
@@ -9,11 +67,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "21 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
     "url": "https://www.qbitai.com/2026/09/485794.html",
     "source": "量子位",
@@ -22,11 +80,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "22 小时前"
+    "heat": 88,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
     "url": "https://www.qbitai.com/2026/09/485784.html",
     "source": "量子位",
@@ -37,11 +95,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
+    "heat": 86,
     "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 8,
     "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
     "url": "https://www.qbitai.com/2026/09/485630.html",
     "source": "量子位",
@@ -52,48 +110,7 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "王云鹤创业后交出首个模型",
-    "url": "https://www.qbitai.com/2026/09/485555.html",
-    "source": "量子位",
-    "summary": "把多模型执行经验用到了模型训练",
-    "tldr": "把多模型执行经验用到了模型训练",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-    "url": "https://www.qbitai.com/2026/09/485431.html",
-    "source": "量子位",
-    "summary": "OpenAI研究院人均带3个AI实习生",
-    "tldr": "OpenAI研究院人均带3个AI实习生",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-    "url": "https://www.qbitai.com/2026/09/485108.html",
-    "source": "量子位",
-    "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
-    "tldr": "“在两个模型之间找到数学上的共同基础其实非常困难”",
-    "keyPoints": [
-      "“在两个模型之间找到数学上的共同基础其实非常困难”"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
+    "heat": 84,
     "time": "1 天前"
   }
 ]
