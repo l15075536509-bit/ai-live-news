@@ -1,6 +1,94 @@
 [
   {
     "id": 1,
+    "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+    "url": "https://www.qbitai.com/2026/09/486934.html",
+    "source": "量子位",
+    "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
+    "tldr": "多模态AI大牛轮番登台，全球64支团队组团解题",
+    "keyPoints": [
+      "多模态AI大牛轮番登台，全球64支团队组团解题"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "5 小时前"
+  },
+  {
+    "id": 2,
+    "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+    "url": "https://www.qbitai.com/2026/09/486900.html",
+    "source": "量子位",
+    "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+    "tldr": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.",
+    "keyPoints": [
+      "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0."
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 96,
+    "time": "7 小时前"
+  },
+  {
+    "id": 3,
+    "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+    "url": "https://www.qbitai.com/2026/09/486747.html",
+    "source": "量子位",
+    "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+    "tldr": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+    "keyPoints": [
+      "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 94,
+    "time": "7 小时前"
+  },
+  {
+    "id": 4,
+    "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+    "url": "https://www.qbitai.com/2026/09/486684.html",
+    "source": "量子位",
+    "summary": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
+    "tldr": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
+    "keyPoints": [
+      "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 92,
+    "time": "8 小时前"
+  },
+  {
+    "id": 5,
+    "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+    "url": "https://www.qbitai.com/2026/09/486651.html",
+    "source": "量子位",
+    "summary": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
+    "tldr": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
+    "keyPoints": [
+      "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "9 小时前"
+  },
+  {
+    "id": 6,
+    "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+    "url": "https://www.qbitai.com/2026/09/486625.html",
+    "source": "量子位",
+    "summary": "模型可以开源，部署经验不能",
+    "tldr": "模型可以开源，部署经验不能",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 88,
+    "time": "11 小时前"
+  },
+  {
+    "id": 7,
     "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
     "url": "https://www.qbitai.com/2026/09/486436.html",
     "source": "量子位",
@@ -11,11 +99,11 @@
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "1 小时前"
+    "heat": 86,
+    "time": "14 小时前"
   },
   {
-    "id": 2,
+    "id": 8,
     "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
     "url": "https://www.qbitai.com/2026/09/486450.html",
     "source": "量子位",
@@ -24,91 +112,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 96,
-    "time": "8 小时前"
-  },
-  {
-    "id": 3,
-    "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-    "url": "https://www.qbitai.com/2026/09/486370.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "17 小时前"
-  },
-  {
-    "id": 4,
-    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-    "url": "https://www.qbitai.com/2026/09/486288.html",
-    "source": "量子位",
-    "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
-    "tldr": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
-    "keyPoints": [
-      "蚂蚁集团百灵首个金融增强开放模型 Ling-3."
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 92,
-    "time": "22 小时前"
-  },
-  {
-    "id": 5,
-    "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
-    "url": "https://www.qbitai.com/2026/09/486280.html",
-    "source": "量子位",
-    "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
-    "tldr": "从Demo到货架，这两家公司要让具身智能算得过账",
-    "keyPoints": [
-      "从Demo到货架，这两家公司要让具身智能算得过账"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "22 小时前"
-  },
-  {
-    "id": 6,
-    "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
-    "url": "https://www.qbitai.com/2026/09/486052.html",
-    "source": "量子位",
-    "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
-    "tldr": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.",
-    "keyPoints": [
-      "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3."
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 88,
-    "time": "23 小时前"
-  },
-  {
-    "id": 7,
-    "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-    "url": "https://www.qbitai.com/2026/09/485854.html",
-    "source": "量子位",
-    "summary": "Blender也不用学了",
-    "tldr": "Blender也不用学了",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "1 天前"
-  },
-  {
-    "id": 8,
-    "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-    "url": "https://www.qbitai.com/2026/09/485794.html",
-    "source": "量子位",
-    "summary": "百万奖金、大厂直通、VC跟投",
-    "tldr": "百万奖金、大厂直通、VC跟投",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 84,
-    "time": "1 天前"
+    "time": "20 小时前"
   }
 ]
