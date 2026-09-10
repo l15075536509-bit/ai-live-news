@@ -1,6 +1,34 @@
 [
   {
     "id": 1,
+    "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+    "url": "https://www.qbitai.com/2026/09/486436.html",
+    "source": "量子位",
+    "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+    "tldr": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+    "keyPoints": [
+      "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "1 小时前"
+  },
+  {
+    "id": 2,
+    "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+    "url": "https://www.qbitai.com/2026/09/486450.html",
+    "source": "量子位",
+    "summary": "一比根号二的小胖折叠",
+    "tldr": "一比根号二的小胖折叠",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 96,
+    "time": "8 小时前"
+  },
+  {
+    "id": 3,
     "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
     "url": "https://www.qbitai.com/2026/09/486370.html",
     "source": "量子位",
@@ -9,11 +37,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "6 小时前"
+    "heat": 94,
+    "time": "17 小时前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
     "url": "https://www.qbitai.com/2026/09/486288.html",
     "source": "量子位",
@@ -24,11 +52,11 @@
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 96,
-    "time": "11 小时前"
+    "heat": 92,
+    "time": "22 小时前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
     "url": "https://www.qbitai.com/2026/09/486280.html",
     "source": "量子位",
@@ -39,11 +67,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "11 小时前"
+    "heat": 90,
+    "time": "22 小时前"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
     "url": "https://www.qbitai.com/2026/09/486052.html",
     "source": "量子位",
@@ -54,11 +82,11 @@
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 92,
-    "time": "12 小时前"
+    "heat": 88,
+    "time": "23 小时前"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
     "url": "https://www.qbitai.com/2026/09/485854.html",
     "source": "量子位",
@@ -67,47 +95,17 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
+    "heat": 86,
     "time": "1 天前"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
     "url": "https://www.qbitai.com/2026/09/485794.html",
     "source": "量子位",
     "summary": "百万奖金、大厂直通、VC跟投",
     "tldr": "百万奖金、大厂直通、VC跟投",
     "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-    "url": "https://www.qbitai.com/2026/09/485784.html",
-    "source": "量子位",
-    "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
-    "tldr": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
-    "keyPoints": [
-      "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "1 天前"
-  },
-  {
-    "id": 8,
-    "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-    "url": "https://www.qbitai.com/2026/09/485630.html",
-    "source": "量子位",
-    "summary": "从看市场，到见场景；从认识伙伴，到寻找合作。",
-    "tldr": "从看市场，到见场景；从认识伙伴，到寻找合作。",
-    "keyPoints": [
-      "从看市场，到见场景；从认识伙伴，到寻找合作。"
-    ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 84,
