@@ -1,6 +1,49 @@
 [
   {
     "id": 1,
+    "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+    "url": "https://www.qbitai.com/2026/09/487796.html",
+    "source": "量子位",
+    "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+    "tldr": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+    "keyPoints": [
+      "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "6 小时前"
+  },
+  {
+    "id": 2,
+    "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+    "url": "https://www.qbitai.com/2026/09/487701.html",
+    "source": "量子位",
+    "summary": "FrontierMath Tier 4，饱和了",
+    "tldr": "FrontierMath Tier 4，饱和了",
+    "keyPoints": [
+      "FrontierMath Tier 4，饱和了"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "7 小时前"
+  },
+  {
+    "id": 3,
+    "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+    "url": "https://www.qbitai.com/2026/09/487653.html",
+    "source": "量子位",
+    "summary": "25位菲尔兹奖得主联名吹哨",
+    "tldr": "25位菲尔兹奖得主联名吹哨",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "10 小时前"
+  },
+  {
+    "id": 4,
     "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
     "url": "https://www.qbitai.com/2026/09/487631.html",
     "source": "量子位",
@@ -9,11 +52,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "9 小时前"
+    "heat": 92,
+    "time": "21 小时前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "啊？Anthropic最高320万招销售，只为服务Meta",
     "url": "https://www.qbitai.com/2026/09/487573.html",
     "source": "量子位",
@@ -22,11 +65,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "13 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "不简单，“吃货快乐榜”也全面AI化了",
     "url": "https://www.qbitai.com/2026/09/487282.html",
     "source": "量子位",
@@ -35,63 +78,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "18 小时前"
-  },
-  {
-    "id": 4,
-    "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-    "url": "https://www.qbitai.com/2026/09/487273.html",
-    "source": "量子位",
-    "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
-    "tldr": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
-    "keyPoints": [
-      "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "21 小时前"
-  },
-  {
-    "id": 5,
-    "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
-    "url": "https://www.qbitai.com/2026/09/487163.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-    "url": "https://www.qbitai.com/2026/09/487092.html",
-    "source": "量子位",
-    "summary": "爆料直指霍奇猜想",
-    "tldr": "爆料直指霍奇猜想",
-    "keyPoints": [],
-    "worthReading": "本文聚焦论文研究方向，与 AI 行业趋势相关。",
-    "category": "论文研究",
     "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-    "url": "https://www.qbitai.com/2026/09/486934.html",
-    "source": "量子位",
-    "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
-    "tldr": "多模态AI大牛轮番登台，全球64支团队组团解题",
-    "keyPoints": [
-      "多模态AI大牛轮番登台，全球64支团队组团解题"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 86,
     "time": "1 天前"
   }
 ]
