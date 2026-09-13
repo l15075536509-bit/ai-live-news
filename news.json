@@ -1,6 +1,32 @@
 [
   {
     "id": 1,
+    "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+    "url": "https://www.qbitai.com/2026/09/488447.html",
+    "source": "量子位",
+    "summary": "Agent的下一步是关系型生产力",
+    "tldr": "Agent的下一步是关系型生产力",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "9 小时前"
+  },
+  {
+    "id": 2,
+    "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+    "url": "https://www.qbitai.com/2026/09/488380.html",
+    "source": "量子位",
+    "summary": "RSI太危险，得管！",
+    "tldr": "RSI太危险，得管！",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "12 小时前"
+  },
+  {
+    "id": 3,
     "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
     "url": "https://www.qbitai.com/2026/09/487796.html",
     "source": "量子位",
@@ -11,11 +37,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "18 小时前"
+    "heat": 94,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
     "url": "https://www.qbitai.com/2026/09/487701.html",
     "source": "量子位",
@@ -26,11 +52,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "20 小时前"
+    "heat": 92,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
     "url": "https://www.qbitai.com/2026/09/487653.html",
     "source": "量子位",
@@ -39,46 +65,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "22 小时前"
-  },
-  {
-    "id": 4,
-    "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
-    "url": "https://www.qbitai.com/2026/09/487631.html",
-    "source": "量子位",
-    "summary": "看清「一个真正的人」",
-    "tldr": "看清「一个真正的人」",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "啊？Anthropic最高320万招销售，只为服务Meta",
-    "url": "https://www.qbitai.com/2026/09/487573.html",
-    "source": "量子位",
-    "summary": "原来你俩互相下单呢",
-    "tldr": "原来你俩互相下单呢",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "不简单，“吃货快乐榜”也全面AI化了",
-    "url": "https://www.qbitai.com/2026/09/487282.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
     "time": "1 天前"
   }
 ]
