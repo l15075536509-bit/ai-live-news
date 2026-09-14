@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+    "url": "https://www.qbitai.com/2026/09/488694.html",
+    "source": "量子位",
+    "summary": "模型、论文都还没出，没想到先从财务公告上剧透了",
+    "tldr": "模型、论文都还没出，没想到先从财务公告上剧透了",
+    "keyPoints": [
+      "模型、论文都还没出，没想到先从财务公告上剧透了"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "3 小时前"
+  },
+  {
+    "id": 2,
     "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
     "url": "https://www.qbitai.com/2026/09/488447.html",
     "source": "量子位",
@@ -9,11 +24,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "9 小时前"
+    "heat": 96,
+    "time": "21 小时前"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
     "url": "https://www.qbitai.com/2026/09/488380.html",
     "source": "量子位",
@@ -22,11 +37,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "12 小时前"
+    "heat": 94,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
     "url": "https://www.qbitai.com/2026/09/487796.html",
     "source": "量子位",
@@ -37,11 +52,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
+    "heat": 92,
     "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
     "url": "https://www.qbitai.com/2026/09/487701.html",
     "source": "量子位",
@@ -50,19 +65,6 @@
     "keyPoints": [
       "FrontierMath Tier 4，饱和了"
     ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-    "url": "https://www.qbitai.com/2026/09/487653.html",
-    "source": "量子位",
-    "summary": "25位菲尔兹奖得主联名吹哨",
-    "tldr": "25位菲尔兹奖得主联名吹哨",
-    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
