@@ -1,125 +1,99 @@
 [
   {
     "id": 1,
-    "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
-    "url": "https://www.qbitai.com/2026/09/489227.html",
+    "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+    "url": "https://www.qbitai.com/2026/09/489466.html",
     "source": "量子位",
-    "summary": "几百个Agent参与研发，AI开始造AI",
-    "tldr": "几百个Agent参与研发，AI开始造AI",
-    "keyPoints": [
-      "几百个Agent参与研发，AI开始造AI"
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 98,
-    "time": "1 小时前"
-  },
-  {
-    "id": 2,
-    "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
-    "url": "https://www.qbitai.com/2026/09/489105.html",
-    "source": "量子位",
-    "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
-    "tldr": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
-    "keyPoints": [
-      "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 96,
-    "time": "18 小时前"
-  },
-  {
-    "id": 3,
-    "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
-    "url": "https://www.qbitai.com/2026/09/489106.html",
-    "source": "量子位",
-    "summary": "业界首个5A算电协同认证",
-    "tldr": "业界首个5A算电协同认证",
+    "summary": "一句话，YOYO全面接管我的生活",
+    "tldr": "一句话，YOYO全面接管我的生活",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
+    "heat": 98,
+    "time": "3 小时前"
+  },
+  {
+    "id": 2,
+    "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+    "url": "https://www.qbitai.com/2026/09/489460.html",
+    "source": "量子位",
+    "summary": "卡位具身智能规模化落地“最后一公里”！",
+    "tldr": "卡位具身智能规模化落地“最后一公里”！",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 96,
+    "time": "5 小时前"
+  },
+  {
+    "id": 3,
+    "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+    "url": "https://www.qbitai.com/2026/09/489389.html",
+    "source": "量子位",
+    "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
+    "tldr": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.",
+    "keyPoints": [
+      "ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1."
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
     "heat": 94,
-    "time": "18 小时前"
+    "time": "5 小时前"
   },
   {
     "id": 4,
-    "title": "分子之心QuantaMind登Science Advances，让AI给分子世界&#8221;拍电影&#8221;",
-    "url": "https://www.qbitai.com/2026/09/489023.html",
+    "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+    "url": "https://www.qbitai.com/2026/09/489381.html",
     "source": "量子位",
-    "summary": "AI 蛋白质设计迈入“动态时代”",
-    "tldr": "AI 蛋白质设计迈入“动态时代”",
+    "summary": "打破分子模拟“不可能三角”",
+    "tldr": "打破分子模拟“不可能三角”",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 92,
-    "time": "19 小时前"
+    "time": "6 小时前"
   },
   {
     "id": 5,
-    "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
-    "url": "https://www.qbitai.com/2026/09/488933.html",
+    "title": "首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编",
+    "url": "https://www.qbitai.com/2026/09/489260.html",
     "source": "量子位",
-    "summary": "让模型和设备共同进化",
-    "tldr": "让模型和设备共同进化",
+    "summary": "刘慈欣督战",
+    "tldr": "刘慈欣督战",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
-    "time": "19 小时前"
+    "time": "8 小时前"
   },
   {
     "id": 6,
-    "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
-    "url": "https://www.qbitai.com/2026/09/488912.html",
+    "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+    "url": "https://www.qbitai.com/2026/09/489288.html",
     "source": "量子位",
-    "summary": "险资、券商与头部创投持续加码",
-    "tldr": "险资、券商与头部创投持续加码",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "19 小时前"
-  },
-  {
-    "id": 7,
-    "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
-    "url": "https://www.qbitai.com/2026/09/488875.html",
-    "source": "量子位",
-    "summary": "共话AI时代的生活、影像与创造。",
-    "tldr": "共话AI时代的生活、影像与创造。",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "21 小时前"
-  },
-  {
-    "id": 8,
-    "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
-    "url": "https://www.qbitai.com/2026/09/488832.html",
-    "source": "量子位",
-    "summary": "小模型突破瓶颈，旗舰模型打开新空间",
-    "tldr": "小模型突破瓶颈，旗舰模型打开新空间",
-    "keyPoints": [],
-    "worthReading": "本文聚焦论文研究方向，与 AI 行业趋势相关。",
-    "category": "论文研究",
-    "heat": 84,
-    "time": "1 天前"
-  },
-  {
-    "id": 9,
-    "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
-    "url": "https://www.qbitai.com/2026/09/488725.html",
-    "source": "量子位",
-    "summary": "这家中国公司，刚跑完了物理闭环里最难的一段路",
-    "tldr": "这家中国公司，刚跑完了物理闭环里最难的一段路",
+    "summary": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
+    "tldr": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
     "keyPoints": [
-      "这家中国公司，刚跑完了物理闭环里最难的一段路"
+      "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。"
     ],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 82,
-    "time": "1 天前"
+    "heat": 88,
+    "time": "10 小时前"
+  },
+  {
+    "id": 7,
+    "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+    "url": "https://www.qbitai.com/2026/09/489277.html",
+    "source": "量子位",
+    "summary": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇",
+    "tldr": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇",
+    "keyPoints": [
+      "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 86,
+    "time": "11 小时前"
   }
 ]
