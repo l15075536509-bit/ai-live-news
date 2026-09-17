@@ -1,6 +1,34 @@
 [
   {
     "id": 1,
+    "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
+    "url": "https://www.qbitai.com/2026/09/490974.html",
+    "source": "量子位",
+    "summary": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。",
+    "tldr": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。",
+    "keyPoints": [
+      "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "1 小时前"
+  },
+  {
+    "id": 2,
+    "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
+    "url": "https://www.qbitai.com/2026/09/490950.html",
+    "source": "量子位",
+    "summary": "奖励曲线、显卡故障全公开",
+    "tldr": "奖励曲线、显卡故障全公开",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "2 小时前"
+  },
+  {
+    "id": 3,
     "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
     "url": "https://www.qbitai.com/2026/09/490839.html",
     "source": "量子位",
@@ -11,11 +39,11 @@
     ],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 98,
-    "time": "3 小时前"
+    "heat": 94,
+    "time": "14 小时前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
     "url": "https://www.qbitai.com/2026/09/490760.html",
     "source": "量子位",
@@ -26,11 +54,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "7 小时前"
+    "heat": 92,
+    "time": "18 小时前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
     "url": "https://www.qbitai.com/2026/09/490756.html",
     "source": "量子位",
@@ -41,11 +69,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "7 小时前"
+    "heat": 90,
+    "time": "19 小时前"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
     "url": "https://www.qbitai.com/2026/09/490750.html",
     "source": "量子位",
@@ -56,11 +84,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "8 小时前"
+    "heat": 88,
+    "time": "19 小时前"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
     "url": "https://www.qbitai.com/2026/09/490686.html",
     "source": "量子位",
@@ -69,11 +97,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
-    "time": "8 小时前"
+    "heat": 86,
+    "time": "20 小时前"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
     "url": "https://www.qbitai.com/2026/09/490400.html",
     "source": "量子位",
@@ -84,48 +112,7 @@
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 88,
-    "time": "9 小时前"
-  },
-  {
-    "id": 7,
-    "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
-    "url": "https://www.qbitai.com/2026/09/490396.html",
-    "source": "量子位",
-    "summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
-    "tldr": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
-    "keyPoints": [
-      "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 86,
-    "time": "9 小时前"
-  },
-  {
-    "id": 8,
-    "title": "量子位2026人工智能年度榜单，正式启动！",
-    "url": "https://www.qbitai.com/2026/09/490329.html",
-    "source": "量子位",
-    "summary": "报名通道已开启，欢迎参与！",
-    "tldr": "报名通道已开启，欢迎参与！",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 84,
-    "time": "12 小时前"
-  },
-  {
-    "id": 9,
-    "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
-    "url": "https://www.qbitai.com/2026/09/490185.html",
-    "source": "量子位",
-    "summary": "从想法到结果，一次对话实现",
-    "tldr": "从想法到结果，一次对话实现",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 82,
-    "time": "12 小时前"
+    "time": "21 小时前"
   }
 ]
