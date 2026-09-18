@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+    "url": "https://www.qbitai.com/2026/09/491711.html",
+    "source": "量子位",
+    "summary": "Git白学了？？？",
+    "tldr": "Git白学了？？？",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "3 小时前"
+  },
+  {
+    "id": 2,
     "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
     "url": "https://www.qbitai.com/2026/09/491649.html",
     "source": "量子位",
@@ -9,11 +22,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "4 小时前"
+    "heat": 96,
+    "time": "15 小时前"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Claude Code团队讲究啊，这都往外说",
     "url": "https://www.qbitai.com/2026/09/491596.html",
     "source": "量子位",
@@ -24,11 +37,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "4 小时前"
+    "heat": 94,
+    "time": "15 小时前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
     "url": "https://www.qbitai.com/2026/09/491522.html",
     "source": "量子位",
@@ -39,11 +52,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "6 小时前"
+    "heat": 92,
+    "time": "17 小时前"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
     "url": "https://www.qbitai.com/2026/09/491454.html",
     "source": "量子位",
@@ -52,11 +65,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "6 小时前"
+    "heat": 90,
+    "time": "17 小时前"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
     "url": "https://www.qbitai.com/2026/09/491391.html",
     "source": "量子位",
@@ -65,11 +78,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 90,
-    "time": "7 小时前"
+    "heat": 88,
+    "time": "18 小时前"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "马斯克睡进工地！为AI基建拼了",
     "url": "https://www.qbitai.com/2026/09/491280.html",
     "source": "量子位",
@@ -80,7 +93,7 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 88,
-    "time": "11 小时前"
+    "heat": 86,
+    "time": "22 小时前"
   }
 ]
