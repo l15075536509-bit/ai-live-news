@@ -1,6 +1,34 @@
 [
   {
     "id": 1,
+    "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+    "url": "https://www.qbitai.com/2026/09/492426.html",
+    "source": "量子位",
+    "summary": "协同布局AI基础设施",
+    "tldr": "协同布局AI基础设施",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "11 小时前"
+  },
+  {
+    "id": 2,
+    "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+    "url": "https://www.qbitai.com/2026/09/492421.html",
+    "source": "量子位",
+    "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
+    "tldr": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
+    "keyPoints": [
+      "成果中唯一聚焦算电协同全链路运营的AI技术产品"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 96,
+    "time": "11 小时前"
+  },
+  {
+    "id": 3,
     "title": "具身智能技术路线尚未定型，基础设施却先收敛",
     "url": "https://www.qbitai.com/2026/09/492238.html",
     "source": "量子位",
@@ -11,11 +39,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "2 小时前"
+    "heat": 94,
+    "time": "14 小时前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
     "url": "https://www.qbitai.com/2026/09/492175.html",
     "source": "量子位",
@@ -24,11 +52,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "3 小时前"
+    "heat": 92,
+    "time": "15 小时前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
     "url": "https://www.qbitai.com/2026/09/491875.html",
     "source": "量子位",
@@ -37,11 +65,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "9 小时前"
+    "heat": 90,
+    "time": "21 小时前"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
     "url": "https://www.qbitai.com/2026/09/491711.html",
     "source": "量子位",
@@ -50,11 +78,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "15 小时前"
+    "heat": 88,
+    "time": "1 天前"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
     "url": "https://www.qbitai.com/2026/09/491649.html",
     "source": "量子位",
@@ -63,11 +91,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
+    "heat": 86,
     "time": "1 天前"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Claude Code团队讲究啊，这都往外说",
     "url": "https://www.qbitai.com/2026/09/491596.html",
     "source": "量子位",
@@ -78,32 +106,6 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
-    "url": "https://www.qbitai.com/2026/09/491454.html",
-    "source": "量子位",
-    "summary": "中国电信，TeleAgent",
-    "tldr": "中国电信，TeleAgent",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "1 天前"
-  },
-  {
-    "id": 8,
-    "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
-    "url": "https://www.qbitai.com/2026/09/491391.html",
-    "source": "量子位",
-    "summary": "文档和PPT都能做了",
-    "tldr": "文档和PPT都能做了",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
     "heat": 84,
     "time": "1 天前"
   }
