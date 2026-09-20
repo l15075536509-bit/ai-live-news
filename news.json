@@ -1,6 +1,92 @@
 [
   {
     "id": 1,
+    "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+    "url": "https://www.qbitai.com/2026/09/492973.html",
+    "source": "量子位",
+    "summary": "剪映Hub+剪映助手，好用",
+    "tldr": "剪映Hub+剪映助手，好用",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 98,
+    "time": "1 小时前"
+  },
+  {
+    "id": 2,
+    "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+    "url": "https://www.qbitai.com/2026/09/493068.html",
+    "source": "量子位",
+    "summary": "AI越来越能干，企业该怎么用",
+    "tldr": "AI越来越能干，企业该怎么用",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "1 小时前"
+  },
+  {
+    "id": 3,
+    "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+    "url": "https://www.qbitai.com/2026/09/492946.html",
+    "source": "量子位",
+    "summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
+    "tldr": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
+    "keyPoints": [
+      "AI办公这块蛋糕，中国电信可能要先切走一块了。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "3 小时前"
+  },
+  {
+    "id": 4,
+    "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+    "url": "https://www.qbitai.com/2026/09/492939.html",
+    "source": "量子位",
+    "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+    "tldr": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+    "keyPoints": [
+      "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 92,
+    "time": "7 小时前"
+  },
+  {
+    "id": 5,
+    "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+    "url": "https://www.qbitai.com/2026/09/492912.html",
+    "source": "量子位",
+    "summary": "亚马逊云科技给企业安全用Agent打了个样",
+    "tldr": "亚马逊云科技给企业安全用Agent打了个样",
+    "keyPoints": [
+      "亚马逊云科技给企业安全用Agent打了个样"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "7 小时前"
+  },
+  {
+    "id": 6,
+    "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+    "url": "https://www.qbitai.com/2026/09/492849.html",
+    "source": "量子位",
+    "summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+    "tldr": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+    "keyPoints": [
+      "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 88,
+    "time": "12 小时前"
+  },
+  {
+    "id": 7,
     "title": "“留给人类阻止AI的时间不多了”",
     "url": "https://www.qbitai.com/2026/09/492755.html",
     "source": "量子位",
@@ -9,11 +95,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "15 小时前"
+    "heat": 86,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 8,
     "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
     "url": "https://www.qbitai.com/2026/09/492573.html",
     "source": "量子位",
@@ -24,102 +110,7 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "16 小时前"
-  },
-  {
-    "id": 3,
-    "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
-    "url": "https://www.qbitai.com/2026/09/492550.html",
-    "source": "量子位",
-    "summary": "AI能否提出相对论？",
-    "tldr": "AI能否提出相对论？",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "16 小时前"
-  },
-  {
-    "id": 4,
-    "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
-    "url": "https://www.qbitai.com/2026/09/492501.html",
-    "source": "量子位",
-    "summary": "1000万，把才华送上真正的大舞台",
-    "tldr": "1000万，把才华送上真正的大舞台",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "19 小时前"
-  },
-  {
-    "id": 5,
-    "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
-    "url": "https://www.qbitai.com/2026/09/492476.html",
-    "source": "量子位",
-    "summary": "CANN跨过拐点，华为补上软件生态",
-    "tldr": "CANN跨过拐点，华为补上软件生态",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "19 小时前"
-  },
-  {
-    "id": 6,
-    "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
-    "url": "https://www.qbitai.com/2026/09/492467.html",
-    "source": "量子位",
-    "summary": "让开放模型与可负担的算力成为数学研究的共享基石",
-    "tldr": "让开放模型与可负担的算力成为数学研究的共享基石",
-    "keyPoints": [
-      "让开放模型与可负担的算力成为数学研究的共享基石"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 88,
-    "time": "21 小时前"
-  },
-  {
-    "id": 7,
-    "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-    "url": "https://www.qbitai.com/2026/09/492429.html",
-    "source": "量子位",
-    "summary": "同一预测核心，跨七类系统验证",
-    "tldr": "同一预测核心，跨七类系统验证",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "21 小时前"
-  },
-  {
-    "id": 8,
-    "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
-    "url": "https://www.qbitai.com/2026/09/492426.html",
-    "source": "量子位",
-    "summary": "协同布局AI基础设施",
-    "tldr": "协同布局AI基础设施",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 84,
-    "time": "1 天前"
-  },
-  {
-    "id": 9,
-    "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
-    "url": "https://www.qbitai.com/2026/09/492421.html",
-    "source": "量子位",
-    "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
-    "tldr": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
-    "keyPoints": [
-      "成果中唯一聚焦算电协同全链路运营的AI技术产品"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 82,
     "time": "1 天前"
   }
 ]
