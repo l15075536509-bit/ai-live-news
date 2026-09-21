@@ -1,6 +1,62 @@
 [
   {
     "id": 1,
+    "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+    "url": "https://www.qbitai.com/2026/09/493241.html",
+    "source": "量子位",
+    "summary": "97%尝试危险行为",
+    "tldr": "97%尝试危险行为",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "9 小时前"
+  },
+  {
+    "id": 2,
+    "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+    "url": "https://www.qbitai.com/2026/09/493235.html",
+    "source": "量子位",
+    "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+    "tldr": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+    "keyPoints": [
+      "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 96,
+    "time": "10 小时前"
+  },
+  {
+    "id": 3,
+    "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+    "url": "https://www.qbitai.com/2026/09/493231.html",
+    "source": "量子位",
+    "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+    "tldr": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+    "keyPoints": [
+      "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 94,
+    "time": "10 小时前"
+  },
+  {
+    "id": 4,
+    "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+    "url": "https://www.qbitai.com/2026/09/493218.html",
+    "source": "量子位",
+    "summary": "在物理世界真正干活的具身智能体",
+    "tldr": "在物理世界真正干活的具身智能体",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 92,
+    "time": "11 小时前"
+  },
+  {
+    "id": 5,
     "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
     "url": "https://www.qbitai.com/2026/09/493114.html",
     "source": "量子位",
@@ -11,12 +67,12 @@
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "1 小时前"
+    "heat": 90,
+    "time": "15 小时前"
   },
   {
-    "id": 2,
-    "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
+    "id": 6,
+    "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
     "url": "https://www.qbitai.com/2026/09/493109.html",
     "source": "量子位",
     "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
@@ -26,11 +82,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "1 小时前"
+    "heat": 88,
+    "time": "15 小时前"
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
     "url": "https://www.qbitai.com/2026/09/493091.html",
     "source": "量子位",
@@ -41,93 +97,7 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "1 小时前"
-  },
-  {
-    "id": 4,
-    "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-    "url": "https://www.qbitai.com/2026/09/492973.html",
-    "source": "量子位",
-    "summary": "剪映Hub+剪映助手，好用",
-    "tldr": "剪映Hub+剪映助手，好用",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 92,
-    "time": "13 小时前"
-  },
-  {
-    "id": 5,
-    "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
-    "url": "https://www.qbitai.com/2026/09/493068.html",
-    "source": "量子位",
-    "summary": "AI越来越能干，企业该怎么用",
-    "tldr": "AI越来越能干，企业该怎么用",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "13 小时前"
-  },
-  {
-    "id": 6,
-    "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
-    "url": "https://www.qbitai.com/2026/09/492946.html",
-    "source": "量子位",
-    "summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
-    "tldr": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
-    "keyPoints": [
-      "AI办公这块蛋糕，中国电信可能要先切走一块了。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "15 小时前"
-  },
-  {
-    "id": 7,
-    "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-    "url": "https://www.qbitai.com/2026/09/492939.html",
-    "source": "量子位",
-    "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
-    "tldr": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
-    "keyPoints": [
-      "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果"
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
     "heat": 86,
-    "time": "19 小时前"
-  },
-  {
-    "id": 8,
-    "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-    "url": "https://www.qbitai.com/2026/09/492912.html",
-    "source": "量子位",
-    "summary": "亚马逊云科技给企业安全用Agent打了个样",
-    "tldr": "亚马逊云科技给企业安全用Agent打了个样",
-    "keyPoints": [
-      "亚马逊云科技给企业安全用Agent打了个样"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 84,
-    "time": "19 小时前"
-  },
-  {
-    "id": 9,
-    "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
-    "url": "https://www.qbitai.com/2026/09/492849.html",
-    "source": "量子位",
-    "summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
-    "tldr": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
-    "keyPoints": [
-      "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 82,
-    "time": "1 天前"
+    "time": "16 小时前"
   }
 ]
