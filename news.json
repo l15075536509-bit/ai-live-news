@@ -1,6 +1,51 @@
 [
   {
     "id": 1,
+    "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+    "url": "https://www.qbitai.com/2026/09/493114.html",
+    "source": "量子位",
+    "summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+    "tldr": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+    "keyPoints": [
+      "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "1 小时前"
+  },
+  {
+    "id": 2,
+    "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
+    "url": "https://www.qbitai.com/2026/09/493109.html",
+    "source": "量子位",
+    "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
+    "tldr": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
+    "keyPoints": [
+      "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "1 小时前"
+  },
+  {
+    "id": 3,
+    "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
+    "url": "https://www.qbitai.com/2026/09/493091.html",
+    "source": "量子位",
+    "summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
+    "tldr": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
+    "keyPoints": [
+      "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 94,
+    "time": "1 小时前"
+  },
+  {
+    "id": 4,
     "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
     "url": "https://www.qbitai.com/2026/09/492973.html",
     "source": "量子位",
@@ -9,11 +54,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 98,
-    "time": "1 小时前"
+    "heat": 92,
+    "time": "13 小时前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
     "url": "https://www.qbitai.com/2026/09/493068.html",
     "source": "量子位",
@@ -22,11 +67,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "1 小时前"
+    "heat": 90,
+    "time": "13 小时前"
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
     "url": "https://www.qbitai.com/2026/09/492946.html",
     "source": "量子位",
@@ -37,11 +82,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "3 小时前"
+    "heat": 88,
+    "time": "15 小时前"
   },
   {
-    "id": 4,
+    "id": 7,
     "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
     "url": "https://www.qbitai.com/2026/09/492939.html",
     "source": "量子位",
@@ -52,11 +97,11 @@
     ],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 92,
-    "time": "7 小时前"
+    "heat": 86,
+    "time": "19 小时前"
   },
   {
-    "id": 5,
+    "id": 8,
     "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
     "url": "https://www.qbitai.com/2026/09/492912.html",
     "source": "量子位",
@@ -67,11 +112,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
-    "time": "7 小时前"
+    "heat": 84,
+    "time": "19 小时前"
   },
   {
-    "id": 6,
+    "id": 9,
     "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
     "url": "https://www.qbitai.com/2026/09/492849.html",
     "source": "量子位",
@@ -82,35 +127,7 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 88,
-    "time": "12 小时前"
-  },
-  {
-    "id": 7,
-    "title": "“留给人类阻止AI的时间不多了”",
-    "url": "https://www.qbitai.com/2026/09/492755.html",
-    "source": "量子位",
-    "summary": "AI有可能终结我们所有人",
-    "tldr": "AI有可能终结我们所有人",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "1 天前"
-  },
-  {
-    "id": 8,
-    "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
-    "url": "https://www.qbitai.com/2026/09/492573.html",
-    "source": "量子位",
-    "summary": "设计、前端一口气全干了，结果后端没来上班",
-    "tldr": "设计、前端一口气全干了，结果后端没来上班",
-    "keyPoints": [
-      "设计、前端一口气全干了，结果后端没来上班"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 84,
+    "heat": 82,
     "time": "1 天前"
   }
 ]
