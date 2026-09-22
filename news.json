@@ -1,103 +1,118 @@
 [
   {
     "id": 1,
-    "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
-    "url": "https://www.qbitai.com/2026/09/493241.html",
+    "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+    "url": "https://www.qbitai.com/2026/09/494420.html",
     "source": "量子位",
-    "summary": "97%尝试危险行为",
-    "tldr": "97%尝试危险行为",
-    "keyPoints": [],
+    "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
+    "tldr": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
+    "keyPoints": [
+      "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。"
+    ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 98,
-    "time": "19 小时前"
+    "time": "1 小时前"
   },
   {
     "id": 2,
-    "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-    "url": "https://www.qbitai.com/2026/09/493235.html",
+    "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+    "url": "https://www.qbitai.com/2026/09/494263.html",
     "source": "量子位",
-    "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
-    "tldr": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
-    "keyPoints": [
-      "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。"
-    ],
+    "summary": "商汤U1 Pro，正式发布",
+    "tldr": "商汤U1 Pro，正式发布",
+    "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
     "heat": 96,
-    "time": "19 小时前"
+    "time": "2 小时前"
   },
   {
     "id": 3,
-    "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-    "url": "https://www.qbitai.com/2026/09/493231.html",
+    "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+    "url": "https://www.qbitai.com/2026/09/493653.html",
     "source": "量子位",
-    "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
-    "tldr": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
-    "keyPoints": [
-      "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark"
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "summary": "梦想是做能帮妈妈订机票的AI浏览器。",
+    "tldr": "梦想是做能帮妈妈订机票的AI浏览器。",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 94,
-    "time": "20 小时前"
+    "time": "4 小时前"
   },
   {
     "id": 4,
-    "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-    "url": "https://www.qbitai.com/2026/09/493218.html",
+    "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
+    "url": "https://www.qbitai.com/2026/09/494179.html",
     "source": "量子位",
-    "summary": "在物理世界真正干活的具身智能体",
-    "tldr": "在物理世界真正干活的具身智能体",
-    "keyPoints": [],
+    "summary": "Hugging Face CEO：「太棒了」",
+    "tldr": "Hugging Face CEO：「太棒了」",
+    "keyPoints": [
+      "Hugging Face CEO：「太棒了」"
+    ],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
     "heat": 92,
-    "time": "21 小时前"
+    "time": "4 小时前"
   },
   {
     "id": 5,
-    "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-    "url": "https://www.qbitai.com/2026/09/493114.html",
+    "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+    "url": "https://www.qbitai.com/2026/09/494120.html",
     "source": "量子位",
-    "summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
-    "tldr": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+    "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
+    "tldr": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
     "keyPoints": [
-      "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-    "url": "https://www.qbitai.com/2026/09/493109.html",
-    "source": "量子位",
-    "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
-    "tldr": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
-    "keyPoints": [
-      "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。"
+      "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。"
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 88,
-    "time": "1 天前"
+    "heat": 90,
+    "time": "6 小时前"
   },
   {
-    "id": 7,
-    "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
-    "url": "https://www.qbitai.com/2026/09/493091.html",
+    "id": 6,
+    "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+    "url": "https://www.qbitai.com/2026/09/493865.html",
     "source": "量子位",
-    "summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
-    "tldr": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
+    "summary": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
+    "tldr": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
     "keyPoints": [
-      "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上"
+      "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”"
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
+    "heat": 88,
+    "time": "7 小时前"
+  },
+  {
+    "id": 7,
+    "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+    "url": "https://www.qbitai.com/2026/09/493629.html",
+    "source": "量子位",
+    "summary": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
+    "tldr": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
+    "keyPoints": [
+      "5、Qwen5等版本将扩展至5-10T参数。"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
     "heat": 86,
-    "time": "1 天前"
+    "time": "12 小时前"
+  },
+  {
+    "id": 8,
+    "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+    "url": "https://www.qbitai.com/2026/09/493625.html",
+    "source": "量子位",
+    "summary": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+    "tldr": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+    "keyPoints": [
+      "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 84,
+    "time": "12 小时前"
   }
 ]
