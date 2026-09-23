@@ -1,101 +1,99 @@
 [
   {
     "id": 1,
-    "title": "Agent时代，CPU的价值该重估了",
-    "url": "https://www.qbitai.com/2026/09/494430.html",
+    "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+    "url": "https://www.qbitai.com/2026/09/496609.html",
     "source": "量子位",
-    "summary": "CPU与GPU趋近1∶1",
-    "tldr": "CPU与GPU趋近1∶1",
-    "keyPoints": [],
+    "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
+    "tldr": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
+    "keyPoints": [
+      "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会"
+    ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 98,
-    "time": "11 小时前"
+    "time": "5 小时前"
   },
   {
     "id": 2,
-    "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
-    "url": "https://www.qbitai.com/2026/09/494420.html",
+    "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+    "url": "https://www.qbitai.com/2026/09/496493.html",
     "source": "量子位",
-    "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
-    "tldr": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
-    "keyPoints": [
-      "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "summary": "企业AI服务迎来平台化交付时代",
+    "tldr": "企业AI服务迎来平台化交付时代",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
     "heat": 96,
-    "time": "13 小时前"
+    "time": "6 小时前"
   },
   {
     "id": 3,
-    "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
-    "url": "https://www.qbitai.com/2026/09/494263.html",
+    "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
+    "url": "https://www.qbitai.com/2026/09/496481.html",
     "source": "量子位",
-    "summary": "商汤U1 Pro，正式发布",
-    "tldr": "商汤U1 Pro，正式发布",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
+    "summary": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力",
+    "tldr": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力",
+    "keyPoints": [
+      "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 94,
-    "time": "13 小时前"
+    "time": "7 小时前"
   },
   {
     "id": 4,
-    "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
-    "url": "https://www.qbitai.com/2026/09/493653.html",
+    "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+    "url": "https://www.qbitai.com/2026/09/496471.html",
     "source": "量子位",
-    "summary": "梦想是做能帮妈妈订机票的AI浏览器。",
-    "tldr": "梦想是做能帮妈妈订机票的AI浏览器。",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+    "tldr": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.",
+    "keyPoints": [
+      "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2."
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
     "heat": 92,
-    "time": "15 小时前"
+    "time": "7 小时前"
   },
   {
     "id": 5,
-    "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
-    "url": "https://www.qbitai.com/2026/09/494179.html",
+    "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+    "url": "https://www.qbitai.com/2026/09/496393.html",
     "source": "量子位",
-    "summary": "Hugging Face CEO：「太棒了」",
-    "tldr": "Hugging Face CEO：「太棒了」",
-    "keyPoints": [
-      "Hugging Face CEO：「太棒了」"
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "summary": "每秒能产生5000+个沙盒",
+    "tldr": "每秒能产生5000+个沙盒",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
     "heat": 90,
-    "time": "15 小时前"
+    "time": "8 小时前"
   },
   {
     "id": 6,
-    "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
-    "url": "https://www.qbitai.com/2026/09/494120.html",
+    "title": "Qwen一号位定了！刘大一恒接棒",
+    "url": "https://www.qbitai.com/2026/09/496384.html",
     "source": "量子位",
-    "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
-    "tldr": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
-    "keyPoints": [
-      "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。"
-    ],
+    "summary": "与稚晖君同届天才少年",
+    "tldr": "与稚晖君同届天才少年",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 88,
-    "time": "17 小时前"
+    "time": "8 小时前"
   },
   {
     "id": 7,
-    "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
-    "url": "https://www.qbitai.com/2026/09/493865.html",
+    "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
+    "url": "https://www.qbitai.com/2026/09/496352.html",
     "source": "量子位",
-    "summary": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
-    "tldr": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
-    "keyPoints": [
-      "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
+    "summary": "对复杂现实进行推演与决策",
+    "tldr": "对复杂现实进行推演与决策",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 86,
-    "time": "18 小时前"
+    "time": "9 小时前"
   }
 ]
