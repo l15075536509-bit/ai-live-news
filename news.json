@@ -1,99 +1,97 @@
 [
   {
     "id": 1,
-    "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
-    "url": "https://www.qbitai.com/2026/09/496609.html",
+    "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+    "url": "https://www.qbitai.com/2026/09/496961.html",
     "source": "量子位",
-    "summary": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
-    "tldr": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
-    "keyPoints": [
-      "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会"
-    ],
+    "summary": "懂出海，能记忆，自进化",
+    "tldr": "懂出海，能记忆，自进化",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 98,
-    "time": "16 小时前"
+    "time": "2 小时前"
   },
   {
     "id": 2,
-    "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
-    "url": "https://www.qbitai.com/2026/09/496493.html",
+    "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+    "url": "https://www.qbitai.com/2026/09/496925.html",
     "source": "量子位",
-    "summary": "企业AI服务迎来平台化交付时代",
-    "tldr": "企业AI服务迎来平台化交付时代",
+    "summary": "1.5台6000D跑赢1台B300！",
+    "tldr": "1.5台6000D跑赢1台B300！",
     "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 96,
-    "time": "17 小时前"
+    "time": "2 小时前"
   },
   {
     "id": 3,
-    "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
-    "url": "https://www.qbitai.com/2026/09/496481.html",
+    "title": "时隔十年，AI大牛署名新论文",
+    "url": "https://www.qbitai.com/2026/09/496834.html",
     "source": "量子位",
-    "summary": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力",
-    "tldr": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力",
-    "keyPoints": [
-      "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "summary": "让自动驾驶“走一步想十步”",
+    "tldr": "让自动驾驶“走一步想十步”",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
     "heat": 94,
-    "time": "18 小时前"
+    "time": "3 小时前"
   },
   {
     "id": 4,
-    "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
-    "url": "https://www.qbitai.com/2026/09/496471.html",
+    "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+    "url": "https://www.qbitai.com/2026/09/496816.html",
     "source": "量子位",
-    "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
-    "tldr": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.",
+    "summary": "人类演示一次，机器人即可实现跨场景任务复用",
+    "tldr": "人类演示一次，机器人即可实现跨场景任务复用",
     "keyPoints": [
-      "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2."
+      "人类演示一次，机器人即可实现跨场景任务复用"
     ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
     "heat": 92,
-    "time": "18 小时前"
+    "time": "8 小时前"
   },
   {
     "id": 5,
-    "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
-    "url": "https://www.qbitai.com/2026/09/496393.html",
+    "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+    "url": "https://www.qbitai.com/2026/09/496779.html",
     "source": "量子位",
-    "summary": "每秒能产生5000+个沙盒",
-    "tldr": "每秒能产生5000+个沙盒",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
+    "summary": "Stripe Managed Payments (SMP) 现已全面上线",
+    "tldr": "Stripe Managed Payments (SMP) 现已全面上线",
+    "keyPoints": [
+      "Stripe Managed Payments (SMP) 现已全面上线"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
     "heat": 90,
-    "time": "20 小时前"
+    "time": "10 小时前"
   },
   {
     "id": 6,
-    "title": "Qwen一号位定了！刘大一恒接棒",
-    "url": "https://www.qbitai.com/2026/09/496384.html",
+    "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+    "url": "https://www.qbitai.com/2026/09/496767.html",
     "source": "量子位",
-    "summary": "与稚晖君同届天才少年",
-    "tldr": "与稚晖君同届天才少年",
+    "summary": "开源一座具身智能的新“塔台”",
+    "tldr": "开源一座具身智能的新“塔台”",
     "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
     "heat": 88,
-    "time": "20 小时前"
+    "time": "11 小时前"
   },
   {
     "id": 7,
-    "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
-    "url": "https://www.qbitai.com/2026/09/496352.html",
+    "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+    "url": "https://www.qbitai.com/2026/09/496647.html",
     "source": "量子位",
-    "summary": "对复杂现实进行推演与决策",
-    "tldr": "对复杂现实进行推演与决策",
+    "summary": "美国也开启了全民养虾狂潮",
+    "tldr": "美国也开启了全民养虾狂潮",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 86,
-    "time": "20 小时前"
+    "time": "14 小时前"
   }
 ]
