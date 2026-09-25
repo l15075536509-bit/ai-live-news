@@ -1,6 +1,60 @@
 [
   {
     "id": 1,
+    "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+    "url": "https://www.qbitai.com/2026/09/497177.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "3 小时前"
+  },
+  {
+    "id": 2,
+    "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+    "url": "https://www.qbitai.com/2026/09/497108.html",
+    "source": "量子位",
+    "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+    "tldr": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+    "keyPoints": [
+      "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 96,
+    "time": "6 小时前"
+  },
+  {
+    "id": 3,
+    "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+    "url": "https://www.qbitai.com/2026/09/497075.html",
+    "source": "量子位",
+    "summary": "Agent的手越伸越长",
+    "tldr": "Agent的手越伸越长",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 94,
+    "time": "10 小时前"
+  },
+  {
+    "id": 4,
+    "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+    "url": "https://www.qbitai.com/2026/09/497070.html",
+    "source": "量子位",
+    "summary": "一场物理世界的基模实验",
+    "tldr": "一场物理世界的基模实验",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "10 小时前"
+  },
+  {
+    "id": 5,
     "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
     "url": "https://www.qbitai.com/2026/09/496961.html",
     "source": "量子位",
@@ -9,11 +63,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "13 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
     "url": "https://www.qbitai.com/2026/09/496925.html",
     "source": "量子位",
@@ -22,11 +76,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "13 小时前"
+    "heat": 88,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "时隔十年，AI大牛署名新论文",
     "url": "https://www.qbitai.com/2026/09/496834.html",
     "source": "量子位",
@@ -35,62 +89,6 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 94,
-    "time": "14 小时前"
-  },
-  {
-    "id": 4,
-    "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
-    "url": "https://www.qbitai.com/2026/09/496816.html",
-    "source": "量子位",
-    "summary": "人类演示一次，机器人即可实现跨场景任务复用",
-    "tldr": "人类演示一次，机器人即可实现跨场景任务复用",
-    "keyPoints": [
-      "人类演示一次，机器人即可实现跨场景任务复用"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 92,
-    "time": "19 小时前"
-  },
-  {
-    "id": 5,
-    "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
-    "url": "https://www.qbitai.com/2026/09/496779.html",
-    "source": "量子位",
-    "summary": "Stripe Managed Payments (SMP) 现已全面上线",
-    "tldr": "Stripe Managed Payments (SMP) 现已全面上线",
-    "keyPoints": [
-      "Stripe Managed Payments (SMP) 现已全面上线"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 90,
-    "time": "22 小时前"
-  },
-  {
-    "id": 6,
-    "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
-    "url": "https://www.qbitai.com/2026/09/496767.html",
-    "source": "量子位",
-    "summary": "开源一座具身智能的新“塔台”",
-    "tldr": "开源一座具身智能的新“塔台”",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 88,
-    "time": "22 小时前"
-  },
-  {
-    "id": 7,
-    "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
-    "url": "https://www.qbitai.com/2026/09/496647.html",
-    "source": "量子位",
-    "summary": "美国也开启了全民养虾狂潮",
-    "tldr": "美国也开启了全民养虾狂潮",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 86,
     "time": "1 天前"
   }
