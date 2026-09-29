@@ -1,6 +1,32 @@
 [
   {
     "id": 1,
+    "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+    "url": "https://www.qbitai.com/2026/09/499188.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "9 小时前"
+  },
+  {
+    "id": 2,
+    "title": "OpenAI因新模型太强叫停发布",
+    "url": "https://www.qbitai.com/2026/09/499140.html",
+    "source": "量子位",
+    "summary": "AGI计划暂停。",
+    "tldr": "AGI计划暂停。",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 96,
+    "time": "9 小时前"
+  },
+  {
+    "id": 3,
     "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
     "url": "https://www.qbitai.com/2026/09/498877.html",
     "source": "量子位",
@@ -11,11 +37,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "15 小时前"
+    "heat": 94,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "HC归来，华为正重新定义AIDC基础设施",
     "url": "https://www.qbitai.com/2026/09/498787.html",
     "source": "量子位",
@@ -24,11 +50,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "17 小时前"
+    "heat": 92,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
     "url": "https://www.qbitai.com/2026/09/498633.html",
     "source": "量子位",
@@ -37,65 +63,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "1 天前"
-  },
-  {
-    "id": 4,
-    "title": "啥题啊能干崩OpenAI最强模型训练…",
-    "url": "https://www.qbitai.com/2026/09/498546.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-    "url": "https://www.qbitai.com/2026/09/498478.html",
-    "source": "量子位",
-    "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-    "tldr": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-    "keyPoints": [
-      "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
     "heat": 90,
-    "time": "2 天前"
-  },
-  {
-    "id": 6,
-    "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-    "url": "https://www.qbitai.com/2026/09/498271.html",
-    "source": "量子位",
-    "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-    "tldr": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-    "keyPoints": [
-      "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 88,
-    "time": "2 天前"
-  },
-  {
-    "id": 7,
-    "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-    "url": "https://www.qbitai.com/2026/09/497624.html",
-    "source": "量子位",
-    "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-    "tldr": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-    "keyPoints": [
-      "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？"
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 86,
     "time": "2 天前"
   }
 ]
