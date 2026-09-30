@@ -1,6 +1,90 @@
 [
   {
     "id": 1,
+    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+    "url": "https://www.qbitai.com/2026/09/499654.html",
+    "source": "量子位",
+    "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+    "tldr": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+    "keyPoints": [
+      "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "3 小时前"
+  },
+  {
+    "id": 2,
+    "title": "直播回顾：工业AI的下一个机会在哪？",
+    "url": "https://www.qbitai.com/2026/09/499605.html",
+    "source": "量子位",
+    "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+    "tldr": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+    "keyPoints": [
+      "企业真正开始做工业AI时，又该从哪里下手？"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "5 小时前"
+  },
+  {
+    "id": 3,
+    "title": "Anthropic，你是来给智谱打广告的吧！",
+    "url": "https://www.qbitai.com/2026/09/499597.html",
+    "source": "量子位",
+    "summary": "实测说GLM-5.3很强",
+    "tldr": "实测说GLM-5.3很强",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "7 小时前"
+  },
+  {
+    "id": 4,
+    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+    "url": "https://www.qbitai.com/2026/09/499592.html",
+    "source": "量子位",
+    "summary": "给Agent配上手机号，再拉个群",
+    "tldr": "给Agent配上手机号，再拉个群",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "9 小时前"
+  },
+  {
+    "id": 5,
+    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+    "url": "https://www.qbitai.com/2026/09/499493.html",
+    "source": "量子位",
+    "summary": "让GPT把机器人技能当工具调用",
+    "tldr": "让GPT把机器人技能当工具调用",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "9 小时前"
+  },
+  {
+    "id": 6,
+    "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+    "url": "https://www.qbitai.com/2026/09/499308.html",
+    "source": "量子位",
+    "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+    "tldr": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+    "keyPoints": [
+      "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 88,
+    "time": "12 小时前"
+  },
+  {
+    "id": 7,
     "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
     "url": "https://www.qbitai.com/2026/09/499263.html",
     "source": "量子位",
@@ -9,11 +93,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 98,
-    "time": "1 小时前"
+    "heat": 86,
+    "time": "14 小时前"
   },
   {
-    "id": 2,
+    "id": 8,
     "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
     "url": "https://www.qbitai.com/2026/09/499246.html",
     "source": "量子位",
@@ -22,74 +106,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "5 小时前"
-  },
-  {
-    "id": 3,
-    "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
-    "url": "https://www.qbitai.com/2026/09/499188.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "20 小时前"
-  },
-  {
-    "id": 4,
-    "title": "OpenAI因新模型太强叫停发布",
-    "url": "https://www.qbitai.com/2026/09/499140.html",
-    "source": "量子位",
-    "summary": "AGI计划暂停。",
-    "tldr": "AGI计划暂停。",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 92,
-    "time": "20 小时前"
-  },
-  {
-    "id": 5,
-    "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
-    "url": "https://www.qbitai.com/2026/09/498877.html",
-    "source": "量子位",
-    "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
-    "tldr": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
-    "keyPoints": [
-      "工业平台已经卷到帮伙伴拿线索、做Agent、出海了"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "HC归来，华为正重新定义AIDC基础设施",
-    "url": "https://www.qbitai.com/2026/09/498787.html",
-    "source": "量子位",
-    "summary": "AI基础设施下一站：算电协同",
-    "tldr": "AI基础设施下一站：算电协同",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-    "url": "https://www.qbitai.com/2026/09/498633.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "2 天前"
+    "heat": 84,
+    "time": "18 小时前"
   }
 ]
