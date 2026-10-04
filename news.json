@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+    "url": "https://www.qbitai.com/2026/10/501451.html",
+    "source": "量子位",
+    "summary": "专业3D模型反而更稀缺了",
+    "tldr": "专业3D模型反而更稀缺了",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "3 小时前"
+  },
+  {
+    "id": 2,
     "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
     "url": "https://www.qbitai.com/2026/10/501381.html",
     "source": "量子位",
@@ -9,11 +22,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "7 小时前"
+    "heat": 96,
+    "time": "20 小时前"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
     "url": "https://www.qbitai.com/2026/10/501368.html",
     "source": "量子位",
@@ -22,11 +35,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "11 小时前"
+    "heat": 94,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
     "url": "https://www.qbitai.com/2026/10/500098.html",
     "source": "量子位",
@@ -37,11 +50,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
+    "heat": 92,
     "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "丘成桐新论文致谢了GPT和Claude",
     "url": "https://www.qbitai.com/2026/10/499991.html",
     "source": "量子位",
@@ -50,11 +63,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 92,
+    "heat": 90,
     "time": "1 天前"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "何恺明团队新作：看猫片就能学会ARC挑战",
     "url": "https://www.qbitai.com/2026/10/499812.html",
     "source": "量子位",
@@ -63,11 +76,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
+    "heat": 88,
     "time": "2 天前"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
     "url": "https://www.qbitai.com/2026/10/499663.html",
     "source": "量子位",
@@ -76,11 +89,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 88,
+    "heat": 86,
     "time": "2 天前"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
     "url": "https://www.qbitai.com/2026/09/499654.html",
     "source": "量子位",
@@ -88,21 +101,6 @@
     "tldr": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
     "keyPoints": [
       "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "3 天前"
-  },
-  {
-    "id": 8,
-    "title": "直播回顾：工业AI的下一个机会在哪？",
-    "url": "https://www.qbitai.com/2026/09/499605.html",
-    "source": "量子位",
-    "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-    "tldr": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-    "keyPoints": [
-      "企业真正开始做工业AI时，又该从哪里下手？"
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
