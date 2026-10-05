@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+    "url": "https://www.qbitai.com/2026/10/501700.html",
+    "source": "量子位",
+    "summary": "有改进就体验，没改进就重置，横竖不亏。",
+    "tldr": "有改进就体验，没改进就重置，横竖不亏。",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 98,
+    "time": "1 小时前"
+  },
+  {
+    "id": 2,
     "title": "AI算力硬合作，马斯克还是更相信中国制造",
     "url": "https://www.qbitai.com/2026/10/501605.html",
     "source": "量子位",
@@ -11,11 +24,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "10 小时前"
+    "heat": 96,
+    "time": "22 小时前"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "最火AI岗位FDE：月薪5万，都干这些…",
     "url": "https://www.qbitai.com/2026/10/501506.html",
     "source": "量子位",
@@ -24,11 +37,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "10 小时前"
+    "heat": 94,
+    "time": "22 小时前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
     "url": "https://www.qbitai.com/2026/10/501451.html",
     "source": "量子位",
@@ -37,11 +50,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "15 小时前"
+    "heat": 92,
+    "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
     "url": "https://www.qbitai.com/2026/10/501381.html",
     "source": "量子位",
@@ -50,11 +63,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
+    "heat": 90,
     "time": "1 天前"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
     "url": "https://www.qbitai.com/2026/10/501368.html",
     "source": "量子位",
@@ -63,11 +76,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
+    "heat": 88,
     "time": "1 天前"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
     "url": "https://www.qbitai.com/2026/10/500098.html",
     "source": "量子位",
@@ -78,11 +91,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 88,
+    "heat": 86,
     "time": "2 天前"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "丘成桐新论文致谢了GPT和Claude",
     "url": "https://www.qbitai.com/2026/10/499991.html",
     "source": "量子位",
@@ -91,20 +104,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 86,
-    "time": "2 天前"
-  },
-  {
-    "id": 8,
-    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-    "url": "https://www.qbitai.com/2026/10/499812.html",
-    "source": "量子位",
-    "summary": "用ImageNet训练encoder",
-    "tldr": "用ImageNet训练encoder",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 84,
-    "time": "3 天前"
+    "time": "2 天前"
   }
 ]
