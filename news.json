@@ -1,6 +1,32 @@
 [
   {
     "id": 1,
+    "title": "不er，咋陶哲轩也成AI减速派了？？",
+    "url": "https://www.qbitai.com/2026/10/501736.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "10 小时前"
+  },
+  {
+    "id": 2,
+    "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+    "url": "https://www.qbitai.com/2026/10/501726.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "11 小时前"
+  },
+  {
+    "id": 3,
     "title": "刚刚，Hinton发了首篇RSI论文",
     "url": "https://www.qbitai.com/2026/10/501705.html",
     "source": "量子位",
@@ -11,11 +37,11 @@
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
+    "heat": 94,
     "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
     "url": "https://www.qbitai.com/2026/10/501700.html",
     "source": "量子位",
@@ -24,11 +50,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 96,
+    "heat": 92,
     "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "AI算力硬合作，马斯克还是更相信中国制造",
     "url": "https://www.qbitai.com/2026/10/501605.html",
     "source": "量子位",
@@ -39,11 +65,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "1 天前"
+    "heat": 90,
+    "time": "2 天前"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "最火AI岗位FDE：月薪5万，都干这些…",
     "url": "https://www.qbitai.com/2026/10/501506.html",
     "source": "量子位",
@@ -52,11 +78,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
+    "heat": 88,
+    "time": "2 天前"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
     "url": "https://www.qbitai.com/2026/10/501451.html",
     "source": "量子位",
@@ -65,45 +91,17 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
+    "heat": 86,
     "time": "2 天前"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
     "url": "https://www.qbitai.com/2026/10/501381.html",
     "source": "量子位",
     "summary": "岗位JD甩了篇技术报告",
     "tldr": "岗位JD甩了篇技术报告",
     "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "2 天前"
-  },
-  {
-    "id": 7,
-    "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-    "url": "https://www.qbitai.com/2026/10/501368.html",
-    "source": "量子位",
-    "summary": "又咋啦。。。",
-    "tldr": "又咋啦。。。",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "3 天前"
-  },
-  {
-    "id": 8,
-    "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-    "url": "https://www.qbitai.com/2026/10/500098.html",
-    "source": "量子位",
-    "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
-    "tldr": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
-    "keyPoints": [
-      "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择"
-    ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 84,
