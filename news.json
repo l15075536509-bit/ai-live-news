@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "title": "浪子回头！Manus重启北京办公室大举招聘",
+    "url": "https://www.qbitai.com/2026/10/502009.html",
+    "source": "量子位",
+    "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
+    "tldr": "开始和国产Agent抢人，还拿到5亿美元新融资",
+    "keyPoints": [
+      "开始和国产Agent抢人，还拿到5亿美元新融资"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "9 小时前"
+  },
+  {
+    "id": 2,
+    "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+    "url": "https://www.qbitai.com/2026/10/501995.html",
+    "source": "量子位",
+    "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+    "tldr": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+    "keyPoints": [
+      "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 96,
+    "time": "9 小时前"
+  },
+  {
+    "id": 3,
     "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
     "url": "https://www.qbitai.com/2026/10/501915.html",
     "source": "量子位",
@@ -9,11 +39,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "2 小时前"
+    "heat": 94,
+    "time": "16 小时前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "GPT-6今起免费用！拒答变少，话变多了",
     "url": "https://www.qbitai.com/2026/10/501834.html",
     "source": "量子位",
@@ -22,11 +52,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "3 小时前"
+    "heat": 92,
+    "time": "17 小时前"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
     "url": "https://www.qbitai.com/2026/10/501832.html",
     "source": "量子位",
@@ -35,61 +65,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 94,
-    "time": "3 小时前"
-  },
-  {
-    "id": 4,
-    "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-    "url": "https://www.qbitai.com/2026/10/501803.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "17 小时前"
-  },
-  {
-    "id": 5,
-    "title": "晕…这年头还有说人话的AI不",
-    "url": "https://www.qbitai.com/2026/10/501796.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 90,
-    "time": "20 小时前"
-  },
-  {
-    "id": 6,
-    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-    "url": "https://www.qbitai.com/2026/10/501791.html",
-    "source": "量子位",
-    "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
-    "tldr": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同…",
-    "keyPoints": [
-      "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "22 小时前"
-  },
-  {
-    "id": 7,
-    "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-    "url": "https://www.qbitai.com/2026/10/501749.html",
-    "source": "量子位",
-    "summary": "三位菲尔兹奖得主：不代表认可",
-    "tldr": "三位菲尔兹奖得主：不代表认可",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 86,
-    "time": "1 天前"
+    "time": "17 小时前"
   }
 ]
