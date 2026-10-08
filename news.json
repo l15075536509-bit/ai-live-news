@@ -1,6 +1,45 @@
 [
   {
     "id": 1,
+    "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+    "url": "https://www.qbitai.com/2026/10/501915.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "2 小时前"
+  },
+  {
+    "id": 2,
+    "title": "GPT-6今起免费用！拒答变少，话变多了",
+    "url": "https://www.qbitai.com/2026/10/501834.html",
+    "source": "量子位",
+    "summary": "ChatGPT聊天框长出界面",
+    "tldr": "ChatGPT聊天框长出界面",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "3 小时前"
+  },
+  {
+    "id": 3,
+    "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+    "url": "https://www.qbitai.com/2026/10/501832.html",
+    "source": "量子位",
+    "summary": "小模型新守门员",
+    "tldr": "小模型新守门员",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 94,
+    "time": "3 小时前"
+  },
+  {
+    "id": 4,
     "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
     "url": "https://www.qbitai.com/2026/10/501803.html",
     "source": "量子位",
@@ -9,11 +48,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "6 小时前"
+    "heat": 92,
+    "time": "17 小时前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "晕…这年头还有说人话的AI不",
     "url": "https://www.qbitai.com/2026/10/501796.html",
     "source": "量子位",
@@ -22,11 +61,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "9 小时前"
+    "heat": 90,
+    "time": "20 小时前"
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
     "url": "https://www.qbitai.com/2026/10/501791.html",
     "source": "量子位",
@@ -37,11 +76,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "11 小时前"
+    "heat": 88,
+    "time": "22 小时前"
   },
   {
-    "id": 4,
+    "id": 7,
     "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
     "url": "https://www.qbitai.com/2026/10/501749.html",
     "source": "量子位",
@@ -50,48 +89,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 92,
-    "time": "17 小时前"
-  },
-  {
-    "id": 5,
-    "title": "不er，咋陶哲轩也成AI减速派了？？",
-    "url": "https://www.qbitai.com/2026/10/501736.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-    "url": "https://www.qbitai.com/2026/10/501726.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "刚刚，Hinton发了首篇RSI论文",
-    "url": "https://www.qbitai.com/2026/10/501705.html",
-    "source": "量子位",
-    "summary": "AI已经开始真正进入「造下一代AI」的流水线",
-    "tldr": "AI已经开始真正进入「造下一代AI」的流水线",
-    "keyPoints": [
-      "AI已经开始真正进入「造下一代AI」的流水线"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
     "heat": 86,
-    "time": "2 天前"
+    "time": "1 天前"
   }
 ]
