@@ -1,6 +1,75 @@
 [
   {
     "id": 1,
+    "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+    "url": "https://www.qbitai.com/2026/10/502125.html",
+    "source": "量子位",
+    "summary": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+    "tldr": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+    "keyPoints": [
+      "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "1 小时前"
+  },
+  {
+    "id": 2,
+    "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+    "url": "https://www.qbitai.com/2026/10/502106.html",
+    "source": "量子位",
+    "summary": "多Agent协同还能自我进化",
+    "tldr": "多Agent协同还能自我进化",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 96,
+    "time": "2 小时前"
+  },
+  {
+    "id": 3,
+    "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+    "url": "https://www.qbitai.com/2026/10/502096.html",
+    "source": "量子位",
+    "summary": "让AI反复试错的“练兵场”来了",
+    "tldr": "让AI反复试错的“练兵场”来了",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 94,
+    "time": "2 小时前"
+  },
+  {
+    "id": 4,
+    "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+    "url": "https://www.qbitai.com/2026/10/502089.html",
+    "source": "量子位",
+    "summary": "彻底撕破脸了",
+    "tldr": "彻底撕破脸了",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "4 小时前"
+  },
+  {
+    "id": 5,
+    "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+    "url": "https://www.qbitai.com/2026/10/502083.html",
+    "source": "量子位",
+    "summary": "新的“缝合怪”已经出现，怎么能够停滞不前",
+    "tldr": "新的“缝合怪”已经出现，怎么能够停滞不前",
+    "keyPoints": [
+      "新的“缝合怪”已经出现，怎么能够停滞不前"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 90,
+    "time": "4 小时前"
+  },
+  {
+    "id": 6,
     "title": "浪子回头！Manus重启北京办公室大举招聘",
     "url": "https://www.qbitai.com/2026/10/502009.html",
     "source": "量子位",
@@ -11,61 +80,7 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "9 小时前"
-  },
-  {
-    "id": 2,
-    "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
-    "url": "https://www.qbitai.com/2026/10/501995.html",
-    "source": "量子位",
-    "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
-    "tldr": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
-    "keyPoints": [
-      "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 96,
-    "time": "9 小时前"
-  },
-  {
-    "id": 3,
-    "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-    "url": "https://www.qbitai.com/2026/10/501915.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 94,
-    "time": "16 小时前"
-  },
-  {
-    "id": 4,
-    "title": "GPT-6今起免费用！拒答变少，话变多了",
-    "url": "https://www.qbitai.com/2026/10/501834.html",
-    "source": "量子位",
-    "summary": "ChatGPT聊天框长出界面",
-    "tldr": "ChatGPT聊天框长出界面",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "17 小时前"
-  },
-  {
-    "id": 5,
-    "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
-    "url": "https://www.qbitai.com/2026/10/501832.html",
-    "source": "量子位",
-    "summary": "小模型新守门员",
-    "tldr": "小模型新守门员",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 90,
-    "time": "17 小时前"
+    "heat": 88,
+    "time": "19 小时前"
   }
 ]
