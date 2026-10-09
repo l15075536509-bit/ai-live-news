@@ -1,6 +1,49 @@
 [
   {
     "id": 1,
+    "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+    "url": "https://www.qbitai.com/2026/10/502422.html",
+    "source": "量子位",
+    "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+    "tldr": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+    "keyPoints": [
+      "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 98,
+    "time": "9 小时前"
+  },
+  {
+    "id": 2,
+    "title": "字节找到了DeepSeek时强时弱的原因",
+    "url": "https://www.qbitai.com/2026/10/502364.html",
+    "source": "量子位",
+    "summary": "答不答得对，得看Token站位",
+    "tldr": "答不答得对，得看Token站位",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "10 小时前"
+  },
+  {
+    "id": 3,
+    "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+    "url": "https://www.qbitai.com/2026/10/502359.html",
+    "source": "量子位",
+    "summary": "Google 研究成果首次登上《柳叶刀》主刊",
+    "tldr": "Google 研究成果首次登上《柳叶刀》主刊",
+    "keyPoints": [
+      "Google 研究成果首次登上《柳叶刀》主刊"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 94,
+    "time": "11 小时前"
+  },
+  {
+    "id": 4,
     "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
     "url": "https://www.qbitai.com/2026/10/502125.html",
     "source": "量子位",
@@ -11,11 +54,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "1 小时前"
+    "heat": 92,
+    "time": "14 小时前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
     "url": "https://www.qbitai.com/2026/10/502106.html",
     "source": "量子位",
@@ -24,11 +67,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 96,
-    "time": "2 小时前"
+    "heat": 90,
+    "time": "15 小时前"
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
     "url": "https://www.qbitai.com/2026/10/502096.html",
     "source": "量子位",
@@ -37,50 +80,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 94,
-    "time": "2 小时前"
-  },
-  {
-    "id": 4,
-    "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
-    "url": "https://www.qbitai.com/2026/10/502089.html",
-    "source": "量子位",
-    "summary": "彻底撕破脸了",
-    "tldr": "彻底撕破脸了",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "4 小时前"
-  },
-  {
-    "id": 5,
-    "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-    "url": "https://www.qbitai.com/2026/10/502083.html",
-    "source": "量子位",
-    "summary": "新的“缝合怪”已经出现，怎么能够停滞不前",
-    "tldr": "新的“缝合怪”已经出现，怎么能够停滞不前",
-    "keyPoints": [
-      "新的“缝合怪”已经出现，怎么能够停滞不前"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 90,
-    "time": "4 小时前"
-  },
-  {
-    "id": 6,
-    "title": "浪子回头！Manus重启北京办公室大举招聘",
-    "url": "https://www.qbitai.com/2026/10/502009.html",
-    "source": "量子位",
-    "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
-    "tldr": "开始和国产Agent抢人，还拿到5亿美元新融资",
-    "keyPoints": [
-      "开始和国产Agent抢人，还拿到5亿美元新融资"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 88,
-    "time": "19 小时前"
+    "time": "16 小时前"
   }
 ]
