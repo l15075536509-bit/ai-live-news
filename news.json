@@ -1,6 +1,49 @@
 [
   {
     "id": 1,
+    "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+    "url": "https://www.qbitai.com/2026/10/502654.html",
+    "source": "量子位",
+    "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
+    "tldr": "游戏打到21:0，AI甚至不用再调用大模型了",
+    "keyPoints": [
+      "游戏打到21:0，AI甚至不用再调用大模型了"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "15 小时前"
+  },
+  {
+    "id": 2,
+    "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+    "url": "https://www.qbitai.com/2026/10/502644.html",
+    "source": "量子位",
+    "summary": "一套生成论文初稿的多智能体工作流",
+    "tldr": "一套生成论文初稿的多智能体工作流",
+    "keyPoints": [],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 96,
+    "time": "1 天前"
+  },
+  {
+    "id": 3,
+    "title": "何恺明团队发布多模态Harness框架",
+    "url": "https://www.qbitai.com/2026/10/502628.html",
+    "source": "量子位",
+    "summary": "多模态模型的视觉原生Harness，来了！",
+    "tldr": "多模态模型的视觉原生Harness，来了！",
+    "keyPoints": [
+      "多模态模型的视觉原生Harness，来了！"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 94,
+    "time": "1 天前"
+  },
+  {
+    "id": 4,
     "title": "硅谷AI现状：谁有算力谁是爹",
     "url": "https://www.qbitai.com/2026/10/502585.html",
     "source": "量子位",
@@ -9,11 +52,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "23 小时前"
+    "heat": 92,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
     "url": "https://www.qbitai.com/2026/10/502550.html",
     "source": "量子位",
@@ -22,11 +65,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "23 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
     "url": "https://www.qbitai.com/2026/10/502544.html",
     "source": "量子位",
@@ -37,11 +80,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
+    "heat": 88,
     "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 7,
     "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
     "url": "https://www.qbitai.com/2026/10/502541.html",
     "source": "量子位",
@@ -52,7 +95,7 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
+    "heat": 86,
+    "time": "2 天前"
   }
 ]
