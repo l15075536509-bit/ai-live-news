@@ -1,101 +1,82 @@
 [
   {
     "id": 1,
-    "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-    "url": "https://www.qbitai.com/2026/10/502654.html",
+    "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+    "url": "https://www.qbitai.com/2026/10/503107.html",
     "source": "量子位",
-    "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
-    "tldr": "游戏打到21:0，AI甚至不用再调用大模型了",
-    "keyPoints": [
-      "游戏打到21:0，AI甚至不用再调用大模型了"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "summary": "让VLA从“演示可用”逼近“产线可用”",
+    "tldr": "让VLA从“演示可用”逼近“产线可用”",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
     "heat": 98,
-    "time": "1 天前"
+    "time": "7 小时前"
   },
   {
     "id": 2,
-    "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-    "url": "https://www.qbitai.com/2026/10/502644.html",
+    "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+    "url": "https://www.qbitai.com/2026/10/503093.html",
     "source": "量子位",
-    "summary": "一套生成论文初稿的多智能体工作流",
-    "tldr": "一套生成论文初稿的多智能体工作流",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 96,
-    "time": "1 天前"
-  },
-  {
-    "id": 3,
-    "title": "何恺明团队发布多模态Harness框架",
-    "url": "https://www.qbitai.com/2026/10/502628.html",
-    "source": "量子位",
-    "summary": "多模态模型的视觉原生Harness，来了！",
-    "tldr": "多模态模型的视觉原生Harness，来了！",
-    "keyPoints": [
-      "多模态模型的视觉原生Harness，来了！"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 94,
-    "time": "1 天前"
-  },
-  {
-    "id": 4,
-    "title": "硅谷AI现状：谁有算力谁是爹",
-    "url": "https://www.qbitai.com/2026/10/502585.html",
-    "source": "量子位",
-    "summary": "马斯克连横A社，硅谷VC开始囤GPU",
-    "tldr": "马斯克连横A社，硅谷VC开始囤GPU",
+    "summary": "Winverse AI",
+    "tldr": "Winverse AI",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
+    "heat": 96,
+    "time": "9 小时前"
+  },
+  {
+    "id": 3,
+    "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+    "url": "https://www.qbitai.com/2026/10/502920.html",
+    "source": "量子位",
+    "summary": "拉马克进化的幽灵",
+    "tldr": "拉马克进化的幽灵",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "12 小时前"
+  },
+  {
+    "id": 4,
+    "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+    "url": "https://www.qbitai.com/2026/10/502907.html",
+    "source": "量子位",
+    "summary": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+    "tldr": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+    "keyPoints": [
+      "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 92,
-    "time": "2 天前"
+    "time": "12 小时前"
   },
   {
     "id": 5,
-    "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-    "url": "https://www.qbitai.com/2026/10/502550.html",
+    "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
+    "url": "https://www.qbitai.com/2026/10/502784.html",
     "source": "量子位",
-    "summary": "初代4o的API快照进入停用倒计时",
-    "tldr": "初代4o的API快照进入停用倒计时",
+    "summary": "赢奖金、拿融资、送出海",
+    "tldr": "赢奖金、拿融资、送出海",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
-    "time": "2 天前"
+    "time": "14 小时前"
   },
   {
     "id": 6,
-    "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-    "url": "https://www.qbitai.com/2026/10/502544.html",
+    "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+    "url": "https://www.qbitai.com/2026/10/502767.html",
     "source": "量子位",
-    "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
-    "tldr": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
-    "keyPoints": [
-      "Grok Bot我养不起，ds bot不得高低尝尝咸淡？"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 88,
-    "time": "2 天前"
-  },
-  {
-    "id": 7,
-    "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-    "url": "https://www.qbitai.com/2026/10/502541.html",
-    "source": "量子位",
-    "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
-    "tldr": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
-    "keyPoints": [
-      "西门子将以更集中、更场景化的方式，展示其工业全栈能力"
-    ],
+    "summary": "算力、模型、行业，三层生意一起做",
+    "tldr": "算力、模型、行业，三层生意一起做",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 86,
-    "time": "2 天前"
+    "heat": 88,
+    "time": "14 小时前"
   }
 ]
