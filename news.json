@@ -1,97 +1,86 @@
 [
   {
     "id": 1,
-    "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-    "url": "https://www.qbitai.com/2026/10/503640.html",
+    "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+    "url": "https://www.qbitai.com/2026/10/503880.html",
     "source": "量子位",
-    "summary": "Siri AI这次不包括在内",
-    "tldr": "Siri AI这次不包括在内",
+    "summary": "从搭载物理建模能力的世界模型切入",
+    "tldr": "从搭载物理建模能力的世界模型切入",
     "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 98,
-    "time": "1 天前"
+    "time": "14 小时前"
   },
   {
     "id": 2,
-    "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-    "url": "https://www.qbitai.com/2026/10/503614.html",
+    "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+    "url": "https://www.qbitai.com/2026/10/503861.html",
     "source": "量子位",
-    "summary": "Agent究竟该如何深入业务毛细血管？",
-    "tldr": "Agent究竟该如何深入业务毛细血管？",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "summary": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
+    "tldr": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
+    "keyPoints": [
+      "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
     "heat": 96,
-    "time": "1 天前"
+    "time": "19 小时前"
   },
   {
     "id": 3,
-    "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
-    "url": "https://www.qbitai.com/2026/10/503611.html",
+    "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+    "url": "https://www.qbitai.com/2026/10/503843.html",
     "source": "量子位",
-    "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
-    "tldr": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+    "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+    "tldr": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
     "keyPoints": [
-      "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。"
+      "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名"
     ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦论文研究方向，与 AI 行业趋势相关。",
+    "category": "论文研究",
     "heat": 94,
-    "time": "1 天前"
+    "time": "19 小时前"
   },
   {
     "id": 4,
-    "title": "这个双十一，百灵新模型干起活来不烧心",
-    "url": "https://www.qbitai.com/2026/10/503532.html",
+    "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+    "url": "https://www.qbitai.com/2026/10/503829.html",
     "source": "量子位",
-    "summary": "大模型好不好用，百灵拿成品说话",
-    "tldr": "大模型好不好用，百灵拿成品说话",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
+    "tldr": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
+    "keyPoints": [
+      "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
     "heat": 92,
-    "time": "1 天前"
+    "time": "20 小时前"
   },
   {
     "id": 5,
-    "title": "AI时代，商学院这样培养未来商业领袖",
-    "url": "https://www.qbitai.com/2026/10/503504.html",
+    "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+    "url": "https://www.qbitai.com/2026/10/503815.html",
     "source": "量子位",
-    "summary": "未来十年共创1000个AI课题",
-    "tldr": "未来十年共创1000个AI课题",
+    "summary": "经验没有压缩算法",
+    "tldr": "经验没有压缩算法",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
-    "time": "1 天前"
+    "time": "20 小时前"
   },
   {
     "id": 6,
-    "title": "苹果AI国内上线，阿里百度浮出水面",
-    "url": "https://www.qbitai.com/2026/10/503497.html",
+    "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+    "url": "https://www.qbitai.com/2026/10/503701.html",
     "source": "量子位",
-    "summary": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。",
-    "tldr": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。",
-    "keyPoints": [
-      "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
-    "url": "https://www.qbitai.com/2026/10/503446.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
+    "summary": "谷歌就是季节性气候模型公司",
+    "tldr": "谷歌就是季节性气候模型公司",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 86,
-    "time": "1 天前"
+    "heat": 88,
+    "time": "22 小时前"
   }
 ]
