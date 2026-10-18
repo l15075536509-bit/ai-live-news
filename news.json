@@ -1,6 +1,60 @@
 [
   {
     "id": 1,
+    "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+    "url": "https://www.qbitai.com/2026/10/504067.html",
+    "source": "量子位",
+    "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+    "tldr": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+    "keyPoints": [
+      "1-Flash-1017，还开放了自研搜索API"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 98,
+    "time": "1 天前"
+  },
+  {
+    "id": 2,
+    "title": "智谱新模型，懂法方面全球第一了",
+    "url": "https://www.qbitai.com/2026/10/503965.html",
+    "source": "量子位",
+    "summary": "AI的风还是刮到了法律圈",
+    "tldr": "AI的风还是刮到了法律圈",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "1 天前"
+  },
+  {
+    "id": 3,
+    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+    "url": "https://www.qbitai.com/2026/10/503935.html",
+    "source": "量子位",
+    "summary": "整套系统原生支持MCP",
+    "tldr": "整套系统原生支持MCP",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 94,
+    "time": "1 天前"
+  },
+  {
+    "id": 4,
+    "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+    "url": "https://www.qbitai.com/2026/10/503910.html",
+    "source": "量子位",
+    "summary": "谜底指向时间",
+    "tldr": "谜底指向时间",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "1 天前"
+  },
+  {
+    "id": 5,
     "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
     "url": "https://www.qbitai.com/2026/10/503880.html",
     "source": "量子位",
@@ -9,11 +63,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "1 天前"
+    "heat": 90,
+    "time": "2 天前"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
     "url": "https://www.qbitai.com/2026/10/503861.html",
     "source": "量子位",
@@ -24,11 +78,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 96,
-    "time": "1 天前"
+    "heat": 88,
+    "time": "2 天前"
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
     "url": "https://www.qbitai.com/2026/10/503843.html",
     "source": "量子位",
@@ -39,11 +93,11 @@
     ],
     "worthReading": "本文聚焦论文研究方向，与 AI 行业趋势相关。",
     "category": "论文研究",
-    "heat": 94,
-    "time": "1 天前"
+    "heat": 86,
+    "time": "2 天前"
   },
   {
-    "id": 4,
+    "id": 8,
     "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
     "url": "https://www.qbitai.com/2026/10/503829.html",
     "source": "量子位",
@@ -54,33 +108,7 @@
     ],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
-    "url": "https://www.qbitai.com/2026/10/503815.html",
-    "source": "量子位",
-    "summary": "经验没有压缩算法",
-    "tldr": "经验没有压缩算法",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
-    "url": "https://www.qbitai.com/2026/10/503701.html",
-    "source": "量子位",
-    "summary": "谷歌就是季节性气候模型公司",
-    "tldr": "谷歌就是季节性气候模型公司",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "1 天前"
+    "heat": 84,
+    "time": "2 天前"
   }
 ]
