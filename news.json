@@ -1,90 +1,69 @@
 [
   {
     "id": 1,
-    "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-    "url": "https://www.qbitai.com/2026/10/504314.html",
+    "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+    "url": "https://www.qbitai.com/2026/10/504734.html",
     "source": "量子位",
-    "summary": "OpenAI只掏出一个6.1 Terra",
-    "tldr": "OpenAI只掏出一个6.1 Terra",
+    "summary": "医疗AI质变时刻",
+    "tldr": "医疗AI质变时刻",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 98,
-    "time": "1 天前"
+    "time": "5 小时前"
   },
   {
     "id": 2,
-    "title": "通研院孵化的团队，也盯上了RSI",
-    "url": "https://www.qbitai.com/2026/10/504294.html",
+    "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+    "url": "https://www.qbitai.com/2026/10/504730.html",
     "source": "量子位",
-    "summary": "当AI越来越懂你，如何让智能真正属于你？",
-    "tldr": "当AI越来越懂你，如何让智能真正属于你？",
+    "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+    "tldr": "10月21日，生数科技世界模型团队正式开启Motubrain 2.",
     "keyPoints": [
-      "当AI越来越懂你，如何让智能真正属于你？"
+      "10月21日，生数科技世界模型团队正式开启Motubrain 2."
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 96,
-    "time": "1 天前"
+    "time": "6 小时前"
   },
   {
     "id": 3,
-    "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-    "url": "https://www.qbitai.com/2026/10/504266.html",
+    "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+    "url": "https://www.qbitai.com/2026/10/504608.html",
     "source": "量子位",
-    "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
-    "tldr": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
-    "keyPoints": [
-      "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行"
-    ],
+    "summary": "先看真实问题解决力",
+    "tldr": "先看真实问题解决力",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 94,
-    "time": "1 天前"
+    "time": "14 小时前"
   },
   {
     "id": 4,
-    "title": "AI 开始挑战最复杂的系统：生命",
-    "url": "https://www.qbitai.com/2026/10/504242.html",
+    "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+    "url": "https://www.qbitai.com/2026/10/504517.html",
     "source": "量子位",
-    "summary": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
-    "tldr": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
-    "keyPoints": [
-      "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。"
-    ],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
+    "summary": "兔皮底下，竟然是MiniMax！",
+    "tldr": "兔皮底下，竟然是MiniMax！",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 92,
     "time": "1 天前"
   },
   {
     "id": 5,
-    "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
-    "url": "https://www.qbitai.com/2026/10/504199.html",
+    "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+    "url": "https://www.qbitai.com/2026/10/504456.html",
     "source": "量子位",
-    "summary": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。",
-    "tldr": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。",
-    "keyPoints": [
-      "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。"
-    ],
+    "summary": "把记忆原生焊进Transformer",
+    "tldr": "把记忆原生焊进Transformer",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "日均6万亿Token服务背后，商汤大装置如何提升推理效能？",
-    "url": "https://www.qbitai.com/2026/10/504188.html",
-    "source": "量子位",
-    "summary": "AI基础设施竞争转向高质量Token产能",
-    "tldr": "AI基础设施竞争转向高质量Token产能",
-    "keyPoints": [
-      "AI基础设施竞争转向高质量Token产能"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
     "time": "1 天前"
   }
 ]
