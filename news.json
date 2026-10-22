@@ -1,34 +1,6 @@
 [
   {
     "id": 1,
-    "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-    "url": "https://www.qbitai.com/2026/10/504734.html",
-    "source": "量子位",
-    "summary": "医疗AI质变时刻",
-    "tldr": "医疗AI质变时刻",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 98,
-    "time": "5 小时前"
-  },
-  {
-    "id": 2,
-    "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-    "url": "https://www.qbitai.com/2026/10/504730.html",
-    "source": "量子位",
-    "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
-    "tldr": "10月21日，生数科技世界模型团队正式开启Motubrain 2.",
-    "keyPoints": [
-      "10月21日，生数科技世界模型团队正式开启Motubrain 2."
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 96,
-    "time": "6 小时前"
-  },
-  {
-    "id": 3,
     "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
     "url": "https://www.qbitai.com/2026/10/504608.html",
     "source": "量子位",
@@ -37,11 +9,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "14 小时前"
+    "heat": 98,
+    "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 2,
     "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
     "url": "https://www.qbitai.com/2026/10/504517.html",
     "source": "量子位",
@@ -50,11 +22,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
+    "heat": 96,
     "time": "1 天前"
   },
   {
-    "id": 5,
+    "id": 3,
     "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
     "url": "https://www.qbitai.com/2026/10/504456.html",
     "source": "量子位",
@@ -63,7 +35,63 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
+    "heat": 94,
+    "time": "1 天前"
+  },
+  {
+    "id": 4,
+    "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+    "url": "https://www.qbitai.com/2026/10/504421.html",
+    "source": "量子位",
+    "summary": "最新发布TokenFleet调度框架",
+    "tldr": "最新发布TokenFleet调度框架",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 92,
+    "time": "1 天前"
+  },
+  {
+    "id": 5,
+    "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+    "url": "https://www.qbitai.com/2026/10/504415.html",
+    "source": "量子位",
+    "summary": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+    "tldr": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+    "keyPoints": [
+      "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
     "heat": 90,
+    "time": "1 天前"
+  },
+  {
+    "id": 6,
+    "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
+    "url": "https://www.qbitai.com/2026/10/504395.html",
+    "source": "量子位",
+    "summary": "宁德时代电池上车",
+    "tldr": "宁德时代电池上车",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "1 天前"
+  },
+  {
+    "id": 7,
+    "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+    "url": "https://www.qbitai.com/2026/10/504372.html",
+    "source": "量子位",
+    "summary": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办",
+    "tldr": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办",
+    "keyPoints": [
+      "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 86,
     "time": "1 天前"
   }
 ]
