@@ -1,6 +1,47 @@
 [
   {
     "id": 1,
+    "title": "企业AI需要两个世界模型",
+    "url": "https://www.qbitai.com/2026/10/505032.html",
+    "source": "量子位",
+    "summary": "特赞想让企业Agent真正懂业务",
+    "tldr": "特赞想让企业Agent真正懂业务",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "3 天前"
+  },
+  {
+    "id": 2,
+    "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
+    "url": "https://www.qbitai.com/2026/10/504915.html",
+    "source": "量子位",
+    "summary": "让AI真正走进真实世界",
+    "tldr": "让AI真正走进真实世界",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "3 天前"
+  },
+  {
+    "id": 3,
+    "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
+    "url": "https://www.qbitai.com/2026/10/504913.html",
+    "source": "量子位",
+    "summary": "10月23日，iRTE2026实时智能大会在北京举行。",
+    "tldr": "10月23日，iRTE2026实时智能大会在北京举行。",
+    "keyPoints": [
+      "10月23日，iRTE2026实时智能大会在北京举行。"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 94,
+    "time": "3 天前"
+  },
+  {
+    "id": 4,
     "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
     "url": "https://www.qbitai.com/2026/10/504901.html",
     "source": "量子位",
@@ -11,65 +52,7 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "2 天前"
-  },
-  {
-    "id": 2,
-    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-    "url": "https://www.qbitai.com/2026/10/504832.html",
-    "source": "量子位",
-    "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-    "tldr": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.",
-    "keyPoints": [
-      "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4."
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 96,
-    "time": "3 天前"
-  },
-  {
-    "id": 3,
-    "title": "谁在给OpenAI供应具身数据？",
-    "url": "https://www.qbitai.com/2026/10/504800.html",
-    "source": "量子位",
-    "summary": "挤进全球Physical AI核心供应链",
-    "tldr": "挤进全球Physical AI核心供应链",
-    "keyPoints": [
-      "挤进全球Physical AI核心供应链"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "3 天前"
-  },
-  {
-    "id": 4,
-    "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-    "url": "https://www.qbitai.com/2026/10/504734.html",
-    "source": "量子位",
-    "summary": "医疗AI质变时刻",
-    "tldr": "医疗AI质变时刻",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 92,
-    "time": "4 天前"
-  },
-  {
-    "id": 5,
-    "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-    "url": "https://www.qbitai.com/2026/10/504730.html",
-    "source": "量子位",
-    "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
-    "tldr": "10月21日，生数科技世界模型团队正式开启Motubrain 2.",
-    "keyPoints": [
-      "10月21日，生数科技世界模型团队正式开启Motubrain 2."
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "4 天前"
+    "time": "3 天前"
   }
 ]
