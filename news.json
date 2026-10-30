@@ -1,88 +1,112 @@
 [
   {
     "id": 1,
-    "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-    "url": "https://www.qbitai.com/2026/10/506273.html",
+    "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+    "url": "https://www.qbitai.com/2026/10/506743.html",
     "source": "量子位",
-    "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
-    "tldr": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+    "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+    "tldr": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
     "keyPoints": [
-      "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。"
+      "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重"
     ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
     "heat": 98,
-    "time": "1 天前"
+    "time": "10 小时前"
   },
   {
     "id": 2,
-    "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-    "url": "https://www.qbitai.com/2026/10/505934.html",
+    "title": "Claude新模型曝光：新Fable，新Opus…",
+    "url": "https://www.qbitai.com/2026/10/506674.html",
     "source": "量子位",
-    "summary": "用扩散模型怎么做做Agent？",
-    "tldr": "用扩散模型怎么做做Agent？",
+    "summary": "",
+    "tldr": "",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 96,
-    "time": "1 天前"
+    "time": "11 小时前"
   },
   {
     "id": 3,
-    "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-    "url": "https://www.qbitai.com/2026/10/506227.html",
+    "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+    "url": "https://www.qbitai.com/2026/10/506662.html",
     "source": "量子位",
-    "summary": "能连肝数日修Bug，免疫提示词注入",
-    "tldr": "能连肝数日修Bug，免疫提示词注入",
+    "summary": "让机器人成为彼此的“老师”",
+    "tldr": "让机器人成为彼此的“老师”",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 94,
-    "time": "1 天前"
+    "time": "13 小时前"
   },
   {
     "id": 4,
-    "title": "威卡：用数据集链接具身智能和工程机械",
-    "url": "https://www.qbitai.com/2026/10/506063.html",
+    "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+    "url": "https://www.qbitai.com/2026/10/506569.html",
     "source": "量子位",
-    "summary": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
-    "tldr": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
-    "keyPoints": [
-      "威卡：为工程机械的智能化与少人化，提供一条被验证的路径"
-    ],
+    "summary": "Momenta世界模型上车",
+    "tldr": "Momenta世界模型上车",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 92,
-    "time": "1 天前"
+    "time": "17 小时前"
   },
   {
     "id": 5,
-    "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
-    "url": "https://www.qbitai.com/2026/10/506055.html",
+    "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+    "url": "https://www.qbitai.com/2026/10/506554.html",
     "source": "量子位",
-    "summary": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
-    "tldr": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
+    "summary": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
+    "tldr": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
     "keyPoints": [
-      "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计"
+      "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级"
     ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
     "heat": 90,
     "time": "1 天前"
   },
   {
     "id": 6,
-    "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
-    "url": "https://www.qbitai.com/2026/10/506042.html",
+    "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+    "url": "https://www.qbitai.com/2026/10/506550.html",
     "source": "量子位",
-    "summary": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
-    "tldr": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
-    "keyPoints": [
-      "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱"
-    ],
+    "summary": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
+    "tldr": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 88,
+    "time": "1 天前"
+  },
+  {
+    "id": 7,
+    "title": "AI安全是AI规模化应用“加速器”",
+    "url": "https://www.qbitai.com/2026/10/506544.html",
+    "source": "量子位",
+    "summary": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。",
+    "tldr": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。",
+    "keyPoints": [
+      "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 86,
+    "time": "1 天前"
+  },
+  {
+    "id": 8,
+    "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
+    "url": "https://www.qbitai.com/2026/10/506478.html",
+    "source": "量子位",
+    "summary": "All in one、任何人都能用",
+    "tldr": "All in one、任何人都能用",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 84,
     "time": "1 天前"
   }
 ]
