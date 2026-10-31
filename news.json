@@ -1,6 +1,86 @@
 [
   {
     "id": 1,
+    "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+    "url": "https://www.qbitai.com/2026/10/506866.html",
+    "source": "量子位",
+    "summary": "AI算力利用“九九成”",
+    "tldr": "AI算力利用“九九成”",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "11 小时前"
+  },
+  {
+    "id": 2,
+    "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+    "url": "https://www.qbitai.com/2026/10/506855.html",
+    "source": "量子位",
+    "summary": "200美元Ultra用户先用",
+    "tldr": "200美元Ultra用户先用",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "11 小时前"
+  },
+  {
+    "id": 3,
+    "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+    "url": "https://www.qbitai.com/2026/10/506785.html",
+    "source": "量子位",
+    "summary": "之前还连登昇腾三榜第一",
+    "tldr": "之前还连登昇腾三榜第一",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "1 天前"
+  },
+  {
+    "id": 4,
+    "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
+    "url": "https://www.qbitai.com/2026/10/506779.html",
+    "source": "量子位",
+    "summary": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
+    "tldr": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 92,
+    "time": "1 天前"
+  },
+  {
+    "id": 5,
+    "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+    "url": "https://www.qbitai.com/2026/10/506771.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 90,
+    "time": "1 天前"
+  },
+  {
+    "id": 6,
+    "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
+    "url": "https://www.qbitai.com/2026/10/506747.html",
+    "source": "量子位",
+    "summary": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。",
+    "tldr": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。",
+    "keyPoints": [
+      "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "1 天前"
+  },
+  {
+    "id": 7,
     "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
     "url": "https://www.qbitai.com/2026/10/506743.html",
     "source": "量子位",
@@ -11,102 +91,7 @@
     ],
     "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
     "category": "模型发布",
-    "heat": 98,
-    "time": "20 小时前"
-  },
-  {
-    "id": 2,
-    "title": "Claude新模型曝光：新Fable，新Opus…",
-    "url": "https://www.qbitai.com/2026/10/506674.html",
-    "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 96,
-    "time": "22 小时前"
-  },
-  {
-    "id": 3,
-    "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
-    "url": "https://www.qbitai.com/2026/10/506662.html",
-    "source": "量子位",
-    "summary": "让机器人成为彼此的“老师”",
-    "tldr": "让机器人成为彼此的“老师”",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "1 天前"
-  },
-  {
-    "id": 4,
-    "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
-    "url": "https://www.qbitai.com/2026/10/506569.html",
-    "source": "量子位",
-    "summary": "Momenta世界模型上车",
-    "tldr": "Momenta世界模型上车",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
-    "url": "https://www.qbitai.com/2026/10/506554.html",
-    "source": "量子位",
-    "summary": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
-    "tldr": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
-    "keyPoints": [
-      "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
-    "url": "https://www.qbitai.com/2026/10/506550.html",
-    "source": "量子位",
-    "summary": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
-    "tldr": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "AI安全是AI规模化应用“加速器”",
-    "url": "https://www.qbitai.com/2026/10/506544.html",
-    "source": "量子位",
-    "summary": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。",
-    "tldr": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。",
-    "keyPoints": [
-      "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 86,
-    "time": "1 天前"
-  },
-  {
-    "id": 8,
-    "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
-    "url": "https://www.qbitai.com/2026/10/506478.html",
-    "source": "量子位",
-    "summary": "All in one、任何人都能用",
-    "tldr": "All in one、任何人都能用",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
-    "heat": 84,
     "time": "1 天前"
   }
 ]
