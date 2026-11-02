@@ -1,6 +1,73 @@
 [
   {
     "id": 1,
+    "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+    "url": "https://www.qbitai.com/2026/11/507277.html",
+    "source": "量子位",
+    "summary": "商汤SenseNova 6.8 Flash",
+    "tldr": "商汤SenseNova 6.8 Flash",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "7 小时前"
+  },
+  {
+    "id": 2,
+    "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+    "url": "https://www.qbitai.com/2026/11/507225.html",
+    "source": "量子位",
+    "summary": "新版“机器人三定律”。",
+    "tldr": "新版“机器人三定律”。",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "14 小时前"
+  },
+  {
+    "id": 3,
+    "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+    "url": "https://www.qbitai.com/2026/11/507150.html",
+    "source": "量子位",
+    "summary": "模型管线双驱动",
+    "tldr": "模型管线双驱动",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "15 小时前"
+  },
+  {
+    "id": 4,
+    "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+    "url": "https://www.qbitai.com/2026/11/507107.html",
+    "source": "量子位",
+    "summary": "能指挥Agent干活，还能控制智能家居",
+    "tldr": "能指挥Agent干活，还能控制智能家居",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 92,
+    "time": "15 小时前"
+  },
+  {
+    "id": 5,
+    "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+    "url": "https://www.qbitai.com/2026/11/507082.html",
+    "source": "量子位",
+    "summary": "HuggingFace疑似泄露权重已被下5000次",
+    "tldr": "HuggingFace疑似泄露权重已被下5000次",
+    "keyPoints": [
+      "HuggingFace疑似泄露权重已被下5000次"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 90,
+    "time": "16 小时前"
+  },
+  {
+    "id": 6,
     "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
     "url": "https://www.qbitai.com/2026/11/507038.html",
     "source": "量子位",
@@ -9,11 +76,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "15 小时前"
+    "heat": 88,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 7,
     "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
     "url": "https://www.qbitai.com/2026/11/507031.html",
     "source": "量子位",
@@ -22,46 +89,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "20 小时前"
-  },
-  {
-    "id": 3,
-    "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
-    "url": "https://www.qbitai.com/2026/10/506904.html",
-    "source": "量子位",
-    "summary": "AI已经自己找到Bug并提交PR",
-    "tldr": "AI已经自己找到Bug并提交PR",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 94,
-    "time": "1 天前"
-  },
-  {
-    "id": 4,
-    "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-    "url": "https://www.qbitai.com/2026/10/506866.html",
-    "source": "量子位",
-    "summary": "AI算力利用“九九成”",
-    "tldr": "AI算力利用“九九成”",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-    "url": "https://www.qbitai.com/2026/10/506855.html",
-    "source": "量子位",
-    "summary": "200美元Ultra用户先用",
-    "tldr": "200美元Ultra用户先用",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
+    "heat": 86,
     "time": "1 天前"
   }
 ]
