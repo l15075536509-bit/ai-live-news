@@ -1,26 +1,24 @@
 [
   {
     "id": 1,
-    "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-    "url": "https://www.qbitai.com/2026/11/507787.html",
+    "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+    "url": "https://www.qbitai.com/2026/11/508155.html",
     "source": "量子位",
-    "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
-    "tldr": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
-    "keyPoints": [
-      "11月5日，百度正式开源最新基座模型文心5."
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "summary": "Q3营收实现数倍增长",
+    "tldr": "Q3营收实现数倍增长",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 98,
-    "time": "12 小时前"
+    "time": "11 小时前"
   },
   {
     "id": 2,
-    "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-    "url": "https://www.qbitai.com/2026/11/507782.html",
+    "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+    "url": "https://www.qbitai.com/2026/11/508118.html",
     "source": "量子位",
-    "summary": "spaCy作者长文炮轰",
-    "tldr": "spaCy作者长文炮轰",
+    "summary": "挑战商业视频的高难度场景",
+    "tldr": "挑战商业视频的高难度场景",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
@@ -29,56 +27,101 @@
   },
   {
     "id": 3,
-    "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-    "url": "https://www.qbitai.com/2026/11/507696.html",
+    "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+    "url": "https://www.qbitai.com/2026/11/508143.html",
     "source": "量子位",
-    "summary": "Data + AI 技术实践巡展 · 上海站",
-    "tldr": "Data + AI 技术实践巡展 · 上海站",
+    "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
+    "tldr": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
     "keyPoints": [
-      "Data + AI 技术实践巡展 · 上海站"
+      "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。"
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 94,
-    "time": "17 小时前"
+    "time": "12 小时前"
   },
   {
     "id": 4,
-    "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-    "url": "https://www.qbitai.com/2026/11/507707.html",
+    "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+    "url": "https://www.qbitai.com/2026/11/508107.html",
     "source": "量子位",
-    "summary": "最快6秒出图",
-    "tldr": "最快6秒出图",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
+    "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
+    "tldr": "一举刷新「AI安全世界杯」CyberGym世界纪录",
+    "keyPoints": [
+      "一举刷新「AI安全世界杯」CyberGym世界纪录"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 92,
-    "time": "17 小时前"
+    "time": "13 小时前"
   },
   {
     "id": 5,
-    "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
-    "url": "https://www.qbitai.com/2026/11/507697.html",
+    "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+    "url": "https://www.qbitai.com/2026/11/507988.html",
     "source": "量子位",
-    "summary": "被轰成筛子了",
-    "tldr": "被轰成筛子了",
-    "keyPoints": [],
+    "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届",
+    "tldr": "香港金融科技周 x StartmeupHK 2026踏入第11届",
+    "keyPoints": [
+      "香港金融科技周 x StartmeupHK 2026踏入第11届"
+    ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
-    "time": "17 小时前"
+    "time": "15 小时前"
   },
   {
     "id": 6,
-    "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
-    "url": "https://www.qbitai.com/2026/11/507675.html",
+    "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+    "url": "https://www.qbitai.com/2026/11/507972.html",
     "source": "量子位",
-    "summary": "薪资+期权不限！实习生也能训核心模型",
-    "tldr": "薪资+期权不限！实习生也能训核心模型",
+    "summary": "Seedance 2.5 单秒低至0.15元",
+    "tldr": "Seedance 2.5 单秒低至0.15元",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 88,
-    "time": "18 小时前"
+    "time": "15 小时前"
+  },
+  {
+    "id": 7,
+    "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+    "url": "https://www.qbitai.com/2026/11/507967.html",
+    "source": "量子位",
+    "summary": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
+    "tldr": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
+    "keyPoints": [
+      "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 86,
+    "time": "16 小时前"
+  },
+  {
+    "id": 8,
+    "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
+    "url": "https://www.qbitai.com/2026/11/507919.html",
+    "source": "量子位",
+    "summary": "基础规划免费！",
+    "tldr": "基础规划免费！",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 84,
+    "time": "1 天前"
+  },
+  {
+    "id": 9,
+    "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
+    "url": "https://www.qbitai.com/2026/11/507834.html",
+    "source": "量子位",
+    "summary": "走向“智能体化世界模型”。",
+    "tldr": "走向“智能体化世界模型”。",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 82,
+    "time": "1 天前"
   }
 ]
