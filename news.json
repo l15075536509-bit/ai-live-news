@@ -1,6 +1,51 @@
 [
   {
     "id": 1,
+    "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+    "url": "https://www.qbitai.com/2026/11/508174.html",
+    "source": "量子位",
+    "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+    "tldr": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+    "keyPoints": [
+      "PPIO 沙箱，把“云电脑”做成开箱即用的 API"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "19 小时前"
+  },
+  {
+    "id": 2,
+    "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+    "url": "https://www.qbitai.com/2026/11/508170.html",
+    "source": "量子位",
+    "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+    "tldr": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+    "keyPoints": [
+      "阶跃终端旗下 STEPX Neo 智能体手机首次亮相"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 96,
+    "time": "19 小时前"
+  },
+  {
+    "id": 3,
+    "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+    "url": "https://www.qbitai.com/2026/11/508165.html",
+    "source": "量子位",
+    "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+    "tldr": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+    "keyPoints": [
+      "11月5日，阿里巴巴发布《2026 AI向善行动报告》"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 94,
+    "time": "19 小时前"
+  },
+  {
+    "id": 4,
     "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
     "url": "https://www.qbitai.com/2026/11/508155.html",
     "source": "量子位",
@@ -9,11 +54,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "11 小时前"
+    "heat": 92,
+    "time": "21 小时前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
     "url": "https://www.qbitai.com/2026/11/508118.html",
     "source": "量子位",
@@ -22,11 +67,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "12 小时前"
+    "heat": 90,
+    "time": "22 小时前"
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
     "url": "https://www.qbitai.com/2026/11/508143.html",
     "source": "量子位",
@@ -37,91 +82,7 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "12 小时前"
-  },
-  {
-    "id": 4,
-    "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-    "url": "https://www.qbitai.com/2026/11/508107.html",
-    "source": "量子位",
-    "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
-    "tldr": "一举刷新「AI安全世界杯」CyberGym世界纪录",
-    "keyPoints": [
-      "一举刷新「AI安全世界杯」CyberGym世界纪录"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "13 小时前"
-  },
-  {
-    "id": 5,
-    "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-    "url": "https://www.qbitai.com/2026/11/507988.html",
-    "source": "量子位",
-    "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届",
-    "tldr": "香港金融科技周 x StartmeupHK 2026踏入第11届",
-    "keyPoints": [
-      "香港金融科技周 x StartmeupHK 2026踏入第11届"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "15 小时前"
-  },
-  {
-    "id": 6,
-    "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
-    "url": "https://www.qbitai.com/2026/11/507972.html",
-    "source": "量子位",
-    "summary": "Seedance 2.5 单秒低至0.15元",
-    "tldr": "Seedance 2.5 单秒低至0.15元",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 88,
-    "time": "15 小时前"
-  },
-  {
-    "id": 7,
-    "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
-    "url": "https://www.qbitai.com/2026/11/507967.html",
-    "source": "量子位",
-    "summary": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
-    "tldr": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
-    "keyPoints": [
-      "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容"
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 86,
-    "time": "16 小时前"
-  },
-  {
-    "id": 8,
-    "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
-    "url": "https://www.qbitai.com/2026/11/507919.html",
-    "source": "量子位",
-    "summary": "基础规划免费！",
-    "tldr": "基础规划免费！",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 84,
-    "time": "1 天前"
-  },
-  {
-    "id": 9,
-    "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
-    "url": "https://www.qbitai.com/2026/11/507834.html",
-    "source": "量子位",
-    "summary": "走向“智能体化世界模型”。",
-    "tldr": "走向“智能体化世界模型”。",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 82,
-    "time": "1 天前"
+    "time": "22 小时前"
   }
 ]
