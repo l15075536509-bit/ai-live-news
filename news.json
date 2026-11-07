@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+    "url": "https://www.qbitai.com/2026/11/508264.html",
+    "source": "量子位",
+    "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
+    "tldr": "苦单Session久矣，两大Agent玩家不谋而合。",
+    "keyPoints": [
+      "苦单Session久矣，两大Agent玩家不谋而合。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "12 小时前"
+  },
+  {
+    "id": 2,
     "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
     "url": "https://www.qbitai.com/2026/11/508174.html",
     "source": "量子位",
@@ -11,11 +26,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "19 小时前"
+    "heat": 96,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
     "url": "https://www.qbitai.com/2026/11/508170.html",
     "source": "量子位",
@@ -26,11 +41,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 96,
-    "time": "19 小时前"
+    "heat": 94,
+    "time": "1 天前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
     "url": "https://www.qbitai.com/2026/11/508165.html",
     "source": "量子位",
@@ -41,11 +56,11 @@
     ],
     "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
     "category": "产品动态",
-    "heat": 94,
-    "time": "19 小时前"
+    "heat": 92,
+    "time": "1 天前"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
     "url": "https://www.qbitai.com/2026/11/508155.html",
     "source": "量子位",
@@ -54,11 +69,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 92,
-    "time": "21 小时前"
+    "heat": 90,
+    "time": "1 天前"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
     "url": "https://www.qbitai.com/2026/11/508118.html",
     "source": "量子位",
@@ -67,22 +82,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
-    "time": "22 小时前"
-  },
-  {
-    "id": 6,
-    "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-    "url": "https://www.qbitai.com/2026/11/508143.html",
-    "source": "量子位",
-    "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
-    "tldr": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
-    "keyPoints": [
-      "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 88,
-    "time": "22 小时前"
+    "time": "1 天前"
   }
 ]
