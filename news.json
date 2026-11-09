@@ -1,73 +1,99 @@
 [
   {
     "id": 1,
-    "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
-    "url": "https://www.qbitai.com/2026/11/508449.html",
+    "title": "“AI毁了我的计算机学位”",
+    "url": "https://www.qbitai.com/2026/11/508706.html",
     "source": "量子位",
-    "summary": "AI写代码太快，基础设施跟不上了",
-    "tldr": "AI写代码太快，基础设施跟不上了",
+    "summary": "教授也用Claude糊弄",
+    "tldr": "教授也用Claude糊弄",
     "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 98,
-    "time": "1 天前"
+    "time": "13 小时前"
   },
   {
     "id": 2,
-    "title": "OpenAI新融资到账110亿美元，不及原计划一半",
-    "url": "https://www.qbitai.com/2026/11/508344.html",
+    "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+    "url": "https://www.qbitai.com/2026/11/507843.html",
     "source": "量子位",
-    "summary": "融资缩水，硅谷投资人也谨慎了",
-    "tldr": "融资缩水，硅谷投资人也谨慎了",
+    "summary": "",
+    "tldr": "",
     "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
     "heat": 96,
-    "time": "1 天前"
+    "time": "13 小时前"
   },
   {
     "id": 3,
-    "title": "为了去AI味，人类开始主动写烂文章了&#8230;&#8230;",
-    "url": "https://www.qbitai.com/2026/11/508330.html",
+    "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+    "url": "https://www.qbitai.com/2026/11/508694.html",
     "source": "量子位",
-    "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
-    "tldr": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.",
-    "keyPoints": [
-      "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI."
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "summary": "11月9日，千问办公发布2.0版本",
+    "tldr": "11月9日，千问办公发布2.0版本",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
     "heat": 94,
-    "time": "1 天前"
+    "time": "13 小时前"
   },
   {
     "id": 4,
-    "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-    "url": "https://www.qbitai.com/2026/11/508264.html",
+    "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+    "url": "https://www.qbitai.com/2026/11/508607.html",
     "source": "量子位",
-    "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
-    "tldr": "苦单Session久矣，两大Agent玩家不谋而合。",
+    "summary": "Worker不够了主管Agent还能自己招！",
+    "tldr": "Worker不够了主管Agent还能自己招！",
     "keyPoints": [
-      "苦单Session久矣，两大Agent玩家不谋而合。"
+      "Worker不够了主管Agent还能自己招！"
     ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
     "heat": 92,
-    "time": "1 天前"
+    "time": "16 小时前"
   },
   {
     "id": 5,
-    "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
-    "url": "https://www.qbitai.com/2026/11/508174.html",
+    "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+    "url": "https://www.qbitai.com/2026/11/508603.html",
     "source": "量子位",
-    "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
-    "tldr": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+    "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+    "tldr": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.",
     "keyPoints": [
-      "PPIO 沙箱，把“云电脑”做成开箱即用的 API"
+      "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1."
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
+    "heat": 90,
+    "time": "16 小时前"
+  },
+  {
+    "id": 6,
+    "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+    "url": "https://www.qbitai.com/2026/11/508586.html",
+    "source": "量子位",
+    "summary": "“让人放心，把人放大。”",
+    "tldr": "“让人放心，把人放大。”",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "18 小时前"
+  },
+  {
+    "id": 7,
+    "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+    "url": "https://www.qbitai.com/2026/11/508566.html",
+    "source": "量子位",
+    "summary": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
+    "tldr": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
+    "keyPoints": [
+      "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动"
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 90,
-    "time": "2 天前"
+    "heat": 86,
+    "time": "19 小时前"
   }
 ]
