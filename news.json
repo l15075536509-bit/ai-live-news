@@ -1,99 +1,56 @@
 [
   {
     "id": 1,
-    "title": "“AI毁了我的计算机学位”",
-    "url": "https://www.qbitai.com/2026/11/508706.html",
+    "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+    "url": "https://www.qbitai.com/2026/11/508998.html",
     "source": "量子位",
-    "summary": "教授也用Claude糊弄",
-    "tldr": "教授也用Claude糊弄",
+    "summary": "让每一次任务，都成为下一次进步的起点",
+    "tldr": "让每一次任务，都成为下一次进步的起点",
     "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
     "heat": 98,
-    "time": "21 小时前"
+    "time": "11 小时前"
   },
   {
     "id": 2,
-    "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-    "url": "https://www.qbitai.com/2026/11/507843.html",
+    "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+    "url": "https://www.qbitai.com/2026/11/508985.html",
     "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "summary": "加速东部城市型智算中心向E-AIDC演进",
+    "tldr": "加速东部城市型智算中心向E-AIDC演进",
+    "keyPoints": [
+      "加速东部城市型智算中心向E-AIDC演进"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 96,
-    "time": "21 小时前"
+    "time": "11 小时前"
   },
   {
     "id": 3,
-    "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-    "url": "https://www.qbitai.com/2026/11/508694.html",
+    "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+    "url": "https://www.qbitai.com/2026/11/508798.html",
     "source": "量子位",
-    "summary": "11月9日，千问办公发布2.0版本",
-    "tldr": "11月9日，千问办公发布2.0版本",
+    "summary": "办公AI结束单机模式",
+    "tldr": "办公AI结束单机模式",
     "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 94,
-    "time": "21 小时前"
+    "time": "17 小时前"
   },
   {
     "id": 4,
-    "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
-    "url": "https://www.qbitai.com/2026/11/508607.html",
+    "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+    "url": "https://www.qbitai.com/2026/11/508787.html",
     "source": "量子位",
-    "summary": "Worker不够了主管Agent还能自己招！",
-    "tldr": "Worker不够了主管Agent还能自己招！",
-    "keyPoints": [
-      "Worker不够了主管Agent还能自己招！"
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
-    "url": "https://www.qbitai.com/2026/11/508603.html",
-    "source": "量子位",
-    "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
-    "tldr": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.",
-    "keyPoints": [
-      "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1."
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
-    "url": "https://www.qbitai.com/2026/11/508586.html",
-    "source": "量子位",
-    "summary": "“让人放心，把人放大。”",
-    "tldr": "“让人放心，把人放大。”",
+    "summary": "投毒 → 耗尽预算 → 诱导误判",
+    "tldr": "投毒 → 耗尽预算 → 诱导误判",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 88,
-    "time": "1 天前"
-  },
-  {
-    "id": 7,
-    "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
-    "url": "https://www.qbitai.com/2026/11/508566.html",
-    "source": "量子位",
-    "summary": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
-    "tldr": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
-    "keyPoints": [
-      "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
-    "time": "1 天前"
+    "heat": 92,
+    "time": "21 小时前"
   }
 ]
