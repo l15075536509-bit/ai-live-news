@@ -1,58 +1,97 @@
 [
   {
     "id": 1,
-    "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-    "url": "https://www.qbitai.com/2026/11/509146.html",
+    "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+    "url": "https://www.qbitai.com/2026/11/509440.html",
     "source": "量子位",
-    "summary": "价格、门槛全打穿",
-    "tldr": "价格、门槛全打穿",
+    "summary": "「CAD拆解」",
+    "tldr": "「CAD拆解」",
     "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
     "heat": 98,
-    "time": "23 小时前"
+    "time": "8 小时前"
   },
   {
     "id": 2,
-    "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-    "url": "https://www.qbitai.com/2026/11/509085.html",
+    "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+    "url": "https://www.qbitai.com/2026/11/509404.html",
     "source": "量子位",
-    "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
-    "tldr": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+    "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
+    "tldr": "银河智学首席科学家邓澍军博士发表主题演讲",
     "keyPoints": [
-      "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。"
+      "银河智学首席科学家邓澍军博士发表主题演讲"
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 96,
-    "time": "23 小时前"
+    "time": "8 小时前"
   },
   {
     "id": 3,
-    "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-    "url": "https://www.qbitai.com/2026/11/508998.html",
+    "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+    "url": "https://www.qbitai.com/2026/11/509381.html",
     "source": "量子位",
-    "summary": "让每一次任务，都成为下一次进步的起点",
-    "tldr": "让每一次任务，都成为下一次进步的起点",
+    "summary": "全世界都在踩刹车，达里奥一个人踩油门",
+    "tldr": "全世界都在踩刹车，达里奥一个人踩油门",
     "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 94,
-    "time": "1 天前"
+    "time": "9 小时前"
   },
   {
     "id": 4,
-    "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-    "url": "https://www.qbitai.com/2026/11/508985.html",
+    "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+    "url": "https://www.qbitai.com/2026/11/509349.html",
     "source": "量子位",
-    "summary": "加速东部城市型智算中心向E-AIDC演进",
-    "tldr": "加速东部城市型智算中心向E-AIDC演进",
-    "keyPoints": [
-      "加速东部城市型智算中心向E-AIDC演进"
-    ],
+    "summary": "企业 AI 的难题，不只是模型够不够强",
+    "tldr": "企业 AI 的难题，不只是模型够不够强",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 92,
+    "time": "10 小时前"
+  },
+  {
+    "id": 5,
+    "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+    "url": "https://www.qbitai.com/2026/11/509291.html",
+    "source": "量子位",
+    "summary": "只管挖不管埋。",
+    "tldr": "只管挖不管埋。",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "11 小时前"
+  },
+  {
+    "id": 6,
+    "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+    "url": "https://www.qbitai.com/2026/11/509281.html",
+    "source": "量子位",
+    "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+    "tldr": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+    "keyPoints": [
+      "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 88,
+    "time": "17 小时前"
+  },
+  {
+    "id": 7,
+    "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+    "url": "https://www.qbitai.com/2026/11/509224.html",
+    "source": "量子位",
+    "summary": "模型即将开源",
+    "tldr": "模型即将开源",
+    "keyPoints": [],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 86,
     "time": "1 天前"
   }
 ]
