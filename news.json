@@ -1,6 +1,34 @@
 [
   {
     "id": 1,
+    "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+    "url": "https://www.qbitai.com/2026/11/510232.html",
+    "source": "量子位",
+    "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+    "tldr": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+    "keyPoints": [
+      "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 98,
+    "time": "7 小时前"
+  },
+  {
+    "id": 2,
+    "title": "突发！DeepSeek开放全家桶API",
+    "url": "https://www.qbitai.com/2026/11/510003.html",
+    "source": "量子位",
+    "summary": "官方App功能均可自由组合调用",
+    "tldr": "官方App功能均可自由组合调用",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 96,
+    "time": "15 小时前"
+  },
+  {
+    "id": 3,
     "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
     "url": "https://www.qbitai.com/2026/11/509827.html",
     "source": "量子位",
@@ -9,11 +37,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "21 小时前"
+    "heat": 94,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
     "url": "https://www.qbitai.com/2026/11/509796.html",
     "source": "量子位",
@@ -22,33 +50,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦论文研究方向，与 AI 行业趋势相关。",
     "category": "论文研究",
-    "heat": 96,
-    "time": "21 小时前"
-  },
-  {
-    "id": 3,
-    "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
-    "url": "https://www.qbitai.com/2026/11/509663.html",
-    "source": "量子位",
-    "summary": "数据不出域、本地可部署",
-    "tldr": "数据不出域、本地可部署",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 94,
-    "time": "22 小时前"
-  },
-  {
-    "id": 4,
-    "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
-    "url": "https://www.qbitai.com/2026/11/509653.html",
-    "source": "量子位",
-    "summary": "想要什么功能，让Agent自己开发",
-    "tldr": "想要什么功能，让Agent自己开发",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
     "heat": 92,
-    "time": "22 小时前"
+    "time": "1 天前"
   }
 ]
