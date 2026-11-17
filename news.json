@@ -1,6 +1,47 @@
 [
   {
     "id": 1,
+    "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+    "url": "https://www.qbitai.com/2026/11/510688.html",
+    "source": "量子位",
+    "summary": "瞄准「产业级世界模型」",
+    "tldr": "瞄准「产业级世界模型」",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 98,
+    "time": "8 小时前"
+  },
+  {
+    "id": 2,
+    "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+    "url": "https://www.qbitai.com/2026/11/510652.html",
+    "source": "量子位",
+    "summary": "筛材料、找配方、开发新模型…拿下多项科研任务",
+    "tldr": "筛材料、找配方、开发新模型…拿下多项科研任务",
+    "keyPoints": [
+      "筛材料、找配方、开发新模型…拿下多项科研任务"
+    ],
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
+    "heat": 96,
+    "time": "14 小时前"
+  },
+  {
+    "id": 3,
+    "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+    "url": "https://www.qbitai.com/2026/11/510561.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 94,
+    "time": "18 小时前"
+  },
+  {
+    "id": 4,
     "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
     "url": "https://www.qbitai.com/2026/11/510542.html",
     "source": "量子位",
@@ -11,11 +52,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "19 小时前"
+    "heat": 92,
+    "time": "1 天前"
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
     "url": "https://www.qbitai.com/2026/11/510526.html",
     "source": "量子位",
@@ -24,63 +65,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "22 小时前"
-  },
-  {
-    "id": 3,
-    "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-    "url": "https://www.qbitai.com/2026/11/510486.html",
-    "source": "量子位",
-    "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
-    "tldr": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
-    "keyPoints": [
-      "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max"
-    ],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 94,
-    "time": "23 小时前"
-  },
-  {
-    "id": 4,
-    "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
-    "url": "https://www.qbitai.com/2026/11/510416.html",
-    "source": "量子位",
-    "summary": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
-    "tldr": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
-    "keyPoints": [
-      "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 92,
-    "time": "1 天前"
-  },
-  {
-    "id": 5,
-    "title": "今天截止！2026年度AI表彰，错过再等一年！",
-    "url": "https://www.qbitai.com/2026/11/510382.html",
-    "source": "量子位",
-    "summary": "量子位在寻找“能干”的答案",
-    "tldr": "量子位在寻找“能干”的答案",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 90,
-    "time": "1 天前"
-  },
-  {
-    "id": 6,
-    "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
-    "url": "https://www.qbitai.com/2026/11/510369.html",
-    "source": "量子位",
-    "summary": "是石科技最新发布多模态模型服务",
-    "tldr": "是石科技最新发布多模态模型服务",
-    "keyPoints": [],
-    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
-    "category": "模型发布",
-    "heat": 88,
     "time": "1 天前"
   }
 ]
