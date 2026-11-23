@@ -1,93 +1,116 @@
 [
   {
     "id": 1,
-    "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
-    "url": "https://www.qbitai.com/2026/11/511870.html",
+    "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+    "url": "https://www.qbitai.com/2026/11/512195.html",
     "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
+    "summary": "零Token成本，断网也能自由Vibe Coding",
+    "tldr": "零Token成本，断网也能自由Vibe Coding",
+    "keyPoints": [
+      "零Token成本，断网也能自由Vibe Coding"
+    ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 98,
-    "time": "1 天前"
+    "time": "12 小时前"
   },
   {
     "id": 2,
-    "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-    "url": "https://www.qbitai.com/2026/11/511855.html",
+    "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+    "url": "https://www.qbitai.com/2026/11/512017.html",
     "source": "量子位",
-    "summary": "",
-    "tldr": "",
+    "summary": "阿福大升级：让模型像医生一样思考",
+    "tldr": "阿福大升级：让模型像医生一样思考",
     "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
     "heat": 96,
-    "time": "1 天前"
+    "time": "15 小时前"
   },
   {
     "id": 3,
-    "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
-    "url": "https://www.qbitai.com/2026/11/511841.html",
+    "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+    "url": "https://www.qbitai.com/2026/11/512004.html",
     "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
+    "summary": "一个完全由AI组成的科学家社会，是什么样？",
+    "tldr": "一个完全由AI组成的科学家社会，是什么样？",
+    "keyPoints": [
+      "一个完全由AI组成的科学家社会，是什么样？"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
     "heat": 94,
-    "time": "1 天前"
+    "time": "16 小时前"
   },
   {
     "id": 4,
-    "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
-    "url": "https://www.qbitai.com/2026/11/511791.html",
+    "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+    "url": "https://www.qbitai.com/2026/11/511998.html",
     "source": "量子位",
-    "summary": "",
-    "tldr": "",
-    "keyPoints": [],
+    "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+    "tldr": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+    "keyPoints": [
+      "阿福App宣布新一轮升级，解锁越来越多健康服务新本领"
+    ],
     "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
     "category": "开源工具",
     "heat": 92,
-    "time": "1 天前"
+    "time": "19 小时前"
   },
   {
     "id": 5,
-    "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-    "url": "https://www.qbitai.com/2026/11/511779.html",
+    "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+    "url": "https://www.qbitai.com/2026/11/511989.html",
     "source": "量子位",
-    "summary": "还实现可变形物体操控全球首通",
-    "tldr": "还实现可变形物体操控全球首通",
-    "keyPoints": [],
+    "summary": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+    "tldr": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+    "keyPoints": [
+      "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。"
+    ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
-    "time": "1 天前"
+    "time": "19 小时前"
   },
   {
     "id": 6,
-    "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-    "url": "https://www.qbitai.com/2026/11/511570.html",
+    "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+    "url": "https://www.qbitai.com/2026/11/511978.html",
     "source": "量子位",
-    "summary": "专为本地部署而生",
-    "tldr": "专为本地部署而生",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "summary": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
+    "tldr": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
+    "keyPoints": [
+      "RoboChallenge正式发布全新评测基准RoboChallenge Zero"
+    ],
+    "worthReading": "本文聚焦模型发布方向，与 AI 行业趋势相关。",
+    "category": "模型发布",
     "heat": 88,
-    "time": "1 天前"
+    "time": "20 小时前"
   },
   {
     "id": 7,
+    "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+    "url": "https://www.qbitai.com/2026/11/511933.html",
+    "source": "量子位",
+    "summary": "豆包工作是目前字节优先级最高的产品",
+    "tldr": "豆包工作是目前字节优先级最高的产品",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 86,
+    "time": "21 小时前"
+  },
+  {
+    "id": 8,
     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-    "url": "https://www.qbitai.com/2026/11/511757.html",
+    "url": "https://www.qbitai.com/2026/11/511921.html",
     "source": "量子位",
     "summary": "还透露了不少训练背后的秘诀",
     "tldr": "还透露了不少训练背后的秘诀",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 86,
-    "time": "1 天前"
+    "heat": 84,
+    "time": "21 小时前"
   }
 ]
