@@ -1,101 +1,110 @@
 [
   {
     "id": 1,
-    "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-    "url": "https://www.qbitai.com/2026/11/512362.html",
+    "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+    "url": "https://www.qbitai.com/2026/11/512748.html",
     "source": "量子位",
-    "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
-    "tldr": "端侧老炮辛米尔，打通物理AI规模化落地之路",
-    "keyPoints": [
-      "端侧老炮辛米尔，打通物理AI规模化落地之路"
-    ],
+    "summary": "商汤SenseNova U1.6",
+    "tldr": "商汤SenseNova U1.6",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 98,
-    "time": "1 天前"
+    "time": "4 小时前"
   },
   {
     "id": 2,
-    "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-    "url": "https://www.qbitai.com/2026/11/512354.html",
+    "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+    "url": "https://www.qbitai.com/2026/11/512727.html",
     "source": "量子位",
     "summary": "",
     "tldr": "",
     "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 96,
-    "time": "1 天前"
+    "time": "6 小时前"
   },
   {
     "id": 3,
-    "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-    "url": "https://www.qbitai.com/2026/11/512329.html",
+    "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+    "url": "https://www.qbitai.com/2026/11/512715.html",
     "source": "量子位",
-    "summary": "12.9 北京，来MEET2027现场",
-    "tldr": "12.9 北京，来MEET2027现场",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+    "tldr": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+    "keyPoints": [
+      "智元推出行业首个开放且完整的具身智能生态技术体系AIMA"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
     "heat": 94,
-    "time": "1 天前"
+    "time": "6 小时前"
   },
   {
     "id": 4,
-    "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-    "url": "https://www.qbitai.com/2026/11/512330.html",
+    "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+    "url": "https://www.qbitai.com/2026/11/512582.html",
     "source": "量子位",
-    "summary": "中国AI数据平台加速崛起",
-    "tldr": "中国AI数据平台加速崛起",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "summary": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+    "tldr": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+    "keyPoints": [
+      "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。"
+    ],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
     "heat": 92,
-    "time": "1 天前"
+    "time": "6 小时前"
   },
   {
     "id": 5,
-    "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-    "url": "https://www.qbitai.com/2026/11/512305.html",
+    "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+    "url": "https://www.qbitai.com/2026/11/512683.html",
     "source": "量子位",
-    "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
-    "tldr": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
-    "keyPoints": [
-      "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。"
-    ],
+    "summary": "贯通具⾝智能研发流程",
+    "tldr": "贯通具⾝智能研发流程",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 90,
-    "time": "1 天前"
+    "time": "6 小时前"
   },
   {
     "id": 6,
-    "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
-    "url": "https://www.qbitai.com/2026/11/512297.html",
+    "title": "Anthropic还藏着2个最强模型…",
+    "url": "https://www.qbitai.com/2026/11/512538.html",
     "source": "量子位",
-    "summary": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
-    "tldr": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
-    "keyPoints": [
-      "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。"
-    ],
+    "summary": "Fable5.2已经很旧了。",
+    "tldr": "Fable5.2已经很旧了。",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 88,
-    "time": "1 天前"
+    "time": "12 小时前"
   },
   {
     "id": 7,
-    "title": "具身行业，终于等来了自己的通用智能时刻",
-    "url": "https://www.qbitai.com/2026/11/512264.html",
+    "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+    "url": "https://www.qbitai.com/2026/11/512515.html",
     "source": "量子位",
-    "summary": "行业苦等多年的预训练通用智能，终于有了答案",
-    "tldr": "行业苦等多年的预训练通用智能，终于有了答案",
-    "keyPoints": [
-      "行业苦等多年的预训练通用智能，终于有了答案"
-    ],
+    "summary": "OpenAI这下要有俩Tibo了",
+    "tldr": "OpenAI这下要有俩Tibo了",
+    "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 86,
-    "time": "1 天前"
+    "time": "13 小时前"
+  },
+  {
+    "id": 8,
+    "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+    "url": "https://www.qbitai.com/2026/11/512498.html",
+    "source": "量子位",
+    "summary": "复杂场景三维建模成本降至10美元以内",
+    "tldr": "复杂场景三维建模成本降至10美元以内",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 84,
+    "time": "14 小时前"
   }
 ]
