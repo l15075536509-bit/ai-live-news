@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+    "url": "https://www.qbitai.com/2026/11/513305.html",
+    "source": "量子位",
+    "summary": "网页App双端亮出聊天账单",
+    "tldr": "网页App双端亮出聊天账单",
+    "keyPoints": [],
+    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
+    "category": "产品动态",
+    "heat": 98,
+    "time": "13 小时前"
+  },
+  {
+    "id": 2,
     "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
     "url": "https://www.qbitai.com/2026/11/513194.html",
     "source": "量子位",
@@ -9,11 +22,11 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 98,
-    "time": "3 小时前"
+    "heat": 96,
+    "time": "16 小时前"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
     "url": "https://www.qbitai.com/2026/11/513163.html",
     "source": "量子位",
@@ -24,11 +37,11 @@
     ],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "3 小时前"
+    "heat": 94,
+    "time": "16 小时前"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
     "url": "https://www.qbitai.com/2026/11/513125.html",
     "source": "量子位",
@@ -37,46 +50,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 94,
-    "time": "3 小时前"
-  },
-  {
-    "id": 4,
-    "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
-    "url": "https://www.qbitai.com/2026/11/513091.html",
-    "source": "量子位",
-    "summary": "倒计时两周，报名从速！",
-    "tldr": "倒计时两周，报名从速！",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 92,
-    "time": "4 小时前"
-  },
-  {
-    "id": 5,
-    "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
-    "url": "https://www.qbitai.com/2026/11/513075.html",
-    "source": "量子位",
-    "summary": "担心课题被AI抢先，该怎么办？",
-    "tldr": "担心课题被AI抢先，该怎么办？",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "5 小时前"
-  },
-  {
-    "id": 6,
-    "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
-    "url": "https://www.qbitai.com/2026/11/512981.html",
-    "source": "量子位",
-    "summary": "还得是科班尖子生",
-    "tldr": "还得是科班尖子生",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 88,
-    "time": "18 小时前"
+    "time": "17 小时前"
   }
 ]
