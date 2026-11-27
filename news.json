@@ -1,21 +1,73 @@
 [
   {
     "id": 1,
-    "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
-    "url": "https://www.qbitai.com/2026/11/513021.html",
+    "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+    "url": "https://www.qbitai.com/2026/11/513194.html",
     "source": "量子位",
-    "summary": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
-    "tldr": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
-    "keyPoints": [
-      "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理"
-    ],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
+    "summary": "企业需要有用的 AI",
+    "tldr": "企业需要有用的 AI",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 98,
-    "time": "7 小时前"
+    "time": "3 小时前"
   },
   {
     "id": 2,
+    "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+    "url": "https://www.qbitai.com/2026/11/513163.html",
+    "source": "量子位",
+    "summary": "Quickwit查询总耗时降31%，最高降87%",
+    "tldr": "Quickwit查询总耗时降31%，最高降87%",
+    "keyPoints": [
+      "Quickwit查询总耗时降31%，最高降87%"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 96,
+    "time": "3 小时前"
+  },
+  {
+    "id": 3,
+    "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+    "url": "https://www.qbitai.com/2026/11/513125.html",
+    "source": "量子位",
+    "summary": "",
+    "tldr": "",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 94,
+    "time": "3 小时前"
+  },
+  {
+    "id": 4,
+    "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+    "url": "https://www.qbitai.com/2026/11/513091.html",
+    "source": "量子位",
+    "summary": "倒计时两周，报名从速！",
+    "tldr": "倒计时两周，报名从速！",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 92,
+    "time": "4 小时前"
+  },
+  {
+    "id": 5,
+    "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+    "url": "https://www.qbitai.com/2026/11/513075.html",
+    "source": "量子位",
+    "summary": "担心课题被AI抢先，该怎么办？",
+    "tldr": "担心课题被AI抢先，该怎么办？",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "5 小时前"
+  },
+  {
+    "id": 6,
     "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
     "url": "https://www.qbitai.com/2026/11/512981.html",
     "source": "量子位",
@@ -24,74 +76,7 @@
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
-    "heat": 96,
-    "time": "8 小时前"
-  },
-  {
-    "id": 3,
-    "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
-    "url": "https://www.qbitai.com/2026/11/512942.html",
-    "source": "量子位",
-    "summary": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
-    "tldr": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
-    "keyPoints": [
-      "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。"
-    ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 94,
-    "time": "13 小时前"
-  },
-  {
-    "id": 4,
-    "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
-    "url": "https://www.qbitai.com/2026/11/512916.html",
-    "source": "量子位",
-    "summary": "30秒一镜到底，可自动编排镜头",
-    "tldr": "30秒一镜到底，可自动编排镜头",
-    "keyPoints": [],
-    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
-    "category": "开源工具",
-    "heat": 92,
-    "time": "14 小时前"
-  },
-  {
-    "id": 5,
-    "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-    "url": "https://www.qbitai.com/2026/11/512897.html",
-    "source": "量子位",
-    "summary": "李斌坦言：不做AI变革可能活不下去",
-    "tldr": "李斌坦言：不做AI变革可能活不下去",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 90,
-    "time": "17 小时前"
-  },
-  {
-    "id": 6,
-    "title": "沈向洋刚讲了好多AI非共识啊",
-    "url": "https://www.qbitai.com/2026/11/512840.html",
-    "source": "量子位",
-    "summary": "“灵巧手是人类最后的尊严”",
-    "tldr": "“灵巧手是人类最后的尊严”",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
     "heat": 88,
-    "time": "17 小时前"
-  },
-  {
-    "id": 7,
-    "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
-    "url": "https://www.qbitai.com/2026/11/512828.html",
-    "source": "量子位",
-    "summary": "叠满海淀最强AI Buff。",
-    "tldr": "叠满海淀最强AI Buff。",
-    "keyPoints": [],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
-    "heat": 86,
     "time": "18 小时前"
   }
 ]
