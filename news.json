@@ -1,56 +1,86 @@
 [
   {
     "id": 1,
-    "title": "DeepSeek APP突然更新账单，网友：要收费了？",
-    "url": "https://www.qbitai.com/2026/11/513305.html",
+    "title": "200亿美元…史上最贵AI自媒体",
+    "url": "https://www.qbitai.com/2026/11/513577.html",
     "source": "量子位",
-    "summary": "网页App双端亮出聊天账单",
-    "tldr": "网页App双端亮出聊天账单",
-    "keyPoints": [],
-    "worthReading": "本文聚焦产品动态方向，与 AI 行业趋势相关。",
-    "category": "产品动态",
+    "summary": "这可能是有史以来，ROI（投资回报率）最高的个人博客。",
+    "tldr": "这可能是有史以来，ROI（投资回报率）最高的个人博客。",
+    "keyPoints": [
+      "这可能是有史以来，ROI（投资回报率）最高的个人博客。"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
     "heat": 98,
-    "time": "23 小时前"
+    "time": "4 小时前"
   },
   {
     "id": 2,
-    "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
-    "url": "https://www.qbitai.com/2026/11/513194.html",
+    "title": "谷歌Tibo亲授Gemini 4 Neon内部打开方式！第一步：删光旧规则",
+    "url": "https://www.qbitai.com/2026/11/513555.html",
     "source": "量子位",
-    "summary": "企业需要有用的 AI",
-    "tldr": "企业需要有用的 AI",
+    "summary": "这两天转投Gemini的有福了！",
+    "tldr": "这两天转投Gemini的有福了！",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 96,
-    "time": "1 天前"
+    "time": "5 小时前"
   },
   {
     "id": 3,
-    "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
-    "url": "https://www.qbitai.com/2026/11/513163.html",
+    "title": "刚刚，8192张昇腾训出285B大模型！权重开源，32页训练手册全公开",
+    "url": "https://www.qbitai.com/2026/11/513535.html",
     "source": "量子位",
-    "summary": "Quickwit查询总耗时降31%，最高降87%",
-    "tldr": "Quickwit查询总耗时降31%，最高降87%",
+    "summary": "国产芯片训千亿大模型，终于有人把施工图纸摊开了",
+    "tldr": "国产芯片训千亿大模型，终于有人把施工图纸摊开了",
     "keyPoints": [
-      "Quickwit查询总耗时降31%，最高降87%"
+      "国产芯片训千亿大模型，终于有人把施工图纸摊开了"
     ],
-    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
-    "category": "行业资本",
+    "worthReading": "本文聚焦开源工具方向，与 AI 行业趋势相关。",
+    "category": "开源工具",
     "heat": 94,
-    "time": "1 天前"
+    "time": "5 小时前"
   },
   {
     "id": 4,
-    "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
-    "url": "https://www.qbitai.com/2026/11/513125.html",
+    "title": "xAI联创张国栋戴自航创业，90天搓出互联网时光机",
+    "url": "https://www.qbitai.com/2026/11/513507.html",
     "source": "量子位",
-    "summary": "",
-    "tldr": "",
+    "summary": "这还只是热身",
+    "tldr": "这还只是热身",
     "keyPoints": [],
     "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
     "category": "行业资本",
     "heat": 92,
-    "time": "1 天前"
+    "time": "6 小时前"
+  },
+  {
+    "id": 5,
+    "title": "用Claude证明黎曼猜想的90后数学家，收到了致命威胁",
+    "url": "https://www.qbitai.com/2026/11/513463.html",
+    "source": "量子位",
+    "summary": "为了证明黎曼猜想，他已经准备了十几年",
+    "tldr": "为了证明黎曼猜想，他已经准备了十几年",
+    "keyPoints": [],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 90,
+    "time": "7 小时前"
+  },
+  {
+    "id": 6,
+    "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+    "url": "https://www.qbitai.com/2026/11/513428.html",
+    "source": "量子位",
+    "summary": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+    "tldr": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+    "keyPoints": [
+      "这种大模型现做的即时交互工具，能不能来一波知识付费？"
+    ],
+    "worthReading": "本文聚焦行业资本方向，与 AI 行业趋势相关。",
+    "category": "行业资本",
+    "heat": 88,
+    "time": "13 小时前"
   }
 ]
